@@ -30,20 +30,10 @@ prose:
             element: text
             label: "Indicator name"
             scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
-            scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
             scope: global
       - name: "indicator_definition"
         field:
@@ -55,20 +45,15 @@ prose:
             element: text
             label: "UN designated tier"
             scope: global
-      - name: "un_custodian_agency"
+      - name: "un_custodial_agency"
         field:
             element: text
-            label: "UN custodian agency"
+            label: "UN custodial agency"
             scope: global
       - name: "goal_meta_link"
         field:
             element: text
             label: "Link to UN metadata"
-            scope: global
-      - name: "goal_meta_link_page"
-        field:
-            element: text
-            label: "Page in link to UN metadata"
             scope: global
       - name: "goal_meta_link_text"
         field:
@@ -91,16 +76,6 @@ prose:
         field:
             element: text
             label: Date of national source publication
-            scope: "national"
-      - name: graph_status_notes
-        field:
-            element: text
-            label: Graph status notes
-            scope: "national"
-      - name: graph_type_description
-        field:
-            element: text
-            label: Graph type description
             scope: "national"
       - name: method_of_computation
         field:
@@ -167,7 +142,7 @@ prose:
             element: textarea
             label: Rationale interpretation
             scope: "national"
-      - name: unit_of_measure
+      - name: computation_units
         field:
             element: text
             label: Unit of measure
@@ -203,6 +178,16 @@ prose:
             label: Variable unit label
             scope: "national"
        ######### Data Info #########
+      - name: "indicator"
+        field:
+            element: hidden
+            label: "Indicator number"
+            scope: data
+      - name: "target_id"
+        field:
+            element: text
+            label: "Target number"
+            scope: data
       - name: "reporting_status"
         field:
             element: select
@@ -271,35 +256,45 @@ prose:
             label: Source 1 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_1
+        field:
+            element: text
+            label: Organization
+            scope: source_1
       - name: source_agency_staff_email_1
         field:
             element: text
-            label: Source 1 Agency Staff Email
+            label: Agency Staff Email
             scope: source_1
       - name: source_agency_staff_name_1
         field:
             element: text
-            label: Source 1 Agency Staff Name
+            label: Agency Staff Name
             scope: source_1
       - name: source_agency_survey_dataset_1
         field:
             element: text
-            label: Source 1 Agency Survey Dataset
+            label: Agency Survey Dataset
             scope: source_1
       - name: source_notes_1
         field:
             element: text
-            label: Source 1 Notes
+            label: Notes
             scope: source_1
       - name: source_title_1
         field:
             element: text
-            label: Source 1 Title
+            label: Title
             scope: source_1
       - name: source_url_1
         field:
             element: text
-            label: Source 1 URL
+            label: URL
+            scope: source_1
+      - name: source_url_text_1
+        field:
+            element: text
+            label: URL Text
             scope: source_1
       ## Source 2
       - name: source_active_2
@@ -308,33 +303,43 @@ prose:
             label: Source 2 active
             help: Whether or not to display this source
             value: true
+      - name: source_organisation_2
+        field:
+            element: text
+            label: Organization
+            scope: source_2
       - name: source_agency_staff_email_2
         field:
             element: text
-            label: Source 2 Agency Staff Email
+            label: Agency Staff Email
             scope: source_2
       - name: source_agency_staff_name_2
         field:
             element: text
-            label: Source 2 Agency Staff Name
+            label: Agency Staff Name
             scope: source_2
       - name: source_agency_survey_dataset_2
         field:
             element: text
-            label: Source 2 Agency Survey Dataset
+            label: Agency Survey Dataset
             scope: source_2
       - name: source_notes_2
         field:
             element: text
-            label: Source 2 Notes
+            label: Notes
             scope: source_2
       - name: source_title_2
         field:
             element: text
-            label: Source 2 Title
+            label: Title
             scope: source_2
       - name: source_url_2
         field:
             element: text
-            label: Source 2 URL
+            label: URL
+            scope: source_2
+      - name: source_url_text_2
+        field:
+            element: text
+            label: URL Text
             scope: source_2
