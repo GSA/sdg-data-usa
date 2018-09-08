@@ -106,10 +106,10 @@ def update_metadata(indicator):
             if field_to_drop in post.metadata:
                 del post.metadata[field_to_drop]
 
-        # Add subnational data.
+        # Add subnational data (disabled for now).
         if post.metadata['indicator'] in subnational_indicators:
             post.metadata['data_geocode_regex'] = '.*'
-            post.metadata['data_show_map'] = True
+            post.metadata['data_show_map'] = False
 
         # Convert the source data keys.
         post.metadata['source_active_1'] = True
