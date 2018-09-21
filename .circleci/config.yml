@@ -70,7 +70,7 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             # Replace this with the fingerprint for your "gh-stg" key.
-            - "c4:b0:de:c4:a7:80:69:a8:9e:c8:01:4a:c4:7b:87:53"
+            - "93:ce:ee:c9:1b:8f:5b:64:a7:d1:b5:11:32:d6:b3:eb"
       - attach_workspace:
           at: /tmp/build
       - run:
