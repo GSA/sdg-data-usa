@@ -82,15 +82,15 @@ jobs:
     working_directory: ~/repo
     steps:
       - checkout
-      - add_ssh_keys:
-          finterprints:
-            # Replace this with the fingerprint for your "gh-prod" key.
-            - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
       - attach_workspace:
           at: /tmp/build
       - run:
-          name: Deploy to production Github
-          command: bash scripts/deploy/circleci/deploy_prod.sh
+          name: Install awscli
+          command: sudo pip install awscli
+      - run:
+          name: Deploy to S3
+          command: aws s3 sync --acl public-read --sse --delete /tmp/build/_site s3://sdg-data-test.data.gov
+
 workflows:
   version: 2
   test:
