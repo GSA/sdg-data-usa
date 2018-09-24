@@ -84,8 +84,8 @@ jobs:
       - checkout
       - add_ssh_keys:
           finterprints:
-            # Replace this with the fingerprint for your "gh-prod" key.
-            - "b1:be:db:b2:a7:8d:69:c6:41:78:7f:b6:5d:87:ed:5c"
+            # Replace this with the fingerprint for your "gh-stg" key.
+            - "93:ce:ee:c9:1b:8f:5b:64:a7:d1:b5:11:32:d6:b3:eb"
       - attach_workspace:
           at: /tmp/build
       - run:
