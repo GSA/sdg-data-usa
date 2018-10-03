@@ -68,10 +68,15 @@ def update_metadata(indicator):
         if 'graph' not in post.metadata or post['graph'] is None or post['graph'] is '':
             graph_type = None
             data_non_statistical = True
-        elif post['graph'] is 'bar' or post['graph'] is 'binary':
+        elif post['graph'] is 'bar':
             graph_type = 'bar'
+        elif post['graph'] is 'binary':
+            graph_type = 'binary'
         post.metadata['data_non_statistical'] = data_non_statistical
         post.metadata['graph_type'] = graph_type
+        # Clean up the unused variable.
+        if 'graph' in post.metadata:
+            del post.metadata['graph']
 
         # Set some defaults.
         for field_with_defaults in fields_with_defaults:
