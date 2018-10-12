@@ -57,7 +57,7 @@ def get_metadata(csv_filename):
 def fix_data_issues(df):
     changes = {
         'yes': 1,
-        'no': 0,
+        'no': -1,
         'not_applicable': 0
     }
     df[HEADER_VALUE_TIDY].replace(changes, inplace=True)

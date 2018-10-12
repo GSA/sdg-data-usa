@@ -45,9 +45,9 @@ def update_metadata(indicator):
         # Figure out the reporting_status.
         if 'reporting_status' not in post.metadata:
             reporting_status = 'notstarted'
-            if 'source_url' in post.metadata and post['source_url'] is not None and post['source_url'] is not '':
+            if 'source_url' in post.metadata and post['source_url'] != None and post['source_url'] != '':
                 reporting_status = 'inprogress'
-                if 'graph' in post.metadata and post['graph'] is not None and post['graph'] is not '':
+                if 'graph' in post.metadata and post['graph'] != None and post['graph'] != '':
                     reporting_status = 'complete'
             post.metadata['reporting_status'] = reporting_status
 
@@ -56,8 +56,8 @@ def update_metadata(indicator):
             post.metadata['published'] = False
 
         # Make sure it has a graph_title key.
-        if 'graph_title' not in post.metadata or post['graph_title'] is None or post['graph_title'] is '':
-            if 'actual_indicator_available' in post.metadata and post['actual_indicator_available'] is not None:
+        if 'graph_title' not in post.metadata or post['graph_title'] == None or post['graph_title'] == '':
+            if 'actual_indicator_available' in post.metadata and post['actual_indicator_available'] != None:
                 post.metadata['graph_title'] = post['actual_indicator_available']
             else:
                 post.metadata['graph_title'] = post['title']
@@ -65,13 +65,18 @@ def update_metadata(indicator):
         # Figure out the graph_type and data_non_statistical.
         data_non_statistical = False
         graph_type = 'line'
-        if 'graph' not in post.metadata or post['graph'] is None or post['graph'] is '':
+        if 'graph' not in post.metadata or post['graph'] == None or post['graph'] == '':
             graph_type = None
             data_non_statistical = True
-        elif post['graph'] is 'bar' or post['graph'] is 'binary':
+        elif post['graph'] == 'bar':
             graph_type = 'bar'
+        elif post['graph'] == 'binary':
+            graph_type = 'binary'
         post.metadata['data_non_statistical'] = data_non_statistical
         post.metadata['graph_type'] = graph_type
+        # Clean up the unused variable.
+        if 'graph' in post.metadata:
+            del post.metadata['graph']
 
         # Set some defaults.
         for field_with_defaults in fields_with_defaults:
@@ -146,7 +151,7 @@ def main():
         if result:
             for key in result.metadata:
                 all_keys[key] = True
-        status = status & (result is not None)
+        status = status & (result != None)
 
     #for key in all_keys.keys():
     #    print(key)
