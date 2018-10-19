@@ -137,11 +137,6 @@ prose:
             element: text
             label: Disaggregation geography
             scope: "national"
-      - name: rationale_interpretation
-        field:
-            element: textarea
-            label: Rationale interpretation
-            scope: "national"
       - name: computation_units
         field:
             element: text
@@ -232,6 +227,11 @@ prose:
             help: If this box is checked then the prescence of a GeoCode field will trigger a map
             value: false
             scope: data
+      - name: rationale_interpretation
+        field:
+            element: textarea
+            label: Rationale interpretation
+            scope: "data"
       ######### Chart Info #########
       - name: "graph_type"
         field:
