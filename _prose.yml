@@ -97,11 +97,6 @@ prose:
             element: text
             label: U.S. method of computation
             scope: "national"
-      - name: indicator_variable
-        field:
-            element: text
-            label: Indicator variable
-            scope: "national"
       - name: variable_description
         field:
             element: textarea
@@ -232,6 +227,11 @@ prose:
             help: If this box is checked then the prescence of a GeoCode field will trigger a map
             value: false
             scope: data
+      - name: indicator_variable
+        field:
+            element: text
+            label: Indicator variable
+            scope: "data"
       ######### Chart Info #########
       - name: "graph_type"
         field:
