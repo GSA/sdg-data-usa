@@ -260,7 +260,7 @@ prose:
         field:
             element: text
             label: Agency Staff Email
-            scope: source_1
+            scope: data
       - name: source_agency_staff_name_1
         field:
             element: text
@@ -307,7 +307,7 @@ prose:
         field:
             element: text
             label: Agency Staff Email
-            scope: source_2
+            scope: data
       - name: source_agency_staff_name_2
         field:
             element: text
