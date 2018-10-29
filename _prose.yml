@@ -230,13 +230,8 @@ prose:
       ######### Chart Info #########
       - name: "graph_type"
         field:
-            element: select
+            element: hidden
             label: "Graph type"
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
             scope: graph
       - name: "graph_title"
         field:
