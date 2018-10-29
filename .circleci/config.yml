@@ -93,16 +93,16 @@ jobs:
           command: bash scripts/deploy/circleci/deploy_prod.sh
 workflows:
   version: 2
-  test:
+  build-deploy:
     jobs:
       - test:
           filters:
             branches:
               ignore:
                 - gh-pages
-  build-deploy:
-    jobs:
       - build:
+          requires:
+            - test
           filters:
             branches:
               only:
