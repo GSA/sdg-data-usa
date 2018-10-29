@@ -173,6 +173,21 @@ prose:
             element: hidden
             label: "Indicator number"
             scope: data
+      - name: "indicator_sort_order"
+        field:
+            element: hidden
+            label: "Indicator Sort Order"
+            scope: data
+      - name: "has_metadata"
+        field:
+            element: hidden
+            label: "Has metadata"
+            scope: data
+      - name: "national_geographical_coverage"
+        field:
+            element: hidden
+            label: "National Geographical Coverage"
+            scope: data
       - name: "target_id"
         field:
             element: text
@@ -230,13 +245,8 @@ prose:
       ######### Chart Info #########
       - name: "graph_type"
         field:
-            element: select
+            element: hidden
             label: "Graph type"
-            options:
-              - name: 'line'
-                value: 'line'
-              - name: 'bar'
-                value: 'bar'
             scope: graph
       - name: "graph_title"
         field:
@@ -297,7 +307,7 @@ prose:
             element: checkbox
             label: Source 2 active
             help: Whether or not to display this source
-            value: true
+            value: false
       - name: source_organisation_2
         field:
             element: text
