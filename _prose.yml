@@ -99,24 +99,24 @@ prose:
             scope: "national"
       - name: variable_description
         field:
-            element: textarea
+            element: hidden
             label: Variable description
-            scope: "national"
+            scope: "data"
       - name: variable_notes
         field:
-            element: textarea
+            element: hidden
             label: Variable notes
-            scope: "national"
+            scope: "data"
       - name: indicator_variable_2
         field:
-            element: text
+            element: hidden
             label: Indicator variable 2
-            scope: "national"
+            scope: "data"
       - name: indicator_variable_3
         field:
-            element: text
+            element: hidden
             label: Indicator variable 3
-            scope: "national"
+            scope: "data"
       - name: comments_and_limitations
         field:
             element: textarea
@@ -159,14 +159,14 @@ prose:
             scope: "national"
       - name: graph_negative
         field:
-            element: text
+            element: hidden
             label: Graph negative
-            scope: "national"
+            scope: "data"
       - name: variable_unit_label
         field:
-            element: text
+            element: hidden
             label: Variable unit label
-            scope: "national"
+            scope: "data"
        ######### Data Info #########
       - name: "indicator"
         field:
