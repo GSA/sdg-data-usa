@@ -1,4 +1,4 @@
-year,disaster_losses,dsast_loss_pct_global_gdp,dsast_loss_pct_us_gdp
+year,disaster_losses,all|Units:dsast_loss_pct_global_gdp,all|Units:dsast_loss_pct_us_gdp
 2000,0,0,0
 2001,19.2,0.06,0.18
 2002,0,0,0
