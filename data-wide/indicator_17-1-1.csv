@@ -1,4 +1,4 @@
-year,crnt_rcpts,crnt_tx_rcpts,ctrbtns_govt_soc_ins,inc_rcpts_asts,crnt_trnsfr_rcpts,crnt_srpls_govt_entrprs
+year,crnt_rcpts,Source:crnt_tx_rcpts,Source:ctrbtns_govt_soc_ins,Source:inc_rcpts_asts,Source:crnt_trnsfr_rcpts,Source:crnt_srpls_govt_entrprs
 2000,30.51,21.46,6.90,1.16,0.89,0.10
 2001,29.40,20.41,6.94,1.09,0.92,0.05
 2002,27.07,18.28,6.88,0.91,0.94,0.06
