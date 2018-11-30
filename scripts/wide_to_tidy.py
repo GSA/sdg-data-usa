@@ -84,7 +84,7 @@ def tidy_dataframe(df, indicator_variable):
         # indicator variable, such as: all|Unit:metric, all|Unit:imperial
         indicator_variable_has_units = False
         for column in columns:
-            if column.startswith(indicator_variable + '|Unit'):
+            if column.startswith(indicator_variable + '|Units'):
                 indicator_variable_has_units = True
                 break
         # We didn't find that special case of an indicator variable with units,
