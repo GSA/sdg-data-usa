@@ -1,4 +1,4 @@
-year,tot_new_hiv_dgnss_per_100000_pop_all_age,male_13_pls_y,female_13_pls_y,13_24_y,25_34_y,35_44_y,45_54_y,black_nh,white_nh,hispanic
+year,tot_new_hiv_dgnss_per_100000_pop_all_age,sex:male_13_pls_y,sex:female_13_pls_y,age:13_24_y,age:25_34_y,age:35_44_y,age:45_54_y,race_ethnicity:black_nh,race_ethnicity:white_nh,race_ethnicity:hispanic
 2000,,,,,,,,,,
 2001,,,,,,,,,,
 2002,,,,,,,,,,

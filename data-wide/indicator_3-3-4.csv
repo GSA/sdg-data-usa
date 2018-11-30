@@ -1,4 +1,4 @@
-year,total,female,male,lt_20_yrs,20_29_yrs,40-59_yrs,gt_59_yrs,white_nh,black_nh,asian_pi_nh,aian_nh,hispanic
+year,total,sex:female,sex:male,age:lt_20_yrs,age:20_29_yrs,age:40_59_yrs,age:gt_59_yrs,race_ethnicity:white_nh,race_ethnicity:black_nh,race_ethnicity:asian_pi_nh,race_ethnicity:aian_nh,race_ethnicity:hispanic
 2000,,,,,,,,,,,,
 2001,,,,,,,,,,,,
 2002,,,,,,,,,,,,
