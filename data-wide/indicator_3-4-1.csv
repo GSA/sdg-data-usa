@@ -1,4 +1,4 @@
-year,crude_rate,age_adjusted_rate
+year,all|Units:crude_rate,all|Units:age_adjusted_rate
 1999,606.6,620.5
 2000,597.4,608.5
 2001,586.2,594.5
