@@ -80,7 +80,18 @@ def tidy_dataframe(df, indicator_variable):
     # If the indicator specifies an 'indicator_variable' that does not actually
     # exist in the CSV, decide what to do.
     if indicator_variable is not None and indicator_variable not in columns:
-        indicator_variable = None
+        # There is the chance that the columns contain Unit versions of the
+        # indicator variable, such as: all|Unit:metric, all|Unit:imperial
+        indicator_variable_has_units = False
+        for column in columns:
+            if column.startswith(indicator_variable + '|Unit'):
+                indicator_variable_has_units = True
+                break
+        # We didn't find that special case of an indicator variable with units,
+        # then proceed as if the indicator variable is unknown. We will have to
+        # guess it below, by assuming it's the first available column.
+        if not indicator_variable_has_units:
+            indicator_variable = None
     # In some cases we just have to guess at the main column.
     main_column_picked = False
     # Loop through each column in the CSV file.
@@ -134,7 +145,7 @@ def tidy_dataframe(df, indicator_variable):
                     del melted[indicator_variable]
                     # That's it - we'll now continue looping to get the actual
                     # "Unit" category.
-                    merged = merged.merge(melted, on=[HEADER_YEAR_WIDE, indicator_variable], how='outer')
+                    merged = melted
                 else:
                     category_parts = category_in_column.split(':')
                     category_name = category_parts[0]
