@@ -1,4 +1,4 @@
-year,pct_vlnt_vctmns,Sex:Males,Sex:Females
+year,pct_vlnt_vctmns,sex:males,sex:females
 2000,46.0,43.9,48.8
 2001,49.0,48.4,49.7
 2002,50.8,46.9,54.9

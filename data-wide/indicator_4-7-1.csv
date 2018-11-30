@@ -1,4 +1,4 @@
-year,i4_7_1_total,Sex:i4_7_1_male,Sex:i4_7_1_female,Disability status:i4_7_1_disabilities,Disability status:i4_7_1_nodisabilities,Urbanicity:i4_7_1_urban,Urbanicity:i4_7_1_suburban,Urbanicity:i4_7_1_town,Urbanicity:i4_7_1_rural
+year,i4_7_1_total,sex:i4_7_1_male,sex:i4_7_1_female,disability_status:i4_7_1_disabilities,disability_status:i4_7_1_nodisabilities,urbanicity:i4_7_1_urban,urbanicity:i4_7_1_suburban,urbanicity:i4_7_1_town,urbanicity:i4_7_1_rural
 2007,,,,,,,,,
 2008,,,,,,,,,
 2009,,,,,,,,,

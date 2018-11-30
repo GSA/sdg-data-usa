@@ -1,4 +1,4 @@
-year,tot_proportion_belownatpov_line,Sex:Male,Sex:Female,Age:Under 18 years,Age:18 to 64 years,Age:65 and over,Note
+year,tot_proportion_belownatpov_line,sex:male,sex:female,age:under_18_years,age:18_to_64_years,age:65_and_over,note
 2000,11.3,9.9,12.6,16.2,9.6,9.9,"Implementation of 2000 Census-based population controls and a 28,000 household sample expansion"
 2001,11.7,10.4,12.9,16.3,10.1,10.1,
 2002,12.1,10.9,13.3,16.7,10.6,10.4,
