@@ -27,7 +27,9 @@ FOLDER_NAME_CONVERSIONS = {
 def tidy_blank_dataframe():
     """This starts a blank dataframe with our required tidy columns."""
 
+    # Start with two columns, year and value.
     blank = pd.DataFrame({HEADER_YEAR_WIDE:[], HEADER_VALUE_TIDY:[]})
+    # Make sure the year column is typed for integers.
     blank[HEADER_YEAR_WIDE] = blank[HEADER_YEAR_WIDE].astype(int)
 
     return blank
@@ -43,11 +45,15 @@ def tidy_melt(df, value_var, var_name):
         value_name=HEADER_VALUE_TIDY)
 
 def get_metadata(csv_filename):
+    """This gets metadata for a particular indicator, from YAML in `meta`."""
     meta_path = os.path.join(FOLDER_META, csv_filename \
         .split('indicator_')[1]                        \
         .split('.csv')[0] + '.md')
     with open(meta_path, 'r') as stream:
         try:
+            # Currently the YAML in `meta` has "front matter" and "content",
+            # and we only want the "front matter". So we have to get a bit
+            # fancy below.
             for doc in yaml.safe_load_all(stream):
                 if hasattr(doc, 'items'):
                     return doc
@@ -55,6 +61,7 @@ def get_metadata(csv_filename):
             print(e)
 
 def fix_data_issues(df):
+    """Make any changes/alterations in the data during the conversion."""
     changes = {
         'yes': 1,
         'no': -1,
@@ -66,28 +73,34 @@ def fix_data_issues(df):
 def tidy_dataframe(df, indicator_variable):
     """This converts the data from wide to tidy, based on the column names."""
 
+    # Start with our base 2-column (year, value) datafame.
     tidy = tidy_blank_dataframe()
+    # Get the columns of the source (wide) dataframe.
     columns = df.columns.tolist()
     # If the indicator specifies an 'indicator_variable' that does not actually
-    # exist in the CSV, treat it as None.
+    # exist in the CSV, decide what to do.
     if indicator_variable is not None and indicator_variable not in columns:
         indicator_variable = None
-    # In some cases we just have to guess at the main column, and we don't
-    # want to guess twice.
+    # In some cases we just have to guess at the main column.
     main_column_picked = False
     # Loop through each column in the CSV file.
     for column in columns:
         if indicator_variable is None and column != HEADER_YEAR_WIDE and not main_column_picked:
             # If the indicator doesn't specify an indicator variable, and this
-            # is not the Year column, then assume it's the main column. The
-            # main column gets converted into rows without any categories.
-            main_column_picked = True
+            # is not the Year column, then guess it's the main column.
+            main_column_picked = True # Remember that we've guessed already.
+            # Here we "melt" or pivot the dataframe so that the column becomes
+            # values in the 'Value' column. Here we don't care what the actual
+            # column name was, so it gets forgotten.
             melted = tidy_melt(df, column, column)
+            # Remove the left-over column.
             del melted[column]
+            # Append this on to our "tidy" dataframe.
             tidy = tidy.append(melted)
         elif column == indicator_variable:
             # Otherwise if this is the indicator variable, use this as the main
-            # column.
+            # column. This is essentially the same result as above, only here
+            # we are not guessing.
             melted = tidy_melt(df, indicator_variable, indicator_variable)
             del melted[indicator_variable]
             tidy = tidy.append(melted)
@@ -97,8 +110,13 @@ def tidy_dataframe(df, indicator_variable):
             category_parts = column.split(':')
             category_name = category_parts[0]
             category_value = category_parts[1]
+            # This time the "melt" produces a new column with named according to
+            # 'category_name'.
             melted = tidy_melt(df, column, category_name)
+            # Immediately populate the new column with values according to
+            # 'category_value'.
             melted[category_name] = category_value
+            # As before, append it to our growing 'tidy' dataframe.
             tidy = tidy.append(melted)
         elif '|' in column and ':' in column:
             # Columns matching the pattern 'category1:value1|category2:value2'
@@ -110,8 +128,12 @@ def tidy_dataframe(df, indicator_variable):
                 if category_in_column == indicator_variable:
                     # Handle the case where the 'all' column has units.
                     # Eg: all|unit:gdp_global, all|unit:gdp_national.
+                    # First we "melt" in the Value column.
                     melted = tidy_melt(df, column, indicator_variable)
+                    # And then immediately remove the indicator_variable column.
                     del melted[indicator_variable]
+                    # That's it - we'll now continue looping to get the actual
+                    # "Unit" category.
                     merged = merged.merge(melted, on=[HEADER_YEAR_WIDE, indicator_variable], how='outer')
                 else:
                     category_parts = category_in_column.split(':')
@@ -175,7 +197,9 @@ def tidy_csv_from_subnational_folder(csv, folder_name, subfolder_name):
 def tidy_csv(csv, subnational_folders):
     """This runs all checks and processing on a CSV file and reports exceptions."""
 
+    # Get the filename without the .csv.
     csv_filename = os.path.split(csv)[-1]
+    # Get the metadata for that indicator.
     metadata = get_metadata(csv_filename)
 
     try:
@@ -234,6 +258,7 @@ def main():
             subnational_folders[folder] = subfolders
 
     for csv in csvs:
+        # Process each of the CSVs.
         status = status & tidy_csv(csv, subnational_folders)
 
     return status
