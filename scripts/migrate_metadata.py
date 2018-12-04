@@ -8,9 +8,17 @@ platform.
 import glob
 import os.path
 import frontmatter
+from urllib.parse import urlparse
 
 # For more readable code below.
 FOLDER_META = 'meta'
+
+def is_url(url):
+  try:
+    result = urlparse(url)
+    return all([result.scheme, result.netloc])
+  except ValueError:
+    return False
 
 def update_metadata(indicator):
 
@@ -122,12 +130,32 @@ def update_metadata(indicator):
         fields_to_delete = []
         for key in post.metadata:
             if key.startswith('source') and not key.endswith('_1'):
-                fields_to_add[key + '_1'] = post.metadata[key]
-                fields_to_delete.append(key)
+                # Special case of URL fields.
+                if key == 'source_url':
+                    fields_to_delete.append('source_url')
+                    if is_url(post.metadata['source_url']):
+                        fields_to_add['source_url_1'] = post.metadata['source_url']
+                        fields_to_add['source_url_text_1'] = post.metadata['source_url']
+                    else:
+                        # Move invalid URLs to the "source_notes" field.
+                        fields_to_add['source_notes_1'] = post.metadata['source_url']
+                        fields_to_delete.append('source_notes')
+                elif key == 'source_notes':
+                    # Skip if we already took care of notes.
+                    if 'source_notes_1' in fields_to_add:
+                        continue
+                    else:
+                        fields_to_add['source_notes_1'] = post.metadata['source_notes']
+                    fields_to_delete.append('source_notes')
+                # For other source fields just add a '_1' to the end.
+                else:
+                    fields_to_add[key + '_1'] = post.metadata[key]
+                    fields_to_delete.append(key)
         for key in fields_to_add:
             post.metadata[key] = fields_to_add[key]
         for key in fields_to_delete:
-            del post.metadata[key]
+            if key in post.metadata:
+                del post.metadata[key]
 
     with open(indicator, 'w') as f:
         f.write(frontmatter.dumps(post))
@@ -146,7 +174,24 @@ def main():
     # Compile all the possible metdata keys.
     all_keys = {}
 
+    # Target specific indicators.
+    indicators_to_migrate = [
+        FOLDER_META + '/' + '8-8-1' + '.md',
+        FOLDER_META + '/' + '8-6-1' + '.md',
+        FOLDER_META + '/' + '8-5-2' + '.md',
+        FOLDER_META + '/' + '8-5-1' + '.md',
+        FOLDER_META + '/' + '9-2-2' + '.md',
+        FOLDER_META + '/' + '8-2-1' + '.md',
+        FOLDER_META + '/' + '5-4-1' + '.md',
+    ]
+    # Or don't, and just do all indicators.
+    indicators_to_migrate = False
+
     for indicator in indicators:
+        if indicators_to_migrate:
+            if indicator not in indicators_to_migrate:
+                continue
+
         result = update_metadata(indicator)
         if result:
             for key in result.metadata:
