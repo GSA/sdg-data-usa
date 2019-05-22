@@ -2,6 +2,62 @@
 """
 This script converts the "wide" data in `data-wide` into "tidy" CSVs in `data`.
 
+--------------------------------
+Disaggregation naming convention
+--------------------------------
+
+While this script can simply create single aggregate series, it also has the
+capability of creating any number of disaggregated series. To do this, the
+"wide" CSV column headers must follow a strict naming convention. Here are the
+rules for that convention:
+
+1. If there is an 'all' column, it is assumed to be the aggregated value for the
+   year, and will be what is displayed on the graph by default.
+
+2. Columns to be converted to a disaggregated series must follow this format:
+
+   [category]:[value]
+
+   For example:
+
+   gender:female
+
+3. If a column contains a combination of two or more distinct disaggregations,
+   like age and gender, they can be combined with a pipe (|) character, like so:
+
+   [category1]:[value]|[category2]:[value]
+
+   For example:
+
+   gender:female|age:18-64
+
+4. In Open SDG, "Units" is a special disaggregation to be used for units of
+   measurement. This can be used in combination with any other dissagregations,
+   using the pipe character, as normal. It can also be used in combination with
+   the 'all' column, such as in this example of two column headers:
+
+   all|Units:inches,all|Units:feet
+
+-----------------------
+Handling of legacy data
+-----------------------
+
+Historically the US data has allowed any arbitrary column headers, and has used
+a metadata field called 'indicator_variable' to decide which column is graphed.
+As described above, an alternative to specifying the 'indicator_variable' is to
+give the desired column a header of 'all'.
+
+However, to support existing data, if an indicator has no 'all' column, and its
+metadata has an 'indicator_variable' value which is an actual column, this
+column will be treated as if it were an 'all' column.
+
+Note that if an indicator has no 'all' column, and no valid 'indicator_variable'
+columns, AND does not use the naming convention detailed above to produce
+disaggregated series, an exception will be raised and the wide-to-tidy conversion
+will not complete.
+
+So it is recommended that this script be run as part of a per-pull-request
+testing job.
 """
 
 import glob
@@ -17,15 +73,16 @@ HEADER_VALUE_TIDY = 'Value'
 FOLDER_DATA_CSV_TIDY = 'data'
 FOLDER_DATA_CSV_WIDE = 'data-wide'
 FOLDER_META = 'meta'
-FOLDER_DATA_CSV_SUBNATIONAL = 'data-wide/subnational'
 
-# Allows for more human-friendly folder names in the repository.
-FOLDER_NAME_CONVERSIONS = {
-    'state': 'GeoCode',
-}
 
 def tidy_blank_dataframe():
-    """This starts a blank dataframe with our required tidy columns."""
+    """This starts a blank dataframe with our required tidy columns.
+
+    Returns
+    -------
+    Dataframe
+        A blank dataframe ready to receive tidy data.
+    """
 
     # Start with two columns, year and value.
     blank = pd.DataFrame({HEADER_YEAR_WIDE:[], HEADER_VALUE_TIDY:[]})
@@ -34,8 +91,24 @@ def tidy_blank_dataframe():
 
     return blank
 
+
 def tidy_melt(df, value_var, var_name):
-    """This runs a Pandas melt() call with common parameters."""
+    """This runs a Pandas melt() call with common parameters.
+
+    Paramters
+    ---------
+    df : Dataframe
+        The incoming dataframe
+    value_var : string
+        TODO: describe this parameter
+    var_name : string
+        TODO: describe this parameter
+
+    Returns
+    -------
+    Dataframe
+        The incoming dataframe, having been run through pd.melt().
+    """
 
     return pd.melt(
         df,
@@ -44,8 +117,20 @@ def tidy_melt(df, value_var, var_name):
         var_name=var_name,
         value_name=HEADER_VALUE_TIDY)
 
+
 def get_metadata(csv_filename):
-    """This gets metadata for a particular indicator, from YAML in `meta`."""
+    """This gets metadata for a particular indicator, from YAML in `meta`.
+
+    Parameters
+    ----------
+    csv_filename : string
+        The filename of a CSV data file
+
+    Returns
+    -------
+    dict
+        A dict of key/value metadata pairs
+    """
     meta_path = os.path.join(FOLDER_META, csv_filename \
         .split('indicator_')[1]                        \
         .split('.csv')[0] + '.md')
@@ -60,8 +145,20 @@ def get_metadata(csv_filename):
         except yaml.YAMLError as e:
             print(e)
 
+
 def fix_data_issues(df):
-    """Make any changes/alterations in the data during the conversion."""
+    """Make any changes/alterations in the data during the conversion.
+
+    Parameters
+    ----------
+    df : Dataframe
+        The incoming dataframe
+
+    Returns
+    -------
+    Dataframe
+        The incoming dataframe, having had any values altered.
+    """
     changes = {
         'yes': 1,
         'no': -1,
@@ -70,48 +167,80 @@ def fix_data_issues(df):
     df[HEADER_VALUE_TIDY].replace(changes, inplace=True)
     return df
 
-def tidy_dataframe(df, indicator_variable):
-    """This converts the data from wide to tidy, based on the column names."""
+
+def validate_wide_data(df, metadata):
+    """Validate that the source data meets some minimum requirements.
+
+    The requirements are:
+    1. Meets one of the following criteria:
+       * Has an 'all' column
+       * Has a column matching the 'indicator_variable' metadata field
+       * Has a column contains '|' (implying disaggregation)
+
+    Parameters
+    ----------
+    df : Dataframe
+        The dataframe to validate
+    metadata : dict
+        The metadata fields for this indicator
+
+    Returns
+    -------
+    boolean
+        True or False, depending on whether the input was valid
+    """
+
+    columns = df.columns.tolist()
+    if HEADER_ALL in columns:
+        return True
+
+    if 'indicator_variable' in metadata and metadata['indicator_variable'] is not None:
+        if metadata['indicator_variable'] in columns:
+            return True
+
+    for column in columns:
+        if '|' in column:
+            return True
+
+    return False
+
+
+def tidy_dataframe(df, indicator_variable, indicator_id):
+    """This converts the data from wide to tidy, based on the column names.
+
+    Parameters
+    ----------
+    df : Dataframe
+        The Pandas dataframe from the "wide" CSV source data
+    indicator_variable : string or None
+        A specified indicator_variable for this indicator, if any
+    indicator_id : string
+        The id for this indicator
+
+    Returns
+    -------
+    Dataframe
+        A Pandas dataframe converted into the tidy format
+    """
 
     # Start with our base 2-column (year, value) datafame.
     tidy = tidy_blank_dataframe()
     # Get the columns of the source (wide) dataframe.
     columns = df.columns.tolist()
-    # If the indicator specifies an 'indicator_variable' that does not actually
-    # exist in the CSV, decide what to do.
-    if indicator_variable is not None and indicator_variable not in columns:
-        # There is the chance that the columns contain Unit versions of the
-        # indicator variable, such as: all|Unit:metric, all|Unit:imperial
-        indicator_variable_has_units = False
-        for column in columns:
-            if column.startswith(indicator_variable + '|Unit'):
-                indicator_variable_has_units = True
-                break
-        # We didn't find that special case of an indicator variable with units,
-        # then proceed as if the indicator variable is unknown. We will have to
-        # guess it below, by assuming it's the first available column.
-        if not indicator_variable_has_units:
-            indicator_variable = None
-    # In some cases we just have to guess at the main column.
-    main_column_picked = False
+    # Decide if this indicator has an aggregate series (aka "headline").
+    has_headline = False
+    # One way to have a headline is if the 'all' column is in the wide CSV.
+    if HEADER_ALL in columns:
+        has_headline = True
+        indicator_variable = HEADER_ALL
+    # Another way is if there is an indicator_variable and it is in the wide CSV.
+    if not has_headline and indicator_variable is not None and indicator_variable in columns:
+        has_headline = True
+
     # Loop through each column in the CSV file.
     for column in columns:
-        if indicator_variable is None and column != HEADER_YEAR_WIDE and not main_column_picked:
-            # If the indicator doesn't specify an indicator variable, and this
-            # is not the Year column, then guess it's the main column.
-            main_column_picked = True # Remember that we've guessed already.
-            # Here we "melt" or pivot the dataframe so that the column becomes
-            # values in the 'Value' column. Here we don't care what the actual
-            # column name was, so it gets forgotten.
-            melted = tidy_melt(df, column, column)
-            # Remove the left-over column.
-            del melted[column]
-            # Append this on to our "tidy" dataframe.
-            tidy = tidy.append(melted)
-        elif column == indicator_variable:
-            # Otherwise if this is the indicator variable, use this as the main
-            # column. This is essentially the same result as above, only here
-            # we are not guessing.
+        if has_headline and column == indicator_variable:
+            # If this is the indicator variable, create an aggregate series.
             melted = tidy_melt(df, indicator_variable, indicator_variable)
             del melted[indicator_variable]
             tidy = tidy.append(melted)
@@ -136,13 +265,13 @@ def tidy_dataframe(df, indicator_variable):
             merged = tidy_blank_dataframe()
             categories_in_column = column.split('|')
             for category_in_column in categories_in_column:
-                if category_in_column == indicator_variable:
+                if category_in_column == HEADER_ALL:
                     # Handle the case where the 'all' column has units.
-                    # Eg: all|unit:gdp_global, all|unit:gdp_national.
+                    # Eg: all|Units:gdp_global, all|Units:gdp_national.
                     # First we "melt" in the Value column.
-                    melted = tidy_melt(df, column, indicator_variable)
-                    # And then immediately remove the indicator_variable column.
-                    del melted[indicator_variable]
+                    melted = tidy_melt(df, column, HEADER_ALL)
+                    # And then immediately remove the 'all' column.
+                    del melted[HEADER_ALL]
                     # That's it - we'll now continue looping to get the actual
                     # "Unit" category.
                     merged = melted
@@ -154,6 +283,10 @@ def tidy_dataframe(df, indicator_variable):
                     melted[category_name] = category_value
                     merged = merged.merge(melted, on=[HEADER_YEAR_WIDE, HEADER_VALUE_TIDY], how='outer')
             tidy = tidy.append(merged)
+
+    # If we got here and no rows were generated, raise an exception.
+    if len(tidy) == 0:
+        raise Exception('Indicator {} failed wide-to-tidy conversion - no rows generated.'.format(indicator_id))
 
     # Use the tidy year column ('Year') instead of the wide year column ('year').
     tidy = tidy.rename({ HEADER_YEAR_WIDE: HEADER_YEAR_TIDY }, axis='columns')
@@ -170,43 +303,21 @@ def tidy_dataframe(df, indicator_variable):
     # For rows with no value, use 0.
     tidy[HEADER_VALUE_TIDY].fillna(0, inplace=True)
 
-    # If the CSV has no rows, we have to add one to get past data validation.
-    if (len(tidy) == 0):
-        tidy = tidy.append({HEADER_YEAR_TIDY: 2018, HEADER_VALUE_TIDY: 0}, ignore_index=True)
-
     return tidy
 
-def tidy_csv_from_subnational_folder(csv, folder_name, subfolder_name):
-    """This converts a CSV into a dataframe, tweaks the headers, and returns it."""
+def tidy_csv(csv):
+    """This runs all checks and processing on a CSV file and reports exceptions.
 
-    try:
-        df = pd.read_csv(csv, dtype=str)
-    except Exception as e:
-        print(csv, e)
-        return False
+    Parameters
+    ----------
+    csv : string
+        Path to the CSV file
 
-    # Convert the folder structure into a column according to our syntax rules.
-    # For example: state/alabama will turn into 'state:alabama'.
-    subfolder_column = folder_name + ':' + subfolder_name
-
-    # Add this to the columns in the dataframe.
-    columns = dict()
-    for column in df.columns.tolist():
-        fixed = column
-        if column == HEADER_ALL:
-            fixed = subfolder_column
-        elif column.startswith(HEADER_ALL + '|'):
-            fixed = column.replace(HEADER_ALL + '|', subfolder_column + '|')
-        elif column == HEADER_YEAR_WIDE:
-            fixed = HEADER_YEAR_WIDE
-        else:
-            fixed = subfolder_column + '|' + column
-        columns[column] = fixed
-
-    return df.rename(columns, axis='columns')
-
-def tidy_csv(csv, subnational_folders):
-    """This runs all checks and processing on a CSV file and reports exceptions."""
+    Returns
+    -------
+    boolean
+        True if the tidy CSV was written successfully, False otherwise
+    """
 
     # Get the filename without the .csv.
     csv_filename = os.path.split(csv)[-1]
@@ -219,25 +330,26 @@ def tidy_csv(csv, subnational_folders):
         print(csv, e)
         return False
 
-    # Look in any subnational folders for a corresponding file.
-    for folder in subnational_folders:
-        folder_name = os.path.basename(os.path.normpath(folder))
-        if folder_name in FOLDER_NAME_CONVERSIONS:
-            folder_name = FOLDER_NAME_CONVERSIONS[folder_name]
-        for subfolder in subnational_folders[folder]:
-            subfolder_name = os.path.basename(os.path.normpath(subfolder))
-            if subfolder_name in FOLDER_NAME_CONVERSIONS:
-                subfolder_name = FOLDER_NAME_CONVERSIONS[subfolder_name]
-            subnational_file = subfolder + csv_filename
-            if os.path.isfile(subnational_file):
-                dis_df = tidy_csv_from_subnational_folder(subnational_file, folder_name, subfolder_name)
-                df = pd.merge(df, dis_df, how='outer', on=HEADER_YEAR_WIDE)
+    # Skip any placeholders.
+    columns = df.columns.tolist()
+    if 'var_1' in columns and 'var_2' in columns and len(df) == 1:
+        # This is a placeholder file, which we can skip.
+        return True
 
-    try:
-        tidy = tidy_dataframe(df, metadata['indicator_variable'])
-    except Exception as e:
-        print(csv, e)
-        return False
+    # Skip any without rows.
+    if len(df) == 0:
+        return True
+
+    # Validate the source data before going further.
+    valid = validate_wide_data(df, metadata)
+    if not valid:
+        raise Exception('Indicator {} failed wide-to-tidy conversion - invalid source data.'.format(metadata['indicator']))
+
+    indicator_variable = None
+    if 'indicator_variable' in metadata:
+        indicator_variable = metadata['indicator_variable']
+
+    tidy = tidy_dataframe(df, indicator_variable, metadata['indicator'])
 
     try:
         tidy_path = os.path.join(FOLDER_DATA_CSV_TIDY, csv_filename)
@@ -260,17 +372,9 @@ def main():
     csvs = glob.glob(FOLDER_DATA_CSV_WIDE + "/indicator*.csv")
     print("Attempting to tidy " + str(len(csvs)) + " wide CSV files...")
 
-    # Check here to see if there subnational data.
-    subnational_folders = dict()
-    folders = glob.glob(FOLDER_DATA_CSV_SUBNATIONAL + '/*/')
-    for folder in folders:
-        subfolders = glob.glob(folder + '/*/')
-        if (subfolders):
-            subnational_folders[folder] = subfolders
-
     for csv in csvs:
         # Process each of the CSVs.
-        status = status & tidy_csv(csv, subnational_folders)
+        status = status & tidy_csv(csv)
 
     return status
 
