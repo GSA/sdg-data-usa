@@ -168,7 +168,7 @@ def fix_data_issues(df):
     return df
 
 
-def validate_wide_data(df, metadata):
+def validate_wide_data(df, metadata, is_placeholder):
     """Validate that the source data meets some minimum requirements.
 
     The requirements are:
@@ -183,12 +183,17 @@ def validate_wide_data(df, metadata):
         The dataframe to validate
     metadata : dict
         The metadata fields for this indicator
+    is_placeholder : boolean
+        Whether or not this is a placeholder CSV file
 
     Returns
     -------
     boolean
         True or False, depending on whether the input was valid
     """
+
+    if is_placeholder:
+        return True
 
     columns = df.columns.tolist()
     if HEADER_ALL in columns:
@@ -330,24 +335,30 @@ def tidy_csv(csv):
         print(csv, e)
         return False
 
-    # Skip any placeholders.
+    # Identifiy any placeholders.
     columns = df.columns.tolist()
+    is_placeholder = False
     if 'var_1' in columns and 'var_2' in columns and len(df) == 1:
-        # This is a placeholder file, which we can skip.
-        return True
+        is_placeholder = True
 
     # Skip any without rows.
-    if len(df) == 0:
-        return True
+    #if len(df) == 0:
+    #    return True
 
     # Validate the source data before going further.
-    valid = validate_wide_data(df, metadata)
+    valid = validate_wide_data(df, metadata, is_placeholder)
     if not valid:
         raise Exception('Indicator {} failed wide-to-tidy conversion - invalid source data.'.format(metadata['indicator']))
 
     indicator_variable = None
     if 'indicator_variable' in metadata:
         indicator_variable = metadata['indicator_variable']
+
+    # Allow for some of the current "placeholder" CSV files to work.
+    columns = df.columns.tolist()
+    if 'var_1' in columns and 'var_2' in columns and len(df) == 1:
+       # This is a placeholder file, which we can skip.
+        indicator_variable = 'var_1'
 
     tidy = tidy_dataframe(df, indicator_variable, metadata['indicator'])
 
