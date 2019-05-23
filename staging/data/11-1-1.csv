@@ -16,7 +16,7 @@ Year,severity,Value
 2014,md_inadqt_hs,0.0
 2015,md_inadqt_hs,4.22536
 2016,md_inadqt_hs,0.0
-2017,md_inadqt_hs,0.0
+2017,md_inadqt_hs,3.608691196
 2000,sv_inadqt_hs,0.0
 2001,sv_inadqt_hs,2.0573200000000003
 2002,sv_inadqt_hs,0.0
@@ -34,7 +34,7 @@ Year,severity,Value
 2014,sv_inadqt_hs,0.0
 2015,sv_inadqt_hs,1.25475
 2016,sv_inadqt_hs,0.0
-2017,sv_inadqt_hs,0.0
+2017,sv_inadqt_hs,1.081274982
 2000,,0.0
 2001,,6.05474
 2002,,0.0
@@ -52,4 +52,4 @@ Year,severity,Value
 2014,,0.0
 2015,,5.48011
 2016,,0.0
-2017,,0.0
+2017,,4.689966178

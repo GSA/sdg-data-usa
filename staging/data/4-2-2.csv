@@ -16,7 +16,7 @@ Year,Income,Sex,Value
 2014,,,90.714
 2015,,,90.955
 2016,,,90.12200000000001
-2017,,,0.0
+2017,,,90.04
 2000,,Male,93.23100000000001
 2001,,Male,92.969
 2002,,Male,94.292
@@ -34,7 +34,7 @@ Year,Income,Sex,Value
 2014,,Male,91.555
 2015,,Male,90.00200000000001
 2016,,Male,89.689
-2017,,Male,0.0
+2017,,Male,88.35799999999999
 2000,,Female,94.81299999999999
 2001,,Female,93.228
 2002,,Female,92.79700000000001
@@ -52,7 +52,7 @@ Year,Income,Sex,Value
 2014,,Female,89.852
 2015,,Female,91.961
 2016,,Female,90.588
-2017,,Female,0.0
+2017,,Female,91.79899999999999
 2000,Low quintile,,91.31299999999999
 2001,Low quintile,,91.155
 2002,Low quintile,,94.59700000000001
@@ -70,7 +70,7 @@ Year,Income,Sex,Value
 2014,Low quintile,,91.37700000000001
 2015,Low quintile,,88.73700000000001
 2016,Low quintile,,88.475
-2017,Low quintile,,0.0
+2017,Low quintile,,90.70700000000001
 2000,Middle low quintile,,89.94
 2001,Middle low quintile,,90.50200000000001
 2002,Middle low quintile,,93.54700000000001
@@ -88,7 +88,7 @@ Year,Income,Sex,Value
 2014,Middle low quintile,,87.88
 2015,Middle low quintile,,92.87899999999999
 2016,Middle low quintile,,89.198
-2017,Middle low quintile,,0.0
+2017,Middle low quintile,,83.721
 2000,Middle quintile,,93.941
 2001,Middle quintile,,93.171
 2002,Middle quintile,,92.508
@@ -106,7 +106,7 @@ Year,Income,Sex,Value
 2014,Middle quintile,,91.45700000000001
 2015,Middle quintile,,91.413
 2016,Middle quintile,,89.21700000000001
-2017,Middle quintile,,0.0
+2017,Middle quintile,,92.445
 2000,Middle high quintile,,95.54899999999999
 2001,Middle high quintile,,94.476
 2002,Middle high quintile,,91.20299999999999
@@ -124,7 +124,7 @@ Year,Income,Sex,Value
 2014,Middle high quintile,,91.344
 2015,Middle high quintile,,88.191
 2016,Middle high quintile,,89.54700000000001
-2017,Middle high quintile,,0.0
+2017,Middle high quintile,,88.81700000000001
 2000,High quintile,,97.852
 2001,High quintile,,95.025
 2002,High quintile,,96.236
@@ -142,4 +142,4 @@ Year,Income,Sex,Value
 2014,High quintile,,91.117
 2015,High quintile,,92.512
 2016,High quintile,,93.493
-2017,High quintile,,0.0
+2017,High quintile,,93.005
