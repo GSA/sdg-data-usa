@@ -305,8 +305,8 @@ def tidy_dataframe(df, indicator_variable, indicator_id):
     # Fix any data issues.
     tidy = fix_data_issues(tidy)
 
-    # For rows with no value, use 0.
-    tidy[HEADER_VALUE_TIDY].fillna(0, inplace=True)
+    # Remove rows with no value.
+    tidy.dropna(inplace=True, subset=[HEADER_VALUE_TIDY])
 
     return tidy
 
