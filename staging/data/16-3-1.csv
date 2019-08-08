@@ -33,8 +33,6 @@ Year,sex,Value
 2013,males,44.4
 2014,males,43.0
 2015,males,45.4
-2016,males,0.0
-2017,males,0.0
 2000,females,48.8
 2001,females,49.7
 2002,females,54.9
@@ -51,5 +49,3 @@ Year,sex,Value
 2013,females,47.1
 2014,females,49.7
 2015,females,47.5
-2016,females,0.0
-2017,females,0.0
