@@ -38,6 +38,9 @@ rules for that convention:
 
    all|Units:inches,all|Units:feet
 
+   For flexibility and consistency with the all-lowercase naming convention,
+   "unit" or "units" will also work.
+
 -----------------------
 Handling of legacy data
 -----------------------
@@ -320,6 +323,12 @@ def tidy_dataframe(df, indicator_variable, indicator_id):
     cols.pop(cols.index(HEADER_VALUE_TIDY))
     cols = [HEADER_YEAR_TIDY] + cols + [HEADER_VALUE_TIDY]
     tidy = tidy[cols]
+
+    # Support alternative column names for Units.
+    tidy = tidy.rename(axis='columns', mapper={
+        'unit': 'Units',
+        'units': 'Units'
+    })
 
     # Fix any data issues.
     tidy = fix_data_issues(tidy)

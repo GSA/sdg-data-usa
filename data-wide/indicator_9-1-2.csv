@@ -1,4 +1,4 @@
-year,pass_vol_highway,pass_vol_air,pass_vol_transit,pass_vol_rail,freight_vol_truck,freight_vol_pipeline,freight_vol_rail,freight_vol_vessel,freight_vol_air
+year,unit:passenger-kilometers|passenger-mode:highway,unit:passenger-kilometers|passenger-mode:air,unit:passenger-kilometers|passenger-mode:transit,unit:passenger-kilometers|passenger-mode:rail,unit:freight-tonnage|freight-mode:truck,unit:freight-tonnage|freight-mode:pipeline,unit:freight-tonnage|freight-mode:rail,unit:freight-tonnage|freight-mode:vessel,unit:freight-tonnage|freight-mode:air
 2000,7323440,829775,72582,8848,,,,,
 2001,7385358,782956,74847,8946,,,,,
 2002,7547724,778157,74184,8800,10021.32,2329.03,1843.13,615.91,4.28
