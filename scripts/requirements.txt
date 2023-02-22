@@ -3,5 +3,5 @@ pandas
 gitpython
 ruamel.yaml>=0.15
 git+https://github.com/dougmet/yamlmd
-git+https://github.com/brockfanning/sdg-build@multilingual-meta#egg=sdg
+git+https://github.com/open-sdg/sdg-build#egg=sdg
 python-frontmatter
