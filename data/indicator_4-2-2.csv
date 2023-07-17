@@ -1,0 +1,145 @@
+Year,Sex,Income,Value
+2000,,,93.997
+2001,,,93.097
+2002,,,93.563
+2003,,,91.894
+2004,,,93.088
+2005,,,93.409
+2006,,,92.603
+2007,,,92.390
+2008,,,90.980
+2009,,,91.533
+2010,,,92.377
+2011,,,92.576
+2012,,,89.798
+2013,,,90.260
+2014,,,90.714
+2015,,,90.955
+2016,,,90.122
+2017,,,0
+2000,Male,,93.231
+2001,Male,,92.969
+2002,Male,,94.292
+2003,Male,,92.890
+2004,Male,,93.392
+2005,Male,,92.875
+2006,Male,,92.570
+2007,Male,,91.097
+2008,Male,,91.168
+2009,Male,,90.435
+2010,Male,,91.833
+2011,Male,,92.616
+2012,Male,,89.392
+2013,Male,,90.622
+2014,Male,,91.555
+2015,Male,,90.002
+2016,Male,,89.689
+2017,Male,,0
+2000,Female,,94.813
+2001,Female,,93.228
+2002,Female,,92.797
+2003,Female,,90.936
+2004,Female,,92.760
+2005,Female,,93.984
+2006,Female,,92.637
+2007,Female,,93.731
+2008,Female,,90.782
+2009,Female,,92.687
+2010,Female,,92.949
+2011,Female,,92.533
+2012,Female,,90.210
+2013,Female,,89.862
+2014,Female,,89.852
+2015,Female,,91.961
+2016,Female,,90.588
+2017,Female,,0
+2000,,Low quintile,91.313
+2001,,Low quintile,91.155
+2002,,Low quintile,94.597
+2003,,Low quintile,89.153
+2004,,Low quintile,88.331
+2005,,Low quintile,92.303
+2006,,Low quintile,90.213
+2007,,Low quintile,86.476
+2008,,Low quintile,88.067
+2009,,Low quintile,89.575
+2010,,Low quintile,89.393
+2011,,Low quintile,91.571
+2012,,Low quintile,84.552
+2013,,Low quintile,91.234
+2014,,Low quintile,91.377
+2015,,Low quintile,88.737
+2016,,Low quintile,88.475
+2017,,Low quintile,0
+2000,,Middle low quintile,89.940
+2001,,Middle low quintile,90.502
+2002,,Middle low quintile,93.547
+2003,,Middle low quintile,87.978
+2004,,Middle low quintile,93.869
+2005,,Middle low quintile,87.948
+2006,,Middle low quintile,89.283
+2007,,Middle low quintile,91.646
+2008,,Middle low quintile,89.098
+2009,,Middle low quintile,89.559
+2010,,Middle low quintile,91.404
+2011,,Middle low quintile,90.569
+2012,,Middle low quintile,90.220
+2013,,Middle low quintile,89.202
+2014,,Middle low quintile,87.880
+2015,,Middle low quintile,92.879
+2016,,Middle low quintile,89.198
+2017,,Middle low quintile,0
+2000,,Middle quintile,93.941
+2001,,Middle quintile,93.171
+2002,,Middle quintile,92.508
+2003,,Middle quintile,93.552
+2004,,Middle quintile,92.771
+2005,,Middle quintile,92.981
+2006,,Middle quintile,92.911
+2007,,Middle quintile,94.729
+2008,,Middle quintile,91.561
+2009,,Middle quintile,91.739
+2010,,Middle quintile,89.684
+2011,,Middle quintile,92.094
+2012,,Middle quintile,90.211
+2013,,Middle quintile,89.121
+2014,,Middle quintile,91.457
+2015,,Middle quintile,91.413
+2016,,Middle quintile,89.217
+2017,,Middle quintile,0
+2000,,Middle high quintile,95.549
+2001,,Middle high quintile,94.476
+2002,,Middle high quintile,91.203
+2003,,Middle high quintile,91.548
+2004,,Middle high quintile,94.072
+2005,,Middle high quintile,95.270
+2006,,Middle high quintile,91.891
+2007,,Middle high quintile,92.919
+2008,,Middle high quintile,92.437
+2009,,Middle high quintile,91.871
+2010,,Middle high quintile,94.620
+2011,,Middle high quintile,91.141
+2012,,Middle high quintile,88.854
+2013,,Middle high quintile,88.574
+2014,,Middle high quintile,91.344
+2015,,Middle high quintile,88.191
+2016,,Middle high quintile,89.547
+2017,,Middle high quintile,0
+2000,,High quintile,97.852
+2001,,High quintile,95.025
+2002,,High quintile,96.236
+2003,,High quintile,95.400
+2004,,High quintile,95.297
+2005,,High quintile,96.623
+2006,,High quintile,97.242
+2007,,High quintile,95.048
+2008,,High quintile,92.784
+2009,,High quintile,94.306
+2010,,High quintile,95.479
+2011,,High quintile,96.354
+2012,,High quintile,94.151
+2013,,High quintile,92.862
+2014,,High quintile,91.117
+2015,,High quintile,92.512
+2016,,High quintile,93.493
+2017,,High quintile,0
