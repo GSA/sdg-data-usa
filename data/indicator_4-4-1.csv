@@ -1,0 +1,11 @@
+Year,sex,age,income,Value
+2012,,,,39
+2012,i4_4_1_tech_male,,,42
+2012,i4_4_1_tech_female,,,36
+2012,,i4_4_1_tech_24,,43
+2012,,i4_4_1_tech_34,,45
+2012,,i4_4_1_tech_44,,42
+2012,,i4_4_1_tech54,,33
+2012,,i4_4_1_tech_65,,29
+2012,,,i4_4_1_tech_lowinc,38
+2012,,,i4_4_1_tech_highinc,55

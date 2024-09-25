@@ -1,0 +1,47 @@
+﻿SDG_INDICATOR: Researchers (in full-time equivalent) per million inhabitants
+CONTACT_ORGANISATION: Organisation for Economic Co-operation and Development
+STAT_CONC_DEF: >-
+  This indicator measures the share of a country's population that is employed
+  as researchers. It provides an indication of the extent to which a country's
+  workforce is engaged in research and development (R&D) activities for the
+  purposes of generating new knowledge and innovations.
+UNIT_MEASURE: Number of people
+SOURCE_TYPE: >-
+  Organisation for Economic Co-operation and Development, Main Science and
+  Technology Indicators (MSTI).
+DATA_SOURCE: 'Gary Anderson, Steven Deitz'
+REC_USE_LIM: >-
+  This indicator is calculable from OECD data. The number of FTE researchers for
+  the United States is an OECD calculation based on data originally submitted by
+  the National Center for Science and Engineering Statistics within the National
+  Science Foundation.
+DATA_COMP: >-
+  The number of individuals employed as researchers is first calculated on a
+  full-time equivalent (FTE) basis. Then it is divided by the population of the
+  country in millions to generate a ratio of FTE researchers per million
+  population.
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: Annual
+scheduled_update_by_national_source: ''
+date_metadata_updated: 7/22/2024
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://data-explorer.oecd.org/vis?tm=MSTI&pg=0&snb=1&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_MSTI%40DF_MSTI&df[ag]=OECD.STI.STP&df[vs]=1.3&dq=.A.G%2BT_RS...&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

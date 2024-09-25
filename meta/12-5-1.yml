@@ -1,0 +1,50 @@
+﻿SDG_INDICATOR: 12.5.1 - recycling rate
+CONTACT_ORGANISATION: United States Environmental Protection Agency
+STAT_CONC_DEF: >-
+  Recycling rate: the amount of municipal solid waste generated that was
+  recycled or composted. 
+UNIT_MEASURE: percentage
+SOURCE_TYPE: >-
+  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management
+DATA_SOURCE: ''
+REC_USE_LIM: 'Research possible data source'
+DATA_COMP: >-
+  Using data gathered from industry associations, businesses and government
+  sources, such as the U.S.
+
+  Department of Commerce and the U.S. Census Bureau, EPA estimates the weight in
+  tons of all MSW materials
+
+  and products generated, recycled, composted, managed by other methods for
+  food, combusted with energy
+
+  recovery and landfilled. Other sources of data, such as waste
+  characterizations and research reports performed
+
+  by governments, industry or the press, supplement these data. 
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management
+source_url_text_1: >-
+  https://www.epa.gov/facts-and-figures-about-materials-waste-and-recycling/advancing-sustainable-materials-management
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

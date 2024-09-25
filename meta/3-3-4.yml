@@ -1,0 +1,40 @@
+﻿SDG_INDICATOR: >-
+  The number of acute hepatitis B cases that are reported from U.S. states and
+  territories to the National Centers for Disease Control and Prevention per
+  100,000 population in a given year by sex, age group, and race or ethnicity.
+CONTACT_ORGANISATION: 'Surveillance of Viral Hepatitis – United States'
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'cases per 100,000 population'
+SOURCE_TYPE: 'Surveillance of Viral Hepatitis – United States. Accessed via https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm'
+DATA_SOURCE: Amy Branum. Juan Albertorio. NCHS.
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of cases reported, divided by U.S. population (in population segment of
+  interest), multiplied by 100,000.
+actual_indicator_available_description: >-
+  Annual rate of acute hepatitis B cases reported per 100,000 U.S. population by
+  sex, age group, and race-ethnicity in, 2007 - 2022.
+date_of_national_source_publication: November, 2024.
+periodicity: Annual
+scheduled_update_by_national_source: November 2024.
+date_metadata_updated: '2022-08-5'
+disaggregation_geography: National and by state (only national data provided)
+disaggregation_categories: 'sex, age-group, and race-ethnicity'
+international_and_national_references: 'https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm'
+time_period: 2007-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: 'Surveillance of Viral Hepatitis – United States. Accessed via https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm'
+source_agency_staff_name_1: Amy Branum
+source_agency_survey_dataset_1: 'Surveillance of Viral Hepatitis – United States.	https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm'
+source_notes_1: >-
+  https://www.cdc.gov/hepatitis/statistics/2022surveillance/hepatitis-b.htm 
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

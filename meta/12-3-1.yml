@@ -1,0 +1,73 @@
+﻿SDG_INDICATOR: 'SDG 12.3.1.b food waste index '
+CONTACT_ORGANISATION: United States Environmental Protection Agency
+STAT_CONC_DEF: >-
+  Pounds of food waste per person were sent to landfill, controlled combustion,
+  sewer, co/anaerobic digestion, compost/aerobic digestion, and land
+  application, from the following sectors:  food retail, food service, and
+  households.
+UNIT_MEASURE: pounds per capita per year
+SOURCE_TYPE: >-
+  2019 Wasted Food Report:
+  https://www.epa.gov/system/files/documents/2023-03/2019%20Wasted%20Food%20Report_508_opt_ec.pdf
+DATA_SOURCE: ''
+REC_USE_LIM: >+
+  There are some data limitations associated with EPA’s estimates. EPA relies on
+  existing studies and data to develop generation factors, and for some sectors,
+  there are few existing studies. In addition, as states and cities adopt
+  landfill bans and recycling mandates, estimates that rely heavily on studies
+  that pre-date those laws may result in overestimation of generation,
+  especially as these laws become more common and continue to be implemented. On
+  the management pathway side, composting and anaerobic digestion tonnages may
+  be underestimated, as EPA did not extrapolate to account for states and
+  facilities for which no data was found. Food donation may be overestimated due
+  to EPA’s approach to accounting for food being donated to food banks not in
+  the Feeding America network. Data for food being sent down the drain to the
+  sewer system is limited. 
+
+DATA_COMP: >+
+  Generation estimates rely on studies conducted by state and municipal
+  governments, industry groups, universities, and other groups that measure
+  wasted food generated at facilities in various sectors. Estimates are
+  correlated to facility-specific characteristics (e.g., revenue or the number
+  of employees) to establish equations expressing generation factors (e.g.,
+  4,080 lbs of wasted food generated/employee/year in supermarkets). There are
+  multiple studies, and therefore multiple generation factors, available for
+  most sectors. EPA scaled up these rates by applying national, sector-specific
+  statistics (e.g., U.S. Census-reported store sales, number of employees in
+  restaurants, number of patients in hospitals, number of inmates in
+  correctional facilities), which resulted in multiple generation estimates per
+  sector. An average annual generation estimate was then calculated for each
+  sector, and these values were summed to calculate overall estimates of excess
+  food and food waste generated nationally.
+
+  The initial management pathway analysis drew on sector-specific literature
+  that provided a percentage distribution across the management pathways (i.e.,
+  an estimate of the percent of wasted food destined for each major management
+  pathway by generating sector. EPA then took into account bottom up data on
+  food banks, AD and composting and adjusted the initial management pathway
+  estimates. 
+
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

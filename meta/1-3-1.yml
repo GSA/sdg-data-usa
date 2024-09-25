@@ -1,0 +1,53 @@
+﻿SDG_INDICATOR: >-
+  Estimated size of the population in the Social Security area and percentage
+  fully insured, by sex and age 
+CONTACT_ORGANISATION: >-
+  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
+  2023 and prior year publications
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Persons
+SOURCE_TYPE: >-
+  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
+  2023 and prior year publications -
+  https://mwww.ba.ssa.gov/policy/docs/statcomps/supplement/2023/4c.html#table4.c5
+DATA_SOURCE: Eunha Choi
+REC_USE_LIM: >-
+  Population estimates are subject to revision based on data that are more
+  recent.
+DATA_COMP: >-
+  The U.S. Census Bureau provides the population counts to SSA.  Insured
+  percentages are based on application of counts in SSA’s Continuous Work
+  History Sample to the population estimates.
+actual_indicator_available_description: >-
+  The “percentage insured” is the relationship of individuals who have earned
+  Social Security retirement, survivors and disability insurance coverage based
+  on their covered earnings histories.
+date_of_national_source_publication: Nov 2023
+periodicity: Calendar year
+scheduled_update_by_national_source: Nov 2024
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: None
+international_and_national_references: ''
+time_period: Calendar year 2000 through 2023
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
+  2023 and prior year publications
+source_agency_staff_name_1: Eunha Choi
+source_agency_survey_dataset_1: >-
+  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
+  2023 and prior year publications
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://mwww.ba.ssa.gov/policy/docs/statcomps/supplement/2023/4c.html#table4.c5
+source_url_text_1: >-
+  https://mwww.ba.ssa.gov/policy/docs/statcomps/supplement/2023/4c.html#table4.c5
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

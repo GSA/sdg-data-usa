@@ -1,0 +1,118 @@
+﻿SDG_INDICATOR: >-
+  Proportion of women and girls aged 15 years and older subjected to sexual
+  violence by persons other than an intimate partner in the previous 12 months,
+  by age and place of occurrence
+CONTACT_ORGANISATION: Bureau of Justice Statistics
+STAT_CONC_DEF: >-
+  The National Crime Victimization Survey (NCVS) measures the number and rate of
+  violent victimizations involving females age 12 or older in the previous 12
+  months by victim-offender relationship. The following categories are available
+  for victim-offender relationship in the National Crime Victimization Survey
+  Data Dashboard: Intimate partners (i.e., current or former spouses,
+  boyfriends, and girlfriends), Other relatives (i.e., parents, step-parents,
+  children, step-children, brothers, sisters, and other relatives),
+  Well-known/casual acquaintances (i.e., friends or former friends, roommates or
+  boarders, schoolmates, neighbors, people at work, and other known
+  nonrelatives), Strangers (i.e., anyone not previously known by the victim),
+  Don’t know relationship, and Don’t know number of off enders. Data for this
+  indicator includes crimes where the victim and offender were other relatives,
+  well-known/casual acquaintances, or strangers.
+
+
+  Sexual violence includes rape and sexual assault. The NCVS defines rape as
+  coerced or forced sexual intercourse. Forced sexual intercourse means vaginal,
+  anal, or oral penetration by the offender(s). This category could include
+  incidents where the penetration was from a foreign object such as a bottle. It
+  includes attempted rape, threatened rape, and incidents involving victims and
+  offenders who are the same sex or different sexes. Attempted rape includes
+  verbal threats of rape. Sexual assault encompasses a wide range of
+  victimizations, separate from rape or attempted rape. Includes attacks or
+  attempted attacks generally involving unwanted sexual contact between victim
+  and offender, with or without force. Includes grabbing or fondling and verbal
+  threats. For NCVS reporting, rape and sexual assault are combined into one
+  victimization measure. 
+UNIT_MEASURE: >-
+  Rate of sexual victimization per 1,000 specified population (females age 12 or
+  older)
+SOURCE_TYPE: National Crime Victimization Survey (NCVS)
+DATA_SOURCE: Bureau of Justice Statistics
+REC_USE_LIM: >
+  The NCVS is administered to persons age 12 or older from a nationally
+  representative sample of U.S. households. It collects information on nonfatal
+  personal crimes (rape or sexual assault, robbery, aggravated assault, simple
+  assault, and personal larceny (purse snatching and pocket picking)) and
+  household property crimes (burglary or trespassing, motor vehicle theft, and
+  other types of theft). The survey collects information on threatened,
+  attempted, and completed crimes. Survey respondents provide information about
+  themselves (including age, sex, race, Hispanic origin, marital status,
+  education level, and income) and whether they experienced a victimization. For
+  each victimization incident, respondents report information about the offender
+  (including age, sex, race, Hispanic origin, and victim-off ender
+  relationship), characteristics of the crime (including time and place of
+  occurrence, use of weapons, nature of injury, and economic consequences),
+  whether the crime was reported to police, reasons the crime was or was not
+  reported, and experiences with the criminal justice system. As the NCVS is
+  based on a nationally representative sample, the indicator is subject to
+  sampling error. For more information on the sample size and response rates see
+  https://bjs.ojp.gov/data-collection/ncvs
+
+
+  NCVS data can be used to produce several types of estimates, including
+  victimization, incident, and prevalence rates. Data for this indicator are
+  based on victimization estimates, which are reported as either the number or
+  rate of violent victimizations. Victimization data are not reported as a
+  proportion of the population, whereas incident and prevalence estimates are.
+  Therefore, the data for this indicator are reported as the rate of sexual
+  victimizations by persons other than an intimate partner per 1,000 specified
+  population (females age 12 or older). Further breakdowns by age and location
+  are not available. 
+
+
+  Estimates for 2006 cannot be compared to other years. See Criminal
+  Victimization, 2007 (NCJ 224390, BJS, December 2008),
+  https://bjs.ojp.gov/content/pub/pdf/cv07.pdf, for more information on changes
+  to the 2006 National Crime Victimization Survey.
+DATA_COMP: >-
+  NCVS victimization rates are estimated by dividing the number of
+  victimizations that occur during a 12 month period by the population at risk
+  for those victimizations and then multiplying the rate by 1,000. Specifically,
+  divide the number of sexual victimizations for females age 12 or older by
+  persons other than an intimate partner by the number of females age 12 or
+  older in the U.S. and then multiply the rate by 1,000.
+actual_indicator_available_description: >-
+  Rate of sexual victimizations for females age 12 or older by persons other
+  than an intimate partner per 1,000 population
+date_of_national_source_publication: September 2023
+periodicity: >-
+  The NCVS is a self-report survey that is administered annually from January 1
+  to December 31. Annual NCVS estimates are based on the number and
+  characteristics of crimes that respondents experienced during the prior 6
+  months, excluding the month in which they were interviewed. Therefore, the
+  2022 survey covers crimes experienced from July 1, 2021 to November 30, 2022,
+  with March 15, 2022 as the middle of the reference period. Crimes are
+  classified by the year of the survey and not by the year of the crime.
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: None
+international_and_national_references: >-
+  National Crime Victimization Survey Data Dashboard:
+  https://ncvs.bjs.ojp.gov/Home
+
+  National Crime Victimization Survey: https://bjs.ojp.gov/data-collection/ncvs
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Bureau of Justice Statistics
+source_agency_staff_name_1: 'Shelley S. Hyland, Ph.D.'
+source_agency_survey_dataset_1: National Crime Victimization Survey (NCVS)
+source_notes_1: ''
+source_title_1: National Crime Victimization Survey Data Dashboard (N-DASH)
+source_url_1: 'https://ncvs.bjs.ojp.gov/Home'
+source_url_text_1: 'https://ncvs.bjs.ojp.gov/Home'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

@@ -1,0 +1,50 @@
+﻿SDG_INDICATOR: 'Percent of population living below the US poverty line  '
+CONTACT_ORGANISATION: U.S. Census Bureau
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ' Civilian noninstitutionalized population, excluding unrelated individuals under the age of 15 for whom poverty status cannot be determined. '
+SOURCE_TYPE: >-
+  U.S. Census Bureau, Current Population Survey, 2001 to 2023 Annual Social and
+  Economic Supplements (CPS ASEC)
+DATA_SOURCE: >-
+  Poverty Statistics Branch- Social, Economic, and Housing Statistics Division,
+  U.S. Census Bureau
+REC_USE_LIM: >-
+  The estimates for 2013 forward use redesigned income questions. The estimates
+  for 2017 forward reflect the implementation of an updated processing system.
+DATA_COMP: >-
+  Please see
+  http://www.census.gov/topics/income-poverty/poverty/guidance/poverty-measures.html.
+actual_indicator_available_description: >-
+  Percent of individuals living in poverty, disaggregated by age and sex.
+  Universe:  Civilian noninstitutionalized population, excluding unrelated
+  individuals under the age of 15 for whom poverty status cannot be determined.
+date_of_national_source_publication: September 2022
+periodicity: Annual
+scheduled_update_by_national_source: ''
+date_metadata_updated: July 2023
+disaggregation_geography: ''
+disaggregation_categories: 'Sex, Age'
+international_and_national_references: ''
+time_period: 2000 - 2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >
+  https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-poverty-people/hstpov2.xlsx
+
+
+  https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-poverty-people/hstpov3.xlsx
+
+
+  https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-poverty-people/hstpov7.xlsx
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

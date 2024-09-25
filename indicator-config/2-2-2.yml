@@ -1,0 +1,36 @@
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Percent of children ages 0 to 5 years with wasting (very low weight-for-length/height)
+  in the US
+graph_titles: []
+graph_type: line
+indicator_available: 'Percent of children under 5 years with weight-for-height/length
+  <2 standard deviations below (wasting) or >2 standard deviations above (overweight)
+  the median weight-for-length/height '
+indicator_name: global_indicators.2-2-2-title
+indicator_number: 2.2.2
+national_geographical_coverage: ''
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []

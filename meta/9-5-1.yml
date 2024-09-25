@@ -1,0 +1,53 @@
+﻿SDG_INDICATOR: Research and development expenditure as a proportion of GDP
+CONTACT_ORGANISATION: |
+  National Center for Science and Engineering Statistics
+STAT_CONC_DEF: >-
+  This indicator measures a nation's gross domestic expenditures on research and
+  development (GERD) as a percentage of gross domestic product (GDP).
+UNIT_MEASURE: percent
+SOURCE_TYPE: >-
+  National Center for Science and Engineering Statistics, National Patterns of
+  R&D Resources (annual series) adjusted for international comparability and
+  reported in Organisation for Economic Co-operation and Development, Main
+  Science and Technology Indicators.
+DATA_SOURCE: 'Gary Anderson, Steven Deitz'
+REC_USE_LIM: >-
+  This indicator is widely used around the world as a comparative metric for
+  national R&D intensity. The data uploaded here (as of July 2024) are the
+  internationally comparable version of this metric, which differs slightly from
+  the R&D/GDP value calculated for the NCSES National Patterns of R&D Resources
+  publication.
+DATA_COMP: >-
+  Data on national R&D expenditures (dollars) divided by data on gross domestic
+  product (dollars)
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: Annual
+scheduled_update_by_national_source: ''
+date_metadata_updated: '2024-07-24'
+disaggregation_geography: >-
+  Some disaggregation of the indicator by U.S. geographic regions (mainly,
+  states) is available.
+disaggregation_categories: >-
+  Some disaggregation of the indicator is available by R&D performers and
+  sources of R&D funding.
+international_and_national_references: ''
+time_period: >-
+  U.S. data for this indicator is available for 1953 to present.  The most
+  recent years available in published data are 2021 (preliminary) and 2022
+  (estimated).
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.nsf.gov/statistics/natlpatterns/'
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

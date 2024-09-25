@@ -1,0 +1,35 @@
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title:  Percent of US population 16 to 24 years who are not enrolled in school
+  and are either unemployed or not in the labor force
+graph_titles: []
+graph_type: line
+indicator_available: Percent of population 16 to 24 years who are not enrolled in
+  school and are either unemployed or not in the labor force
+indicator_name: global_indicators.8-6-1-title
+indicator_number: 8.6.1
+national_geographical_coverage: ''
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []

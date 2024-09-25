@@ -1,0 +1,102 @@
+﻿SDG_INDICATOR: >-
+  Occupation by Sex for the Full-Time, Year-Round Civilian Employed Population
+  16 years and over
+CONTACT_ORGANISATION: U.S. Census Bureau
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  U.S. Census Bureau
+
+  2018-2022: Table S2402 - American Community Survey 1-Year Estimates.
+
+  https://data.census.gov/table/ACSST1Y2022.S2402?q=S2402
+
+  2009-2017: Tables B24124 and B24126 - American Community Survey 1-Year
+  Estimates.
+
+  https://data.census.gov/table/ACSDT1Y2017.B24124?q=B24124
+
+  https://data.census.gov/table/ACSDT1Y2017.B24126?q=B24126
+
+  2008: Detailed Occupations and Median Earnings: 2008 - American Community
+  Survey 1-Year Estimates. 
+
+  https://www.census.gov/library/working-papers/2008/demo/day-01.html
+
+  2000: Full-Time, Year-Round Workers and Median Earnings in 1999 by Sex and
+  Detailed Occupation: 2000 - 2000 Decennial Census
+
+  https://www.census.gov/data/tables/time-series/demo/industry-occupation/median-earnings.html
+DATA_SOURCE: Julia B. Beckhusen
+REC_USE_LIM: >-
+  The U.S. Census Bureau is federally mandated to follow the structure of the
+  Standard Occupation Classification (SOC) Manual. The SOC is revised
+  periodically to account for changes in the economy. The estimates presented in
+  this indicator span across multiple revisions of the SOC: 2000, 2010, and
+  2018. In order to make estimates comparable across times, estimates prior to
+  2018 were converted to the 2018 Census Occupation Code List. As a result, the
+  estimates for years prior to 2018 will vary from those published on
+  data.census.gov.
+
+
+  Occupation codes are 4-digit codes and are based on Standard Occupational
+  Classification 2018.
+DATA_COMP: >-
+  Data are based on a sample and are subject to sampling variability. The degree
+  of uncertainty for an estimate arising from sampling variability is
+  represented through the use of a margin of error. The margin of error for the
+  data provided is +/-.2 (this is the 90 percent margin of error). The margin of
+  error can be interpreted roughly as providing a 90 percent probability that
+  the interval defined by the estimate minus the margin of error and the
+  estimate plus the margin of error (the lower and upper confidence bounds)
+  contains the true value.  In addition to sampling variability, the ACS
+  estimates are subject to nonsampling error. The effect of nonsampling error is
+  not represented in these data. 
+actual_indicator_available_description: >-
+  Proportion of females in full-time, year-round management occupations compared
+  to proportion of males in full-time, year-round management occupations.
+date_of_national_source_publication: ''
+periodicity: Yearly
+scheduled_update_by_national_source: 'July, 2024'
+date_metadata_updated: 'July, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2000 to present
+scheduled_update_by_SDG_team: 'July, 2024'
+source_organisation_1: U.S. Census Bureau
+source_agency_staff_name_1: Julia B. Beckhusen
+source_agency_survey_dataset_1: >-
+  U.S. Census Bureau
+
+  2018-2022: Table S2402 - American Community Survey 1-Year Estimates.
+
+  https://data.census.gov/table/ACSST1Y2022.S2402?q=S2402
+
+  2009-2017: Tables B24124 and B24126 - American Community Survey 1-Year
+  Estimates.
+
+  https://data.census.gov/table/ACSDT1Y2017.B24124?q=B24124
+
+  https://data.census.gov/table/ACSDT1Y2017.B24126?q=B24126
+
+  2008: Detailed Occupations and Median Earnings: 2008 - American Community
+  Survey 1-Year Estimates. 
+
+  https://www.census.gov/library/working-papers/2008/demo/day-01.html
+
+  2000: Full-Time, Year-Round Workers and Median Earnings in 1999 by Sex and
+  Detailed Occupation: 2000 - 2000 Decennial Census
+
+  https://www.census.gov/data/tables/time-series/demo/industry-occupation/median-earnings.html
+source_notes_1: ''
+source_title_1: ''
+source_url_1: www.data.census.gov
+source_url_text_1: www.data.census.gov
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

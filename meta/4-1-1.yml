@@ -1,0 +1,58 @@
+﻿SDG_INDICATOR: >-
+  Percentage of 4th and 8th grade students at or above "Basic" proficiency in
+  reading and mathematics National Assessment of Educational Progress (NAEP)
+  assessments 
+CONTACT_ORGANISATION: >-
+  U.S. Department of Education, National Center for Education Statistics
+STAT_CONC_DEF: Basic proficiency denotes partial mastery of the knowledge and skills that are fundamental for proficient work at a given grade.
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: >-
+  U.S. Department of Education, National Center for Education Statistics,
+  National Assessment of Educational Progress (NAEP) -
+  https://nces.ed.gov/programs/digest/d22/tables/dt22_221.20.asp?current=yes and
+  https://nces.ed.gov/programs/digest/d22/tables/dt22_222.20.asp?current=yes
+DATA_SOURCE: Cristobal de Brey
+REC_USE_LIM: >-
+  Includes students tested with accommodations (1 to 12 percent of all students,
+  depending on grade level and year); excludes only those students with
+  disabilities and English language learners who were unable to be tested even
+  with accommodations (2 to 6 percent of all students). Includes public, private, Bureau of Indian Education, and Department of Defense Education Activity schools.
+DATA_COMP: >-
+  The main NAEP reports current information for the nation and specific
+  geographic regions of the country. The assessment program includes students
+  drawn from a sample from both public and private schools and reports results
+  for student achievement at grades 4, 8, and 12. The main NAEP assessments
+  follow the frameworks developed by the National Assessment Governing Board and
+  use the latest advances in assessment methodology. Because the assessment
+  items reflect curricula associated with specific grade levels, the main NAEP
+  uses samples of students at those grade levels.
+actual_indicator_available_description: >-
+  Percentage of public and private 4th and 8th grade students at or above "Basic"
+  proficiency in reading and mathematics
+date_of_national_source_publication: October 2022
+periodicity: Biennial
+scheduled_update_by_national_source: February 2025
+date_metadata_updated: August 2024
+disaggregation_geography: State available
+disaggregation_categories: Sex
+international_and_national_references: ''
+time_period: 2000 to 2022 data provided; prior years are available
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  U.S. Department of Education, National Center for Education Statistics,
+  National Assessment of Educational Progress (NAEP)
+source_agency_staff_name_1: Cristobal de Brey
+source_agency_survey_dataset_1: >-
+  U.S. Department of Education, National Center for Education Statistics,
+  National Assessment of Educational Progress (NAEP)
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://nces.ed.gov/programs/digest/d22/tables/dt22_221.20.asp'
+source_url_text_1: 'http://nces.ed.gov/programs/digest/d22/tables/dt22_221.20.asp'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: 'http://nces.ed.gov/programs/digest/d22/tables/dt22_222.20.asp'
+source_url_text_2: 'http://nces.ed.gov/programs/digest/d22/tables/dt22_222.20.asp'

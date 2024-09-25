@@ -1,0 +1,51 @@
+﻿SDG_INDICATOR: >-
+  Percentage of lakes and river and stream miles in good condition base on the
+  GEMS water quality index. 
+CONTACT_ORGANISATION: United States Environmental Protection Agency (US EPA)
+STAT_CONC_DEF: >-
+  The US EPA uses a statical survey design to randomly select both lakes and
+  river and stream segments from a predetermined target population that meets
+  specific criteria. For the National Lakes Assessment (NLA) lakes must be at
+  least 4ha in size with a minimum depth of 1m, with 0.1ha of open water. The
+  National Rivers and Streams Assessment (NRSA) rivers and streams the target
+  population includes all perennial streams and rivers, from the smallest
+  headwater streams to the largest rivers, including those that are tidally
+  influenced but still freshwater (salinity less than 0.5 ppt). 
+UNIT_MEASURE: |-
+  Percent of lakes in good condition
+  Percent of river and stream miles in good condition
+SOURCE_TYPE: >-
+  Data comes from US EPA's National Aquatic Resource (NARS) program, with
+  specific data coming from NLA and NRSA.
+
+  https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys
+DATA_SOURCE: ''
+REC_USE_LIM: ''
+DATA_COMP: "The GEMS/Water1 water quality index approach is used as a general model to calculate the index, in which measured determinand values are compared to guideline values (proximity to target approach): \t1. Proximity-to-target (PTT) scores for each determinand at single monitoring sites are calculated as the difference between the temporal average (for the accounting period) of the determinand concentration and the target divided by the range between the (winsorized) minimum or maximum of the measured determinand concentration (for exceedance and non-exceedance targets, respectively) and the target. The PTT scores are scaled to the range between 0 and 100, where 100 indicates that the target is met and decreasing scores indicate an increasing distance from the target. \t2. The water quality index (WQI) at site level is computed as the arithmetic mean of the site-level PTT scores for the selected determinands. The WQI scale can be divided into different water quality categories, ranging from very bad to excellent. The thresholds for these categories are country specific and should be reported in the monitoring system by the individual countries \t3. For the spatial aggregation at the basin level and country level, the water bodies are divided into stretches of homogenous quality (between consecutive monitoring stations). \t4. The final indicator is calculated from the proportion of the stretches with good quality compared to all water bodies assessed."
+actual_indicator_available_description: ''
+date_of_national_source_publication: |-
+  2022 National Lakes Assessment (NLA) published 2024.
+  2018/2019 National Rivers and Streams Assessment (NRSA) published 2023.
+periodicity: Assessments are conducted once every five years.
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: United States Environmental Protection Agency
+source_agency_staff_name_1: Richard Mitchell
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

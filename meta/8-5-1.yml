@@ -1,0 +1,42 @@
+﻿SDG_INDICATOR: >-
+  Usual weekly earnings of employed full-time wage and salary workers by
+  disability status, age, sex
+CONTACT_ORGANISATION: U.S. Bureau of Labor Statistics/Current Population Survey
+STAT_CONC_DEF: >-
+  Median weekly earnings of employed full-time wage and salary workers who
+  indicated they have a disability.
+UNIT_MEASURE: Median weekly earnings in U.S. dollars.
+SOURCE_TYPE: >-
+  U.S. Bureau of Labor Statistics/Current Population Survey -
+  https://www.bls.gov/cps/
+DATA_SOURCE: BLS Division of International Technical Cooperation staff
+REC_USE_LIM: Earnings data by occupation for people with a disability are not available.
+DATA_COMP: >-
+  Source: Current Population Survey (CPS) - a monthly national sample household
+  survey.   Technical Documentation and Methodology:
+  https://www.bls.gov/cps/documentation.htm. Information about the disability
+  data is also available at https://www.bls.gov/cps/cpsdisability_faq.htm
+actual_indicator_available_description: ''
+date_of_national_source_publication: January 2024
+periodicity: Annual
+scheduled_update_by_national_source: Annual data for 2024 will be available in January 2025
+date_metadata_updated: July 2024
+disaggregation_geography: ''
+disaggregation_categories: Disability
+international_and_national_references: 'U.S. Bureau of Labor Statistics - www.bls.gov '
+time_period: 2009-2023
+scheduled_update_by_SDG_team: ''
+source_organisation_1: U.S. Bureau of Labor Statistics/Current Population Survey
+source_agency_staff_name_1: BLS Division of International Technical Cooperation staff
+source_agency_survey_dataset_1: U.S. Bureau of Labor Statistics/Current Population Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://www.bls.gov/cps/'
+source_url_text_1: 'https://www.bls.gov/cps/'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

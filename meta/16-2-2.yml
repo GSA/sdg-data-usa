@@ -1,0 +1,61 @@
+﻿SDG_INDICATOR: "\tNumber of Human Trafficking Offenses Reported to the FBI UCR Program.  \t\t\t\t\t\t\t\t\t"
+CONTACT_ORGANISATION: FBI Uniform Crime Reporting Program Data Collection
+STAT_CONC_DEF: ''
+UNIT_MEASURE: "The total number of human trafficking offenses reported, the total number of human trafficking - commercial sex acts offenses reported, the total number of human trafficking - involuntary servitude offenses reported, the number of agencies reporting human trafficking offenses, and the estimated population of the reporting agencies.  \t\t\t\t\t\t"
+SOURCE_TYPE: FBI Uniform Crime Reporting Program Data Collection
+DATA_SOURCE: FBI
+REC_USE_LIM: >-
+  The FBI UCR Program began collecting these data in 2013.  The data used in
+  creating this table were from all law enforcement agencies submitting one or
+  more human trafficking incidents for at least 1 month of the calendar year. 
+  The published data, therefore, do not necessarily represent reports from each
+  participating agency for all 12 months of the calendar year and cannot be
+  considered nationally representative.
+DATA_COMP: >-
+  The FBI began collecting these data in 2013 through the UCR Program’s Summary
+  Reporting System and National Incident-Based Reporting System.  This table
+  provides the volume of human trafficking offenses as reported, the number of
+  reporting agencies, and the estimated population covered by the reporting
+  agencies.  The data used in creating this table were from all law enforcement
+  agencies submitting one or more human trafficking incidents for at least 1
+  month of the calendar year. The published data, therefore, do not necessarily
+  represent reports from each participating agency for all 12 months of the
+  calendar year. 
+actual_indicator_available_description: >-
+  This table provides the total volume of human trafficking offenses, the volume
+  of human trafficking - commercial sex acts, the volume of human trafficking -
+  involuntary servitude, the number of reporting agencies, and the estimated
+  population covered by the reporting agencies.  Column heading - Total Reported
+  Human Trafficking Offenses - provides the total volume of human trafficking
+  offenses reported to the Federal Bureau of Investigation (FBI) Uniform Crime
+  Reporting (UCR) Program.  Column heading  - Commercial sex acts - provides the
+  volume of human trafficking - commercial sex acts offenses reported to the FBI
+  UCR Program.  Column heading - Involuntary servitude - provided the volume of
+  human trafficking - involuntary servitude offenses reported to the FBI UCR
+  Program.  Column heading - Number of Agencies Reporting Human Trafficking -
+  provided the number of agencies reporting human trafficking data to the FBI
+  UCR Program.  Column heading - Estimated Population Covered - provided the 
+  estimated population covered by the reporting agencies.
+date_of_national_source_publication: September 2023
+periodicity: "Annual\t\t\t\t\t\t"
+scheduled_update_by_national_source: ''
+date_metadata_updated: August 2024
+disaggregation_geography: National
+disaggregation_categories: NA
+international_and_national_references: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home\t\t\t\t\t\t"
+time_period: Annual
+scheduled_update_by_SDG_team: ''
+source_organisation_1: FBI Uniform Crime Reporting Program Data Collection
+source_agency_staff_name_1: FBI
+source_agency_survey_dataset_1: FBI Uniform Crime Reporting Program Data Collection
+source_notes_1: "https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/home\t\t\t\t\t\t"
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

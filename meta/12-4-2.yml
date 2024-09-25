@@ -1,0 +1,55 @@
+﻿SDG_INDICATOR: >-
+  (a) Hazardous waste generated per capita; and (b) proportion of hazardous
+  waste treated, by type of treatment
+CONTACT_ORGANISATION: >-
+  U.S Enviromental Protection Agency/Office of Resource Conservation and
+  Recovery/Program Implementation and Information Division/ Information
+  Collection and Analysis Branch
+STAT_CONC_DEF: >-
+  The United States Environmental Protection Agency (EPA), in partnership with
+  the States, biennially collects information regarding the generation,
+  management, and final disposition of hazardous wastes regulated under the
+  Resource Conservation and Recovery Act of 1976 (RCRA), as amended. 
+
+
+  The term "RCRA hazardous waste" refers to solid waste assigned a Federal
+  Hazardous Waste Code and regulated by RCRA. Some States elect to regulate
+  wastes not specifically regulated by EPA; these wastes are assigned State
+  Hazardous Waste Codes. In regard to the Biennial Report, EPA has asked the
+  States to exclude data for waste with only State Hazardous Waste Codes (i.e.,
+  the waste description does not include any Federal Hazardous Waste Codes). 
+UNIT_MEASURE: Percent
+SOURCE_TYPE: |-
+  https://rcrapublic.epa.gov/rcrainfoweb/action/modules/br/summary/view
+  https://usafacts.org/state-of-the-union-2022/population/
+DATA_SOURCE: Debbie Goodwin
+REC_USE_LIM: 'Data source: Biennial Report'
+DATA_COMP: >-
+  The total hazardous waste generated in the reporting year was divided by the
+  population of the U.S. for that reporting year. Like wise each treatment
+  method was divided by the total quantity of waste treated to get the percent
+  for each treatment method.
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

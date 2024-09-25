@@ -1,0 +1,77 @@
+﻿SDG_INDICATOR: "Number of victims of intentional homicide per 100,000 population, by sex and age\t\t"
+CONTACT_ORGANISATION: Federal Bureau of Investigation's (FBI) Uniform Crime Reporting (UCR) Program
+STAT_CONC_DEF: >-
+  Intentional homicide includes murder and nonnegligent manslaughter. The UCR
+  defines murder and nonnegligent manslaughter as the willful (nonnegligent)
+  killing of one human being by another.
+UNIT_MEASURE: "Rate of intentional homicides per 100,000 population, Number of victims of intentional homicides by sex\t\t\t\t\t"
+SOURCE_TYPE: FBI Uniform Crime Reporting (UCR) Program
+DATA_SOURCE: FBI (data provided by Bureau of Justice Statistics)
+REC_USE_LIM: >-
+  These tables contain statistics for the entire United States. Because not all
+  law enforcement agencies provide data for complete reporting periods, the
+  Federal Bureau of Investigation (FBI) estimated crime numbers for some
+  agencies. The FBI computes estimates for participating agencies that do not
+  provide 12 months of complete data. For agencies supplying 3 to 11 months of
+  data, the national Uniform Crime Reporting (UCR) Program estimates for the
+  missing data by following a standard estimation procedure using the data
+  provided by the agency. If an agency has supplied less than 3 months of data,
+  the FBI computes estimates by using the known crime figures of similar areas
+  within a state and assigning the same proportion of crime volumes to
+  nonreporting agencies. The estimation process considers the following:
+  population size covered by the agency; type of jurisdiction, e.g., police
+  department versus sheriff ’s office; and geographic location. Data on sex and
+  age of victim are obtained by the FBI through the Supplemental Homicide
+  Reports and National Incident-Based Reporting System (NIBRS).
+
+
+  For the 2021 collection year, the FBI’s UCR Program transitioned from the
+  traditional Summary Reporting System (SRS) to the more comprehensive NIBRS. A
+  significant number of agencies were unable to complete the transition to NIBRS
+  in 2021. Due to the lower volume of participation, the FBI was unable to
+  produce the traditional national estimates for that year. Because SRS data was
+  not directly collected by the FBI, in order to compile estimates for 2021, the
+  FBI has since gathered a sampling of 2021 SRS data to augment the information
+  collected via NIBRS and compile reliable estimates. For the 2022 collection
+  year, the FBI resumed collecting SRS data from agencies that had not yet
+  transitioned to NIBRS to supplement the 2022 NIBRS data collection. The FBI
+  will assess the level of NIBRS transition yearly and continue to accept SRS
+  data until it is no longer needed.
+
+
+  Only intentional homicide rates for the entire U.S. population are available.
+  Number of intentional homicides by sex is also provided. Number of intentional
+  homicides by age and sex are only available for certain years (2013-2020) and
+  are not provided here but can be accessed through the United Nations Office on
+  Drugs and Crime data dashboard:
+  https://dataunodc.un.org/dp-intentional-homicide-victims
+DATA_COMP: >-
+  The homicide rate, defined as the number of offenses per 100,000 population,
+  is derived by first dividing the nation’s population by 100,000 and then
+  dividing the number of offenses by the resulting figure.
+actual_indicator_available_description: >-
+  Number of intentional homicides per 100,000 population, Number of victims of
+  intentional homicide by sex 
+date_of_national_source_publication: September 2023
+periodicity: "Annual (aggregated monthly data for the calendar year)\t\t\t\t\t"
+scheduled_update_by_national_source: October 2024
+date_metadata_updated: July 2024
+disaggregation_geography: "None\t\t\t\t\t"
+disaggregation_categories: Sex
+international_and_national_references: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend ; FBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s ; \nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t"
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: FBI Uniform Crime Reporting (UCR) Program
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: Uniform Crime Reporting (UCR) Program
+source_notes_1: "FBI Crime Data Explorer, https://cde.ucr.cjis.gov/LATEST/webapp/#/pages/explorer/crime/crime-trend ; FBI Crime in the U.S., https://ucr.fbi.gov/crime-in-the-u.s ;\nUnited Nations Office on Drugs and Crime, https://dataunodc.un.org/dp-intentional-homicide-victims\t\t\t\t\t\t\t\t\t\t\t"
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

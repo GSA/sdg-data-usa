@@ -1,0 +1,147 @@
+﻿SDG_INDICATOR: ''
+CONTACT_ORGANISATION: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: ''
+DATA_SOURCE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Proportion of urban area allocated to open public spaces, including street and
+  sidewalks.
+
+
+  Proportion of Total Open Public Space = ( (Total surface of open public space
+  + Total surface of land allocated to streets) / Total surface of built up area
+  of the urban agglomeration )
+
+
+  Unit of Measurement: %
+
+
+  The method to estimate the area of public space is based on three steps:
+
+
+  1. spatial analysis to delimit the built-up area of the city
+
+  2. estimation of the total open public space and
+
+  3. estimation of the total area allocated to streets.
+
+
+  <p>1. Spatial analysis to delimit the built-up area</p>
+
+
+  Delimit the built-up area of the urban agglomeration and calculate the total
+  area (square kilometers).
+
+
+  * 1.1 Satellite imagery: Use of exiting layers of satellite imagery ranging
+  from open sources such as Google Earth and US Geological Survey/NASA imagery
+  Landsat to more sophisticated and higher resolution land cover data sets.
+  Images will be analyzed for the latest available year.
+
+  * 1.2 Delimitation of built-up area of the urban agglomeration: The
+  delimitation of the urban agglomeration refers to the total area occupied by
+  the built-up area and its urbanized open space. The delimitation of the study
+  area distinguishes urban, suburban and rural areas based on the built-up
+  densities. This indicators includes urban (more than 50% built-up density) and
+  suburban areas (between 50% to 10% built-up density (refer to annex 1
+  "Measurement of the Street Connectivity Index").
+
+
+  <p>2. Open public space: mapping and calculation of total areas of open
+  public space within the defined urban boundaries based on the built-up area.</p>
+
+
+  * 2.1 Definition of open public space: An open public space is related to
+  universal access. Open public spaces include only the following types:
+      * Parks: open spaces inside a municipality that provide free air recreation and contact with nature. Their principal characteristic is the significant proportion of green area.
+      * Civic parks: open spaces created by building agglomeration around an open area, which was later transformed into a representative, civic area. They are characterised by considerable nature, specifically gardens. They are good place for cultural events and passive recreation.
+      * Squares: open spaces created by building agglomeration around an open area. Its main characteristics are the significant proportion of architectonic elements and interaction among buildings and the open area. Squares are usually public spaces that are relevant to the city due to their location, territorial development, or cultural importance.
+      * Recreational green areas: public green areas that contribute to environmental preservation. All recreational green areas must guarantee accessibility and must be linked to urban areas. Their main functions are ornamental and passive recreation.
+      * Facility public areas: open meeting spaces and recreational facilities that are part of city facilities (defined as places that are elementary to all cities; i.e., public libraries, stadium, public sports centres, etc.). These areas have the following characteristics: public property, free transit and access, and both active and passive recreation. (e.g., the public area outside a stadium).
+  * 2.2 Inventory of open public space. Information can be obtained from legal
+  documents outlining publicly owned land and well defined land use plans. In
+  some cases where this information is lacking, incomplete or outdated, open
+  sources and communitybased maps, which are increasingly recognized as a valid
+  source of information, can be a viable alternative.
+
+  * 2.3 Computation of total area of open public space. The inventory of open
+  public spaces is digitalized in existing maps and vectorised to allow
+  computation of surfaces. The total of open public area is divided by the total
+  built-up area of the city to obtain the proportion.
+
+
+  <p>3. Land allocated to streets: calculation of the total area allocated to
+  streets based on sampling techniques as a proportion of the total surface of
+  the built-up area as per definition above.</p>
+
+
+  * 3.1 Definition of streets. For this indicator, streets are defined as the
+  space used by pedestrian or vehicles in order to go from one place to another
+  in the city and also in order to interact. More and more, local population
+  recognizes streets as public spaces and as an important 'common' of the city.
+  The area of the streets include the carriageway, the median, the roundabouts,
+  the traffic islands, the sidewalk, the cycle tracks, planting zones and storm
+  drainage; in other words, the right of way limited by private properties
+  and/or natural obstacles such as rivers. In informal settlements or slum areas
+  where sidewalks are missing, the main references for limiting the street area
+  are the physical boundaries used to demarcate the private properties. Unpaved
+  roads are also considered as streets.
+
+  * 3.2 Sampling technique for the estimation of land allocated to streets. The
+  estimation of the total area of the street is based on the following
+  methodology:
+      * a. Define the boundary of the built-up area.
+      * b. Generate the Halton sequence of sample points of the urban area bounding box for an average density of 10 points per Km2.
+      * c. Extract the sample points that are within the urban area boundary.
+      * d. Buffer the points to get sample areas (circles) with an area of 10 Ha each (0.1 Km2).
+      * e. For each sample area in the sequence:
+          * i) check the completeness of the street network using 'open street maps' (OSM cartography on streets) within the sample area, and complete it if necessary comparing it with the most recent satellite imagery of the urban area
+          * ii) define and delimit streets as per definition
+          * iii) measure the street widths on the orthophoto (i.e. Bing) and store it in the OSM data base
+          * iv) download the OSM cartography
+          * v) superimpose (clip) the OSM data with the sample areas
+          * vi) calculate the land allocated to street for each sample area.
+      * f. Repeat the process for the following sample areas until the variations are within a certain margin (95% confidence limits).
+  * 3.3 Computation of total area of land allocated to streets. The average of
+  the sample areas provide the total land allocated to streets.
+
+
+  Benchmark Proportion of Total Open Public Space Min = 0 % Max = 45 %
+
+
+  Total Open Public Space (%) Min = 0 % Max = 15 %
+
+
+  Land Allocated to Street (%) Min = 0 % Max = 30%
+
+
+  Standardization see report for Standardization details
+
+
+  Example see report for Example
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

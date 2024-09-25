@@ -1,0 +1,60 @@
+﻿SDG_INDICATOR: ''
+CONTACT_ORGANISATION: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: ''
+DATA_SOURCE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of people receiving the intervention / Number of people who need the
+  intervention
+
+
+  Method of measurement
+
+
+  Universal health coverage means that people receive the services they need,
+  without incurring financial hardship. Countries progressively realize UHC
+  according to their level of development, epidemiological situation, health
+  system and people's expectations. The indicators ideally cover promotion,
+  prevention, treatment, rehabilitation and palliation. There are a number of
+  indicators that all countries implement such as immunization coverage or
+  skilled attendance at birth that can be used for a summary measure of progress
+  that can be used at lgobal and regional and country levels. Countries however
+  will also create their own set of indicators to track progress towards UHC.
+  The selection of indicators is based on the initial framework, and was applied
+  in the global report published in 2015 by WHO and the World Bank. This
+  provides a basis for further improvements working alongside countries.
+
+
+  Method of estimation
+
+
+  The indicators can be expressed as a summary measure. These can be weighted
+  according to indicator, or intervention area. Work on incorporating an equity
+  component in the summary measure is ongoing but is possible in a relatively
+  simple manner.
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

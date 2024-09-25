@@ -1,0 +1,47 @@
+﻿SDG_INDICATOR: Neonatal mortality rate.
+CONTACT_ORGANISATION: National Center for Health Statistics/Mortality Multiple Cause Death Files.
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  National Center for Health Statistics/Mortality Multiple Cause Death  Files.
+  Linked Birth / Infant Death Records  -
+  http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+DATA_SOURCE: >-
+  Mortality Statistics Branch, Division of Vital Statistics, National Center for
+  Health Statistics.
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of deaths to infants aged 0 to 27 days old divided by number of births,
+  expressed per 1,000 live births.
+actual_indicator_available_description: >-
+  Indicator of number of infant deaths that occur during the neonatal period
+  (first 27 days of life).
+date_of_national_source_publication: December 2016
+periodicity: Annual.
+scheduled_update_by_national_source: December 2024
+date_metadata_updated: 'July, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  National Center for Health Statistics/Mortality Multiple Cause Death Files.
+  Linked Birth / Infant Death Records.
+source_agency_staff_name_1: >-
+  Mortality Statistics Branch, Division of Vital Statistics, National Center for
+  Health Statistics.
+source_agency_survey_dataset_1: >-
+  National Center for Health Statistics/Mortality Multiple Cause Death Files.
+  Linked Birth / Infant Death Records.
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://wonder.cdc.gov/lbd.html '
+source_url_text_1: 'https://wonder.cdc.gov/lbd.html'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

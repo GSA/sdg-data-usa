@@ -1,0 +1,109 @@
+﻿SDG_INDICATOR: >-
+  Percentage of 16- to 65-year-olds enrolling in formal or nonformal programs
+  during the past year, by sex, age group, and high/low income quartile
+CONTACT_ORGANISATION: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012 -
+  http://nces.ed.gov/surveys/piaac/ideuspiaac/
+DATA_SOURCE: Tom Snyder
+REC_USE_LIM: Data subject to sampling errors.
+DATA_COMP: >-
+  Percentage of 16- to 65-year-olds enrolling in formal or nonformal programs
+  during the past year based on data collected through PIAAC. Data are based on
+  weighted percentage of respondents in the survey. Standard errors available
+  upon request.
+actual_indicator_available_description: >-
+  The first round of data collection in the United States (officially known as
+  the U.S. PIAAC Main Study) was conducted from August 2011 through April 2012
+  with a nationally representative household sample of 5,000 adults between the
+  ages of 16 and 65.
+
+
+  Variable name | Variable label
+
+  --- | ---
+
+  i4_3_1formal_total | Percentage participating in formal education, total
+
+  i4_3_1formal_male | Percentage participating in formal education, males
+
+  i4_3_1formal_female | Percentage participating in formal education, females
+
+  i4_3_1formal_24 | Percentage participating in formal education, less than age
+  25
+
+  i4_3_1formal_34 | Percentage participating in formal education, 25 to 34
+
+  i4_3_1formal_44 | Percentage participating in formal education, 35 to 44
+
+  i4_3_1formal_54 | Percentage participating in formal education, 45 to 54
+
+  i4_3_1formal_65 | Percentage participating in formal education, 55 to 65
+
+  i4_3_1formal_lowquartile | Percentage participating in formal education,
+  lowest income quartile
+
+  i4_3_1formal_midquartiles | Percentage participating in formal education,
+  middle two income quartiles
+
+  i4_3_1formal_highquartile | Percentage participating in formal education, high
+  income quartile
+
+  i4_3_1nonformal_total | Percentage participating in nonformal education, total
+
+  i4_3_1nonformal_male | Percentage participating in nonformal education, males
+
+  i4_3_1nonformal_female | Percentage participating in nonformal education,
+  females
+
+  i4_3_1nonformal_24 | Percentage participating in nonformal education, less
+  than age 25
+
+  i4_3_1nonformal_34 | Percentage participating in nonformal education, 25 to 34
+
+  i4_3_1nonformal_44 | Percentage participating in nonformal education, 35 to 44
+
+  i4_3_1nonformal_54 | Percentage participating in nonformal education, 45 to 54
+
+  i4_3_1nonformal_65 | Percentage participating in nonformal education, 55 to 65
+
+  i4_3_1nonformal_lowquartile | Percentage participating in nonformal education,
+  lowest income quartile
+
+  i4_3_1nonformal_midquartiles | Percentage participating in nonformal
+  education, middle two income quartiles
+
+  i4_3_1nonformal_highquartile | Percentage participating in nonformal
+  education, high income quartile
+date_of_national_source_publication: 10/2013
+periodicity: Periodic
+scheduled_update_by_national_source: Unknown
+date_metadata_updated: 11/2016
+disaggregation_geography: National
+disaggregation_categories: 'Sex, age group, income level'
+international_and_national_references: 'http://piaacgateway.com/'
+time_period: '2012'
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+source_agency_staff_name_1: Tom Snyder
+source_agency_survey_dataset_1: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://nces.ed.gov/surveys/piaac/ideuspiaac/'
+source_url_text_1: 'http://nces.ed.gov/surveys/piaac/ideuspiaac/'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

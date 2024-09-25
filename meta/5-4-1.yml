@@ -1,0 +1,52 @@
+﻿SDG_INDICATOR: >-
+  Time spent per day on household activities (includes travel), Caring for and
+  helping household members (includes travel), Caring for and helping
+  nonhousehold members (includes travel), and Purchasing goods and services
+  (includes travel) by sex and age
+CONTACT_ORGANISATION: U.S. Bureau of Labor Statistics / American Time Use Survey
+STAT_CONC_DEF: >-
+  Average hours per day:  The average number of hours spent in a 24-hour period
+  doing a specified activity.
+UNIT_MEASURE: Average hours per day
+SOURCE_TYPE: >-
+  U.S. Bureau of Labor Statistics / American Time Use Survey -
+  https://www.bls.gov/tus/
+DATA_SOURCE: BLS Division of International Technical Cooperation staff
+REC_USE_LIM: >-
+  Age categories: ages 15 and over, 15-24 years, 25-34 years, 25-54 years, 35-44
+  years, 45-54 years, 55-64 years, and 65 years and over
+DATA_COMP: >-
+  Data are from the American Time Use Survey (ATUS), which is nationally
+  representative of the U.S. civilian noninstitutional population age 15 and
+  over. Individuals are selected from households that have completed the 8th
+  month of the Current Population Survey. Each selected individual is
+  interviewed one time, by telephone, about how they spent their time on one
+  day. Individuals have been interviewed for the ATUS on nearly every day since
+  the survey began in 2003. For information about ATUS methods, see the BLS
+  Handbook of Methods:  https://www.bls.gov/opub/hom/atus/home.htm. Data are
+  estimates of average hours per day (see formula in section 7.4 of the ATUS
+  User's Guide:  https://www.bls.gov/tus/atususersguide.pdf).
+actual_indicator_available_description: ''
+date_of_national_source_publication: June 2024
+periodicity: Annual
+scheduled_update_by_national_source: June 2025
+date_metadata_updated: July 2024
+disaggregation_geography: ''
+disaggregation_categories: Age and sex; activity
+international_and_national_references: ''
+time_period: 2003-present
+scheduled_update_by_SDG_team: ''
+source_organisation_1: U.S. Bureau of Labor Statistics / American Time Use Survey
+source_agency_staff_name_1: BLS Division of International Technical Cooperation staff
+source_agency_survey_dataset_1: U.S. Bureau of Labor Statistics / American Time Use Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://www.bls.gov/tus/'
+source_url_text_1: 'https://www.bls.gov/tus/'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

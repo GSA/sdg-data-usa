@@ -1,0 +1,45 @@
+﻿SDG_INDICATOR: ''
+CONTACT_ORGANISATION: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: ''
+DATA_SOURCE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Number of facilities with essential medicines in stock / Total number of
+  health facilities
+
+
+  Method of measurement
+
+
+  Stock out data may also refer to specific time period (1 month, 3 months).
+  Data on the availability of a specific list of medicines are collected from a
+  survey of a sample of facilities. Availability is reported as the percentage
+  of medicine outlets where a particular medicine was found on the day of the
+  survey. Health facility reports may also include stockouts indicators but
+  require regular independent verification.
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

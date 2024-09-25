@@ -1,5 +1,6 @@
 # Custom
 _site/
+.DS_Store
 
 # Default Python
 # Byte-compiled / optimized / DLL files
@@ -106,6 +107,3 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
-# Because the US uses "wide" data, ignore the data/ folder because it is built.
-data/indicator_*

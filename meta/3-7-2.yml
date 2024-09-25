@@ -1,0 +1,45 @@
+﻿SDG_INDICATOR: >-
+  Adolescent birth rate (aged 10-14 years and aged 15-19 years) per 1,000 women
+  in that age group.
+CONTACT_ORGANISATION: National Center for Health Statistics/Final natality files
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  National Center for Health Statistics/Final natality files -
+  http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+DATA_SOURCE: >-
+  Reproductive Statistics Branch, Division of Vital Statistics, National Center
+  for Health Statistics.
+REC_USE_LIM: ''
+DATA_COMP: >-
+  The number of all US births occurring among adolescents in each age group is
+  divided by the age group-specific US population and expressed per 1,000
+  population.
+actual_indicator_available_description: >-
+  Rate of teen births in the US among females ages 10-14 and 15-19 combied expressed per
+  1,000 age-specific population.
+date_of_national_source_publication: 'September, 2017.'
+periodicity: Annual.
+scheduled_update_by_national_source: 'September, 2024'
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: National Center for Health Statistics/Final natality files.
+source_agency_staff_name_1: >-
+  Reproductive Statistics Branch, Division of Vital Statistics, National Center
+  for Health Statistics.
+source_agency_survey_dataset_1: National Center for Health Statistics/Final natality files.
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'
+source_url_text_1: 'http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

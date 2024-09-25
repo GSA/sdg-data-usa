@@ -1,0 +1,52 @@
+﻿SDG_INDICATOR: 'Tuberculosis incidence per 100,000 US population'
+CONTACT_ORGANISATION: 'CDC/OID/NCHHSTP '
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Number of cases per 100,000 population'
+SOURCE_TYPE: 'CDC/OID/NCHHSTP '
+DATA_SOURCE: Amy Branum. Juan Albertorio. NCHS.
+REC_USE_LIM: ''
+DATA_COMP: 'Number of cases / total population *100,000'
+actual_indicator_available_description: >-
+  The 1993–2022 tuberculosis case counts and incidence rates were updated using
+  the following sources:
+
+
+  1. For 1993–1999,  Bridged-Race 1990–1999 Intercensal Population Estimates for
+  July 1, 1990–July 1, 1999
+
+  2. For 2000–2009, Intercensal Estimates of the Resident Population for the
+  United States, Regions, States, and Puerto Rico: April 1, 2000 to July 1, 2010
+
+  3. For 2010–2019, Annual Estimates of the Resident Population for the United
+  States, Regions, States, and Puerto Rico: April 1, 2010 to July 1, 2020;
+  accessed June 22, 2021
+
+  4. For 2020-2022, Annual Estimates of the Resident Population for the United
+  States, Regions, States, District of Columbia and Puerto Rico: April 1, 2020
+  to July 1, 2022, accessed July 10, 2023
+
+
+  Data for all years are updated through July 8, 2023.
+date_of_national_source_publication: November 2023
+periodicity: Annual
+scheduled_update_by_national_source: November 2024
+date_metadata_updated: 8/2/2024
+disaggregation_geography: National
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: 'CDC/OID/NCHHSTP '
+source_agency_staff_name_1: Amy Branum
+source_agency_survey_dataset_1: 'CDC/OID/NCHHSTP '
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://www.cdc.gov/tb/statistics/reports/2022/table1.htm'
+source_url_text_1: 'https://www.cdc.gov/tb/statistics/reports/2022/table1.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

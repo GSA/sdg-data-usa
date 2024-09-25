@@ -1,0 +1,57 @@
+﻿SDG_INDICATOR: >-
+  Percent of US children from birth up to 5 years with height-for-age less than
+  2 standard deviations of the median of the WHO Child Growth Standards.
+CONTACT_ORGANISATION: >-
+  Centers for Disease Control/National Center for Health Statistics/National
+  Health and Nutrition Examination Survey
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  Centers for Disease Control/National Center for Health Statistics/National
+  Health and Nutrition Examination Survey -
+  http://www.cdc.gov/nchs/nhanes/index.htm
+DATA_SOURCE: Division of Health and Nutrition Examination Survey
+REC_USE_LIM: >-
+  The reported estimates were derived by combining two years of NHANES data
+  (e.g., 1999–2000). Data is also accessible for the COVID period (e.g.,
+  2017–2020 = 3.9), wherein the computation was derived from a dataset spanning
+  3.2 years, deviating from the conventional two-year data cycle. The estimated
+  percent meets the NCHS standards for reliability and precision. 
+DATA_COMP: >-
+  The number of children from birth through <5 years with height-for-age more
+  than 2 standard deviations below the median length/height-for-age was divided
+  by the total number of children from birth through 5 years and the result was
+  multiplied by 100.  The numbers and resulting estimate are weighted to be
+  nationally representative.  The 2013-2014 NHANES data were merged with the
+  expanded WHO growth chart files of length/height-for-age for boys and girls by
+  age in days. Age in months at examination on the NHANES 2013-2014 file was
+  converted to age in days by multiplying it by 30.4375 and taking the largest
+  integer of the result.
+actual_indicator_available_description: ''
+date_of_national_source_publication: 'October, 2015'
+periodicity: Biannually (every 2 years)
+scheduled_update_by_national_source: ''
+date_metadata_updated: 'February, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2000-2017
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  Centers for Disease Control/National Center for Health Statistics/National
+  Health and Nutrition Examination Survey
+source_agency_staff_name_1: Division of Health and Nutrition Examination Survey
+source_agency_survey_dataset_1: >-
+  Centers for Disease Control/National Center for Health Statistics/National
+  Health and Nutrition Examination Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.cdc.gov/nchs/nhanes/index.htm'
+source_url_text_1: 'http://www.cdc.gov/nchs/nhanes/index.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

@@ -1,0 +1,42 @@
+﻿SDG_INDICATOR: >-
+  Total net official development assistance to medical research and basic health sectors
+CONTACT_ORGANISATION: USAID
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'U.S. Dollars, millions (current price base)'
+SOURCE_TYPE: OECD/DAC Creditor Reporting System
+DATA_SOURCE: 'Elise Egan, Carlyn Mann'
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Data are extracted from the OECD's Creditor Reporting System (CRS) for selected purpose codes that have have been agreed support basic health. This includes:
+  - all basic health sector purpose codes
+  - medical research
+
+  Note: data before 2002 are on commitments basis due to the lack of quality in disbursement data in this period. Data 2002-2009 are on gross disbursements basis, and data from 2010 onwards are on net disbursements basis.
+actual_indicator_available_description: >-
+  Total net official development assistance to medical research and basic health sectors
+date_of_national_source_publication: ''
+periodicity: Annual
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: 08-26-2024
+disaggregation_geography: >-
+  Total presented for all ODA-eligible countries 
+  http://www.oecd.org/dac/stats/daclist.htm
+disaggregation_categories: n/a
+international_and_national_references: ''
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: USAID
+source_agency_staff_name_1: Elise Egan; Carlyn Mann
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://data-explorer.oecd.org/vis?fs[0]=Topic%2C0%7CDevelopment%23DEV%23&pg=0&fc=Topic&bp=true&snb=39&df[ds]=dsDisseminateFinalDMZ&df[id]=DSD_CRS%40DF_CRS&df[ag]=OECD.DCD.FSD&df[vs]=1.1&dq=DAC..1000.100._T._T.D.Q._T..&lom=LASTNPERIODS&lo=5&to[TIME_PERIOD]=false
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

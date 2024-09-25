@@ -1,0 +1,47 @@
+﻿SDG_INDICATOR: Tourism value added as a share of GDP
+CONTACT_ORGANISATION: Bureau of Economic Analysis
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Share, Percent change'
+SOURCE_TYPE: Bureau of Economic Analysis -Travel and Tourism Satellite Account
+DATA_SOURCE: Andrew Craig
+REC_USE_LIM: Data Inputs
+DATA_COMP: >-
+  Satellite accounts are based on the latest US Input Output tables. We use
+  Fisher chained indices for computing constant dollar statistics.
+  https://www.bea.gov/scb/pdf/2017/06%20June/0617_travel_and_tourism_satellite_accounts.pdf
+actual_indicator_available_description: >-
+  All statistics are reported for the total tourism for the U.S., as well as
+  broken out by four major commodity groups ( Traveler accommodations,
+  Transportation, Food and beverage services, and Recreation, entertainment and
+  shopping), and four minor subcategories. Transportation is divided into two
+  subcategories; Passenger air and All other transportation-related
+  commodities,  while Recreation, entertainment and shopping is divided into;
+  Recreation and entertainment, and Shopping.
+date_of_national_source_publication: April 2024 via BEA's Survey of Current Business
+periodicity: Annual
+scheduled_update_by_national_source: ''
+date_metadata_updated: 8/1/2024
+disaggregation_geography: US
+disaggregation_categories: >-
+  Traveler Accommodations, Transportation (Air Transportation, All Other
+  Transportation Related Commodities), Food and Beverage Services, Recreation,
+  Entertainment, and Shopping
+international_and_national_references: ''
+time_period: 2007-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Bureau of Economic Analysis
+source_agency_staff_name_1: Andrew Craig
+source_agency_survey_dataset_1: Bureau of Economic Analysis
+source_notes_1: ''
+source_title_1: ''
+source_url_1: >-
+  https://www.bea.gov/scb/2018/06-june/0618-us-travel-tourism-satellite-account.htm
+source_url_text_1: >-
+  https://www.bea.gov/scb/2018/06-june/0618-us-travel-tourism-satellite-account.htm
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

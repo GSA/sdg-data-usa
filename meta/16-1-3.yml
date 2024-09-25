@@ -1,0 +1,79 @@
+﻿SDG_INDICATOR: >-
+  Proportion of population subjected to (a) physical violence, (b) psychological
+  violence and/or (c) sexual violence in the previous 12 months
+CONTACT_ORGANISATION: Bureau of Justice Statistics
+STAT_CONC_DEF: >-
+  Prevalence reflects the number or percentage of unique persons who were
+  victims of crime at least once during a given period. The National Crime
+  Victimization Survey (NCVS) measures the percent of persons age 12 or older
+  that experienced one or more violent crimes in the previous 12 months. Violent
+  crime includes physical violence (robbery, aggravated assault, and simple
+  assault) and sexual violence (rape and sexual assault). The NCVS does not
+  measure psychological violence.
+UNIT_MEASURE: Percent of unique victims of violent crime in the specified population
+SOURCE_TYPE: National Crime Victimization Survey (NCVS)
+DATA_SOURCE: Bureau of Justice Statistics
+REC_USE_LIM: >-
+  The NCVS is administered to persons age 12 or older from a nationally
+  representative sample of U.S. households. It collects information on nonfatal
+  personal crimes (rape or sexual assault, robbery, aggravated assault, simple
+  assault, and personal larceny (purse snatching and pocket picking)) and
+  household property crimes (burglary or trespassing, motor vehicle theft, and
+  other types of theft). The survey collects information on threatened,
+  attempted, and completed crimes. It collects data both on crimes reported and
+  not reported to police. Unless specified otherwise, estimates in this report
+  include threatened, attempted, and completed crimes. For more information on
+  the sample size and response rates see
+  https://bjs.ojp.gov/data-collection/ncvs
+
+
+  Estimates for 2006 cannot be compared to other years. See Criminal
+  Victimization, 2007 (NCJ 224390, BJS, December 2008),
+  https://bjs.ojp.gov/content/pub/pdf/cv07.pdf,  for more information on changes
+  to the 2006 National Crime Victimization Survey.
+
+
+  As the NCVS is based on a nationally representative sample, the indicator is
+  subject to sampling error. The national estimate in 2022 had a standard error
+  of 0.042%. For other years, see Criminal Victimization, 2022 (NCJ 307089, BJS,
+  September 2023), https://bjs.ojp.gov/document/cv22.pdf
+DATA_COMP: >-
+  Prevalence rates are estimated by dividing the number of unique victims in the
+  specified population by the total number of persons in the population and
+  multiplying the rate by 100, yielding the percentage of the population
+  victimized at least once in a period.
+actual_indicator_available_description: >-
+  Proportion of population subjected to violent victimization in the previous 12
+  months
+date_of_national_source_publication: September 2023
+periodicity: >-
+  The NCVS is a self-report survey that is administered annually from January 1
+  to December 31. Annual NCVS estimates are based on the number and
+  characteristics of crimes that respondents experienced during the prior 6
+  months, excluding the month in which they were interviewed. Therefore, the
+  2022 survey covers crimes experienced from July 1, 2021 to November 30, 2022,
+  with March 15, 2022 as the middle of the reference period. Crimes are
+  classified by the year of the survey and not by the year of the crime.
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: None
+international_and_national_references: >-
+  Criminal Victimization, 2022 (NCJ 307089, BJS, September 2023),
+  https://bjs.ojp.gov/document/cv22.pdf
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Bureau of Justice Statistics
+source_agency_staff_name_1: 'Shelley S. Hyland, Ph.D.'
+source_agency_survey_dataset_1: National Crime Victimization Survey (NCVS)
+source_notes_1: ''
+source_title_1: 'Criminal Victimization, 2022'
+source_url_1: 'https://bjs.ojp.gov/document/cv22.pdf'
+source_url_text_1: 'https://bjs.ojp.gov/document/cv22.pdf'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''
