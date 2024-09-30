@@ -1,0 +1,661 @@
+﻿Year,Sex,Age,Disability Status,Units,Value
+2009,Men,16 +,Persons with a disability,Percent,15.1
+2010,Men,16 +,Persons with a disability,Percent,15.2
+2011,Men,16 +,Persons with a disability,Percent,15.3
+2012,Men,16 +,Persons with a disability,Percent,13.2
+2013,Men,16 +,Persons with a disability,Percent,13.0
+2014,Men,16 +,Persons with a disability,Percent,12.5
+2015,Men,16 +,Persons with a disability,Percent,10.6
+2016,Men,16 +,Persons with a disability,Percent,10.1
+2017,Men,16 +,Persons with a disability,Percent,9.0
+2018,Men,16 +,Persons with a disability,Percent,7.9
+2019,Men,16 +,Persons with a disability,Percent,7.4
+2020,Men,16 +,Persons with a disability,Percent,12.0
+2021,Men,16 +,Persons with a disability,Percent,10.1
+2022,Men,16 +,Persons with a disability,Percent,7.8
+2023,Men,16 +,Persons with a disability,Percent,7.2
+2009,Men,16 +,Persons with no disability,Percent,10.1
+2010,Men,16 +,Persons with no disability,Percent,10.3
+2011,Men,16 +,Persons with no disability,Percent,9.1
+2012,Men,16 +,Persons with no disability,Percent,8.0
+2013,Men,16 +,Persons with no disability,Percent,7.4
+2014,Men,16 +,Persons with no disability,Percent,6.0
+2015,Men,16 +,Persons with no disability,Percent,5.2
+2016,Men,16 +,Persons with no disability,Percent,4.7
+2017,Men,16 +,Persons with no disability,Percent,4.2
+2018,Men,16 +,Persons with no disability,Percent,3.8
+2019,Men,16 +,Persons with no disability,Percent,3.6
+2020,Men,16 +,Persons with no disability,Percent,7.6
+2021,Men,16 +,Persons with no disability,Percent,5.3
+2022,Men,16 +,Persons with no disability,Percent,3.5
+2023,Men,16 +,Persons with no disability,Percent,3.6
+2009,Men,16 - 64,Persons with a disability,Percent,16.4
+2010,Men,16 - 64,Persons with a disability,Percent,16.4
+2011,Men,16 - 64,Persons with a disability,Percent,16.6
+2012,Men,16 - 64,Persons with a disability,Percent,14.5
+2013,Men,16 - 64,Persons with a disability,Percent,14.6
+2014,Men,16 - 64,Persons with a disability,Percent,14.1
+2015,Men,16 - 64,Persons with a disability,Percent,11.6
+2016,Men,16 - 64,Persons with a disability,Percent,11.2
+2017,Men,16 - 64,Persons with a disability,Percent,10.0
+2018,Men,16 - 64,Persons with a disability,Percent,8.7
+2019,Men,16 - 64,Persons with a disability,Percent,8.3
+2020,Men,16 - 64,Persons with a disability,Percent,13.0
+2021,Men,16 - 64,Persons with a disability,Percent,11.1
+2022,Men,16 - 64,Persons with a disability,Percent,8.5
+2023,Men,16 - 64,Persons with a disability,Percent,7.8
+2009,Men,16 - 64,Persons with no disability,Percent,10.2
+2010,Men,16 - 64,Persons with no disability,Percent,10.5
+2011,Men,16 - 64,Persons with no disability,Percent,9.3
+2012,Men,16 - 64,Persons with no disability,Percent,8.1
+2013,Men,16 - 64,Persons with no disability,Percent,7.5
+2014,Men,16 - 64,Persons with no disability,Percent,6.1
+2015,Men,16 - 64,Persons with no disability,Percent,5.3
+2016,Men,16 - 64,Persons with no disability,Percent,4.8
+2017,Men,16 - 64,Persons with no disability,Percent,4.3
+2018,Men,16 - 64,Persons with no disability,Percent,3.8
+2019,Men,16 - 64,Persons with no disability,Percent,3.6
+2020,Men,16 - 64,Persons with no disability,Percent,7.7
+2021,Men,16 - 64,Persons with no disability,Percent,5.3
+2022,Men,16 - 64,Persons with no disability,Percent,3.5
+2023,Men,16 - 64,Persons with no disability,Percent,3.7
+2009,Men,16 -19,Persons with a disability,Percent,42.3
+2010,Men,16 -19,Persons with a disability,Percent,38.5
+2011,Men,16 -19,Persons with a disability,Percent,48.8
+2012,Men,16 -19,Persons with a disability,Percent,40.7
+2013,Men,16 -19,Persons with a disability,Percent,43.4
+2014,Men,16 -19,Persons with a disability,Percent,44.9
+2015,Men,16 -19,Persons with a disability,Percent,34.2
+2016,Men,16 -19,Persons with a disability,Percent,36.6
+2017,Men,16 -19,Persons with a disability,Percent,25.1
+2018,Men,16 -19,Persons with a disability,Percent,27.7
+2019,Men,16 -19,Persons with a disability,Percent,27.9
+2020,Men,16 -19,Persons with a disability,Percent,26.3
+2021,Men,16 -19,Persons with a disability,Percent,20.6
+2022,Men,16 -19,Persons with a disability,Percent,21.5
+2023,Men,16 -19,Persons with a disability,Percent,17.6
+2009,Men,16 -19,Persons with no disability,Percent,27.4
+2010,Men,16 -19,Persons with no disability,Percent,28.5
+2011,Men,16 -19,Persons with no disability,Percent,26.6
+2012,Men,16 -19,Persons with no disability,Percent,26.4
+2013,Men,16 -19,Persons with no disability,Percent,25.1
+2014,Men,16 -19,Persons with no disability,Percent,20.8
+2015,Men,16 -19,Persons with no disability,Percent,18.0
+2016,Men,16 -19,Persons with no disability,Percent,16.5
+2017,Men,16 -19,Persons with no disability,Percent,15.3
+2018,Men,16 -19,Persons with no disability,Percent,14.1
+2019,Men,16 -19,Persons with no disability,Percent,13.4
+2020,Men,16 -19,Persons with no disability,Percent,18.1
+2021,Men,16 -19,Persons with no disability,Percent,12.3
+2022,Men,16 -19,Persons with no disability,Percent,10.8
+2023,Men,16 -19,Persons with no disability,Percent,12.1
+2009,Men,20 +,Persons with a disability,Percent,14.2
+2010,Men,20 +,Persons with a disability,Percent,14.5
+2011,Men,20 +,Persons with a disability,Percent,14.6
+2012,Men,20 +,Persons with a disability,Percent,12.4
+2013,Men,20 +,Persons with a disability,Percent,12.3
+2014,Men,20 +,Persons with a disability,Percent,11.7
+2015,Men,20 +,Persons with a disability,Percent,10.0
+2016,Men,20 +,Persons with a disability,Percent,9.4
+2017,Men,20 +,Persons with a disability,Percent,8.6
+2018,Men,20 +,Persons with a disability,Percent,7.4
+2019,Men,20 +,Persons with a disability,Percent,6.8
+2020,Men,20 +,Persons with a disability,Percent,11.6
+2021,Men,20 +,Persons with a disability,Percent,9.8
+2022,Men,20 +,Persons with a disability,Percent,7.4
+2023,Men,20 +,Persons with a disability,Percent,7.0
+2009,Men,20 +,Persons with no disability,Percent,9.4
+2010,Men,20 +,Persons with no disability,Percent,9.6
+2011,Men,20 +,Persons with no disability,Percent,8.5
+2012,Men,20 +,Persons with no disability,Percent,7.3
+2013,Men,20 +,Persons with no disability,Percent,6.8
+2014,Men,20 +,Persons with no disability,Percent,5.5
+2015,Men,20 +,Persons with no disability,Percent,4.7
+2016,Men,20 +,Persons with no disability,Percent,4.3
+2017,Men,20 +,Persons with no disability,Percent,3.8
+2018,Men,20 +,Persons with no disability,Percent,3.4
+2019,Men,20 +,Persons with no disability,Percent,3.2
+2020,Men,20 +,Persons with no disability,Percent,7.3
+2021,Men,20 +,Persons with no disability,Percent,5.0
+2022,Men,20 +,Persons with no disability,Percent,3.2
+2023,Men,20 +,Persons with no disability,Percent,3.3
+2009,Men,20 - 24,Persons with a disability,Percent,29.2
+2010,Men,20 - 24,Persons with a disability,Percent,25.7
+2011,Men,20 - 24,Persons with a disability,Percent,30.6
+2012,Men,20 - 24,Persons with a disability,Percent,29.7
+2013,Men,20 - 24,Persons with a disability,Percent,28.9
+2014,Men,20 - 24,Persons with a disability,Percent,27.1
+2015,Men,20 - 24,Persons with a disability,Percent,20.1
+2016,Men,20 - 24,Persons with a disability,Percent,19.5
+2017,Men,20 - 24,Persons with a disability,Percent,15.9
+2018,Men,20 - 24,Persons with a disability,Percent,17.8
+2019,Men,20 - 24,Persons with a disability,Percent,11.1
+2020,Men,20 - 24,Persons with a disability,Percent,21.5
+2021,Men,20 - 24,Persons with a disability,Percent,18.4
+2022,Men,20 - 24,Persons with a disability,Percent,16.9
+2023,Men,20 - 24,Persons with a disability,Percent,15.6
+2009,Men,20 - 24,Persons with no disability,Percent,16.6
+2010,Men,20 - 24,Persons with no disability,Percent,17.6
+2011,Men,20 - 24,Persons with no disability,Percent,15.4
+2012,Men,20 - 24,Persons with no disability,Percent,14.0
+2013,Men,20 - 24,Persons with no disability,Percent,13.6
+2014,Men,20 - 24,Persons with no disability,Percent,11.8
+2015,Men,20 - 24,Persons with no disability,Percent,10.5
+2016,Men,20 - 24,Persons with no disability,Percent,9.0
+2017,Men,20 - 24,Persons with no disability,Percent,8.2
+2018,Men,20 - 24,Persons with no disability,Percent,7.4
+2019,Men,20 - 24,Persons with no disability,Percent,7.6
+2020,Men,20 - 24,Persons with no disability,Percent,13.5
+2021,Men,20 - 24,Persons with no disability,Percent,9.5
+2022,Men,20 - 24,Persons with no disability,Percent,7.5
+2023,Men,20 - 24,Persons with no disability,Percent,7.0
+2009,Men,25 +,Persons with a disability,Percent,13.2
+2010,Men,25 +,Persons with a disability,Percent,13.8
+2011,Men,25 +,Persons with a disability,Percent,13.7
+2012,Men,25 +,Persons with a disability,Percent,11.4
+2013,Men,25 +,Persons with a disability,Percent,11.1
+2014,Men,25 +,Persons with a disability,Percent,10.6
+2015,Men,25 +,Persons with a disability,Percent,9.2
+2016,Men,25 +,Persons with a disability,Percent,8.7
+2017,Men,25 +,Persons with a disability,Percent,8.2
+2018,Men,25 +,Persons with a disability,Percent,6.7
+2019,Men,25 +,Persons with a disability,Percent,6.5
+2020,Men,25 +,Persons with a disability,Percent,10.9
+2021,Men,25 +,Persons with a disability,Percent,9.2
+2022,Men,25 +,Persons with a disability,Percent,6.7
+2023,Men,25 +,Persons with a disability,Percent,6.3
+2009,Men,25 +,Persons with no disability,Percent,8.6
+2010,Men,25 +,Persons with no disability,Percent,8.7
+2011,Men,25 +,Persons with no disability,Percent,7.7
+2012,Men,25 +,Persons with no disability,Percent,6.6
+2013,Men,25 +,Persons with no disability,Percent,6.0
+2014,Men,25 +,Persons with no disability,Percent,4.8
+2015,Men,25 +,Persons with no disability,Percent,4.1
+2016,Men,25 +,Persons with no disability,Percent,3.8
+2017,Men,25 +,Persons with no disability,Percent,3.3
+2018,Men,25 +,Persons with no disability,Percent,3.0
+2019,Men,25 +,Persons with no disability,Percent,2.8
+2020,Men,25 +,Persons with no disability,Percent,6.6
+2021,Men,25 +,Persons with no disability,Percent,4.6
+2022,Men,25 +,Persons with no disability,Percent,2.8
+2023,Men,25 +,Persons with no disability,Percent,2.9
+2009,Men,25 - 34,Persons with a disability,Percent,19.2
+2010,Men,25 - 34,Persons with a disability,Percent,22.4
+2011,Men,25 - 34,Persons with a disability,Percent,21.0
+2012,Men,25 - 34,Persons with a disability,Percent,16.8
+2013,Men,25 - 34,Persons with a disability,Percent,16.7
+2014,Men,25 - 34,Persons with a disability,Percent,17.6
+2015,Men,25 - 34,Persons with a disability,Percent,15.2
+2016,Men,25 - 34,Persons with a disability,Percent,13.3
+2017,Men,25 - 34,Persons with a disability,Percent,15.3
+2018,Men,25 - 34,Persons with a disability,Percent,9.8
+2019,Men,25 - 34,Persons with a disability,Percent,11.9
+2020,Men,25 - 34,Persons with a disability,Percent,14.8
+2021,Men,25 - 34,Persons with a disability,Percent,13.9
+2022,Men,25 - 34,Persons with a disability,Percent,10.1
+2023,Men,25 - 34,Persons with a disability,Percent,8.8
+2009,Men,25 - 34,Persons with no disability,Percent,10.7
+2010,Men,25 - 34,Persons with no disability,Percent,10.6
+2011,Men,25 - 34,Persons with no disability,Percent,9.4
+2012,Men,25 - 34,Persons with no disability,Percent,8.0
+2013,Men,25 - 34,Persons with no disability,Percent,7.3
+2014,Men,25 - 34,Persons with no disability,Percent,6.1
+2015,Men,25 - 34,Persons with no disability,Percent,5.3
+2016,Men,25 - 34,Persons with no disability,Percent,4.9
+2017,Men,25 - 34,Persons with no disability,Percent,4.3
+2018,Men,25 - 34,Persons with no disability,Percent,3.7
+2019,Men,25 - 34,Persons with no disability,Percent,3.5
+2020,Men,25 - 34,Persons with no disability,Percent,8.4
+2021,Men,25 - 34,Persons with no disability,Percent,5.7
+2022,Men,25 - 34,Persons with no disability,Percent,3.7
+2023,Men,25 - 34,Persons with no disability,Percent,4.0
+2009,Men,35 - 44,Persons with a disability,Percent,16.5
+2010,Men,35 - 44,Persons with a disability,Percent,14.3
+2011,Men,35 - 44,Persons with a disability,Percent,16.7
+2012,Men,35 - 44,Persons with a disability,Percent,14.3
+2013,Men,35 - 44,Persons with a disability,Percent,15.7
+2014,Men,35 - 44,Persons with a disability,Percent,13.7
+2015,Men,35 - 44,Persons with a disability,Percent,12.8
+2016,Men,35 - 44,Persons with a disability,Percent,9.0
+2017,Men,35 - 44,Persons with a disability,Percent,10.1
+2018,Men,35 - 44,Persons with a disability,Percent,7.9
+2019,Men,35 - 44,Persons with a disability,Percent,6.1
+2020,Men,35 - 44,Persons with a disability,Percent,10.9
+2021,Men,35 - 44,Persons with a disability,Percent,10.1
+2022,Men,35 - 44,Persons with a disability,Percent,8.5
+2023,Men,35 - 44,Persons with a disability,Percent,6.8
+2009,Men,35 - 44,Persons with no disability,Percent,8.4
+2010,Men,35 - 44,Persons with no disability,Percent,8.3
+2011,Men,35 - 44,Persons with no disability,Percent,7.2
+2012,Men,35 - 44,Persons with no disability,Percent,6.2
+2013,Men,35 - 44,Persons with no disability,Percent,5.5
+2014,Men,35 - 44,Persons with no disability,Percent,4.4
+2015,Men,35 - 44,Persons with no disability,Percent,3.7
+2016,Men,35 - 44,Persons with no disability,Percent,3.5
+2017,Men,35 - 44,Persons with no disability,Percent,3.1
+2018,Men,35 - 44,Persons with no disability,Percent,2.7
+2019,Men,35 - 44,Persons with no disability,Percent,2.5
+2020,Men,35 - 44,Persons with no disability,Percent,6.0
+2021,Men,35 - 44,Persons with no disability,Percent,4.5
+2022,Men,35 - 44,Persons with no disability,Percent,2.7
+2023,Men,35 - 44,Persons with no disability,Percent,2.7
+2009,Men,45 - 54,Persons with a disability,Percent,14.5
+2010,Men,45 - 54,Persons with a disability,Percent,14.9
+2011,Men,45 - 54,Persons with a disability,Percent,14.3
+2012,Men,45 - 54,Persons with a disability,Percent,11.5
+2013,Men,45 - 54,Persons with a disability,Percent,11.5
+2014,Men,45 - 54,Persons with a disability,Percent,12.2
+2015,Men,45 - 54,Persons with a disability,Percent,8.6
+2016,Men,45 - 54,Persons with a disability,Percent,10.0
+2017,Men,45 - 54,Persons with a disability,Percent,9.1
+2018,Men,45 - 54,Persons with a disability,Percent,6.4
+2019,Men,45 - 54,Persons with a disability,Percent,7.9
+2020,Men,45 - 54,Persons with a disability,Percent,10.5
+2021,Men,45 - 54,Persons with a disability,Percent,9.0
+2022,Men,45 - 54,Persons with a disability,Percent,6.4
+2023,Men,45 - 54,Persons with a disability,Percent,6.3
+2009,Men,45 - 54,Persons with no disability,Percent,7.9
+2010,Men,45 - 54,Persons with no disability,Percent,8.3
+2011,Men,45 - 54,Persons with no disability,Percent,7.1
+2012,Men,45 - 54,Persons with no disability,Percent,6.0
+2013,Men,45 - 54,Persons with no disability,Percent,5.5
+2014,Men,45 - 54,Persons with no disability,Percent,4.1
+2015,Men,45 - 54,Persons with no disability,Percent,3.4
+2016,Men,45 - 54,Persons with no disability,Percent,3.1
+2017,Men,45 - 54,Persons with no disability,Percent,2.8
+2018,Men,45 - 54,Persons with no disability,Percent,2.7
+2019,Men,45 - 54,Persons with no disability,Percent,2.5
+2020,Men,45 - 54,Persons with no disability,Percent,5.7
+2021,Men,45 - 54,Persons with no disability,Percent,3.9
+2022,Men,45 - 54,Persons with no disability,Percent,2.2
+2023,Men,45 - 54,Persons with no disability,Percent,2.4
+2009,Men,55 - 64,Persons with a disability,Percent,10.2
+2010,Men,55 - 64,Persons with a disability,Percent,11.9
+2011,Men,55 - 64,Persons with a disability,Percent,10.8
+2012,Men,55 - 64,Persons with a disability,Percent,10.2
+2013,Men,55 - 64,Persons with a disability,Percent,9.1
+2014,Men,55 - 64,Persons with a disability,Percent,7.7
+2015,Men,55 - 64,Persons with a disability,Percent,7.0
+2016,Men,55 - 64,Persons with a disability,Percent,7.7
+2017,Men,55 - 64,Persons with a disability,Percent,5.0
+2018,Men,55 - 64,Persons with a disability,Percent,6.2
+2019,Men,55 - 64,Persons with a disability,Percent,4.5
+2020,Men,55 - 64,Persons with a disability,Percent,10.8
+2021,Men,55 - 64,Persons with a disability,Percent,8.3
+2022,Men,55 - 64,Persons with a disability,Percent,5.1
+2023,Men,55 - 64,Persons with a disability,Percent,5.3
+2009,Men,55 - 64,Persons with no disability,Percent,6.9
+2010,Men,55 - 64,Persons with no disability,Percent,7.7
+2011,Men,55 - 64,Persons with no disability,Percent,6.9
+2012,Men,55 - 64,Persons with no disability,Percent,6.0
+2013,Men,55 - 64,Persons with no disability,Percent,5.4
+2014,Men,55 - 64,Persons with no disability,Percent,4.3
+2015,Men,55 - 64,Persons with no disability,Percent,3.7
+2016,Men,55 - 64,Persons with no disability,Percent,3.5
+2017,Men,55 - 64,Persons with no disability,Percent,3.0
+2018,Men,55 - 64,Persons with no disability,Percent,2.8
+2019,Men,55 - 64,Persons with no disability,Percent,2.4
+2020,Men,55 - 64,Persons with no disability,Percent,6.1
+2021,Men,55 - 64,Persons with no disability,Percent,4.0
+2022,Men,55 - 64,Persons with no disability,Percent,2.4
+2023,Men,55 - 64,Persons with no disability,Percent,2.5
+2009,Men,65 +,Persons with a disability,Percent,7.4
+2010,Men,65 +,Persons with a disability,Percent,8.5
+2011,Men,65 +,Persons with a disability,Percent,8.7
+2012,Men,65 +,Persons with a disability,Percent,7.3
+2013,Men,65 +,Persons with a disability,Percent,6.0
+2014,Men,65 +,Persons with a disability,Percent,5.8
+2015,Men,65 +,Persons with a disability,Percent,6.0
+2016,Men,65 +,Persons with a disability,Percent,5.7
+2017,Men,65 +,Persons with a disability,Percent,5.2
+2018,Men,65 +,Persons with a disability,Percent,4.5
+2019,Men,65 +,Persons with a disability,Percent,3.9
+2020,Men,65 +,Persons with a disability,Percent,8.3
+2021,Men,65 +,Persons with a disability,Percent,5.9
+2022,Men,65 +,Persons with a disability,Percent,4.8
+2023,Men,65 +,Persons with a disability,Percent,4.8
+2009,Men,65 +,Persons with no disability,Percent,6.6
+2010,Men,65 +,Persons with no disability,Percent,6.9
+2011,Men,65 +,Persons with no disability,Percent,6.2
+2012,Men,65 +,Persons with no disability,Percent,6.0
+2013,Men,65 +,Persons with no disability,Percent,5.5
+2014,Men,65 +,Persons with no disability,Percent,4.4
+2015,Men,65 +,Persons with no disability,Percent,3.5
+2016,Men,65 +,Persons with no disability,Percent,3.5
+2017,Men,65 +,Persons with no disability,Percent,3.1
+2018,Men,65 +,Persons with no disability,Percent,3.0
+2019,Men,65 +,Persons with no disability,Percent,2.8
+2020,Men,65 +,Persons with no disability,Percent,6.6
+2021,Men,65 +,Persons with no disability,Percent,4.1
+2022,Men,65 +,Persons with no disability,Percent,2.8
+2023,Men,65 +,Persons with no disability,Percent,2.5
+2009,Women,16 +,Persons with a disability,Percent,13.8
+2010,Women,16 +,Persons with a disability,Percent,14.3
+2011,Women,16 +,Persons with a disability,Percent,14.7
+2012,Women,16 +,Persons with a disability,Percent,13.7
+2013,Women,16 +,Persons with a disability,Percent,13.5
+2014,Women,16 +,Persons with a disability,Percent,12.5
+2015,Women,16 +,Persons with a disability,Percent,10.8
+2016,Women,16 +,Persons with a disability,Percent,11.0
+2017,Women,16 +,Persons with a disability,Percent,9.5
+2018,Women,16 +,Persons with a disability,Percent,8.1
+2019,Women,16 +,Persons with a disability,Percent,7.3
+2020,Women,16 +,Persons with a disability,Percent,13.2
+2021,Women,16 +,Persons with a disability,Percent,10.1
+2022,Women,16 +,Persons with a disability,Percent,7.4
+2023,Women,16 +,Persons with a disability,Percent,7.2
+2009,Women,16 +,Persons with no disability,Percent,7.8
+2010,Women,16 +,Persons with no disability,Percent,8.4
+2011,Women,16 +,Persons with no disability,Percent,8.2
+2012,Women,16 +,Persons with no disability,Percent,7.7
+2013,Women,16 +,Persons with no disability,Percent,6.8
+2014,Women,16 +,Persons with no disability,Percent,5.8
+2015,Women,16 +,Persons with no disability,Percent,5.0
+2016,Women,16 +,Persons with no disability,Percent,4.6
+2017,Women,16 +,Persons with no disability,Percent,4.1
+2018,Women,16 +,Persons with no disability,Percent,3.7
+2019,Women,16 +,Persons with no disability,Percent,3.5
+2020,Women,16 +,Persons with no disability,Percent,8.2
+2021,Women,16 +,Persons with no disability,Percent,5.0
+2022,Women,16 +,Persons with no disability,Percent,3.4
+2023,Women,16 +,Persons with no disability,Percent,3.3
+2009,Women,16 - 64,Persons with a disability,Percent,14.7
+2010,Women,16 - 64,Persons with a disability,Percent,15.0
+2011,Women,16 - 64,Persons with a disability,Percent,15.8
+2012,Women,16 - 64,Persons with a disability,Percent,14.7
+2013,Women,16 - 64,Persons with a disability,Percent,14.7
+2014,Women,16 - 64,Persons with a disability,Percent,13.7
+2015,Women,16 - 64,Persons with a disability,Percent,11.7
+2016,Women,16 - 64,Persons with a disability,Percent,11.7
+2017,Women,16 - 64,Persons with a disability,Percent,10.1
+2018,Women,16 - 64,Persons with a disability,Percent,8.7
+2019,Women,16 - 64,Persons with a disability,Percent,7.7
+2020,Women,16 - 64,Persons with a disability,Percent,13.9
+2021,Women,16 - 64,Persons with a disability,Percent,10.5
+2022,Women,16 - 64,Persons with a disability,Percent,7.8
+2023,Women,16 - 64,Persons with a disability,Percent,7.6
+2009,Women,16 - 64,Persons with no disability,Percent,7.9
+2010,Women,16 - 64,Persons with no disability,Percent,8.5
+2011,Women,16 - 64,Persons with no disability,Percent,8.3
+2012,Women,16 - 64,Persons with no disability,Percent,7.7
+2013,Women,16 - 64,Persons with no disability,Percent,6.9
+2014,Women,16 - 64,Persons with no disability,Percent,5.9
+2015,Women,16 - 64,Persons with no disability,Percent,5.0
+2016,Women,16 - 64,Persons with no disability,Percent,4.6
+2017,Women,16 - 64,Persons with no disability,Percent,4.1
+2018,Women,16 - 64,Persons with no disability,Percent,3.7
+2019,Women,16 - 64,Persons with no disability,Percent,3.5
+2020,Women,16 - 64,Persons with no disability,Percent,8.2
+2021,Women,16 - 64,Persons with no disability,Percent,5.1
+2022,Women,16 - 64,Persons with no disability,Percent,3.5
+2023,Women,16 - 64,Persons with no disability,Percent,3.3
+2009,Women,16 -19,Persons with a disability,Percent,32.5
+2010,Women,16 -19,Persons with a disability,Percent,30.3
+2011,Women,16 -19,Persons with a disability,Percent,34.5
+2012,Women,16 -19,Persons with a disability,Percent,35.5
+2013,Women,16 -19,Persons with a disability,Percent,41.3
+2014,Women,16 -19,Persons with a disability,Percent,36.1
+2015,Women,16 -19,Persons with a disability,Percent,26.5
+2016,Women,16 -19,Persons with a disability,Percent,34.8
+2017,Women,16 -19,Persons with a disability,Percent,26.3
+2018,Women,16 -19,Persons with a disability,Percent,24.0
+2019,Women,16 -19,Persons with a disability,Percent,14.2
+2020,Women,16 -19,Persons with a disability,Percent,27.3
+2021,Women,16 -19,Persons with a disability,Percent,21.5
+2022,Women,16 -19,Persons with a disability,Percent,17.7
+2023,Women,16 -19,Persons with a disability,Percent,18.2
+2009,Women,16 -19,Persons with no disability,Percent,20.4
+2010,Women,16 -19,Persons with no disability,Percent,22.7
+2011,Women,16 -19,Persons with no disability,Percent,21.4
+2012,Women,16 -19,Persons with no disability,Percent,20.9
+2013,Women,16 -19,Persons with no disability,Percent,19.8
+2014,Women,16 -19,Persons with no disability,Percent,17.3
+2015,Women,16 -19,Persons with no disability,Percent,15.2
+2016,Women,16 -19,Persons with no disability,Percent,13.7
+2017,Women,16 -19,Persons with no disability,Percent,12.2
+2018,Women,16 -19,Persons with no disability,Percent,11.1
+2019,Women,16 -19,Persons with no disability,Percent,11.4
+2020,Women,16 -19,Persons with no disability,Percent,17.2
+2021,Women,16 -19,Persons with no disability,Percent,10.5
+2022,Women,16 -19,Persons with no disability,Percent,10.1
+2023,Women,16 -19,Persons with no disability,Percent,9.8
+2009,Women,20 +,Persons with a disability,Percent,13.3
+2010,Women,20 +,Persons with a disability,Percent,14.0
+2011,Women,20 +,Persons with a disability,Percent,14.3
+2012,Women,20 +,Persons with a disability,Percent,13.2
+2013,Women,20 +,Persons with a disability,Percent,12.7
+2014,Women,20 +,Persons with a disability,Percent,12.0
+2015,Women,20 +,Persons with a disability,Percent,10.4
+2016,Women,20 +,Persons with a disability,Percent,10.4
+2017,Women,20 +,Persons with a disability,Percent,9.0
+2018,Women,20 +,Persons with a disability,Percent,7.7
+2019,Women,20 +,Persons with a disability,Percent,7.1
+2020,Women,20 +,Persons with a disability,Percent,12.9
+2021,Women,20 +,Persons with a disability,Percent,9.8
+2022,Women,20 +,Persons with a disability,Percent,7.0
+2023,Women,20 +,Persons with a disability,Percent,6.8
+2009,Women,20 +,Persons with no disability,Percent,7.2
+2010,Women,20 +,Persons with no disability,Percent,7.8
+2011,Women,20 +,Persons with no disability,Percent,7.7
+2012,Women,20 +,Persons with no disability,Percent,7.1
+2013,Women,20 +,Persons with no disability,Percent,6.3
+2014,Women,20 +,Persons with no disability,Percent,5.4
+2015,Women,20 +,Persons with no disability,Percent,4.6
+2016,Women,20 +,Persons with no disability,Percent,4.2
+2017,Women,20 +,Persons with no disability,Percent,3.8
+2018,Women,20 +,Persons with no disability,Percent,3.4
+2019,Women,20 +,Persons with no disability,Percent,3.1
+2020,Women,20 +,Persons with no disability,Percent,7.8
+2021,Women,20 +,Persons with no disability,Percent,4.8
+2022,Women,20 +,Persons with no disability,Percent,3.1
+2023,Women,20 +,Persons with no disability,Percent,3.0
+2009,Women,20 - 24,Persons with a disability,Percent,21.9
+2010,Women,20 - 24,Persons with a disability,Percent,22.9
+2011,Women,20 - 24,Persons with a disability,Percent,23.1
+2012,Women,20 - 24,Persons with a disability,Percent,25.1
+2013,Women,20 - 24,Persons with a disability,Percent,26.5
+2014,Women,20 - 24,Persons with a disability,Percent,24.0
+2015,Women,20 - 24,Persons with a disability,Percent,20.6
+2016,Women,20 - 24,Persons with a disability,Percent,19.6
+2017,Women,20 - 24,Persons with a disability,Percent,16.3
+2018,Women,20 - 24,Persons with a disability,Percent,11.3
+2019,Women,20 - 24,Persons with a disability,Percent,11.8
+2020,Women,20 - 24,Persons with a disability,Percent,20.6
+2021,Women,20 - 24,Persons with a disability,Percent,14.6
+2022,Women,20 - 24,Persons with a disability,Percent,12.4
+2023,Women,20 - 24,Persons with a disability,Percent,8.8
+2009,Women,20 - 24,Persons with no disability,Percent,12.1
+2010,Women,20 - 24,Persons with no disability,Percent,12.8
+2011,Women,20 - 24,Persons with no disability,Percent,13.2
+2012,Women,20 - 24,Persons with no disability,Percent,11.9
+2013,Women,20 - 24,Persons with no disability,Percent,11.2
+2014,Women,20 - 24,Persons with no disability,Percent,9.8
+2015,Women,20 - 24,Persons with no disability,Percent,8.2
+2016,Women,20 - 24,Persons with no disability,Percent,7.1
+2017,Women,20 - 24,Persons with no disability,Percent,6.0
+2018,Women,20 - 24,Persons with no disability,Percent,6.0
+2019,Women,20 - 24,Persons with no disability,Percent,5.5
+2020,Women,20 - 24,Persons with no disability,Percent,13.6
+2021,Women,20 - 24,Persons with no disability,Percent,7.9
+2022,Women,20 - 24,Persons with no disability,Percent,5.9
+2023,Women,20 - 24,Persons with no disability,Percent,5.7
+2009,Women,25 +,Persons with a disability,Percent,12.7
+2010,Women,25 +,Persons with a disability,Percent,13.4
+2011,Women,25 +,Persons with a disability,Percent,13.8
+2012,Women,25 +,Persons with a disability,Percent,12.5
+2013,Women,25 +,Persons with a disability,Percent,11.8
+2014,Women,25 +,Persons with a disability,Percent,11.1
+2015,Women,25 +,Persons with a disability,Percent,9.7
+2016,Women,25 +,Persons with a disability,Percent,9.6
+2017,Women,25 +,Persons with a disability,Percent,8.5
+2018,Women,25 +,Persons with a disability,Percent,7.4
+2019,Women,25 +,Persons with a disability,Percent,6.8
+2020,Women,25 +,Persons with a disability,Percent,12.3
+2021,Women,25 +,Persons with a disability,Percent,9.4
+2022,Women,25 +,Persons with a disability,Percent,6.5
+2023,Women,25 +,Persons with a disability,Percent,6.6
+2009,Women,25 +,Persons with no disability,Percent,6.7
+2010,Women,25 +,Persons with no disability,Percent,7.2
+2011,Women,25 +,Persons with no disability,Percent,7.0
+2012,Women,25 +,Persons with no disability,Percent,6.5
+2013,Women,25 +,Persons with no disability,Percent,5.7
+2014,Women,25 +,Persons with no disability,Percent,4.8
+2015,Women,25 +,Persons with no disability,Percent,4.1
+2016,Women,25 +,Persons with no disability,Percent,3.8
+2017,Women,25 +,Persons with no disability,Percent,3.5
+2018,Women,25 +,Persons with no disability,Percent,3.1
+2019,Women,25 +,Persons with no disability,Percent,2.9
+2020,Women,25 +,Persons with no disability,Percent,7.2
+2021,Women,25 +,Persons with no disability,Percent,4.4
+2022,Women,25 +,Persons with no disability,Percent,2.8
+2023,Women,25 +,Persons with no disability,Percent,2.7
+2009,Women,25 - 34,Persons with a disability,Percent,21.2
+2010,Women,25 - 34,Persons with a disability,Percent,20.6
+2011,Women,25 - 34,Persons with a disability,Percent,22.7
+2012,Women,25 - 34,Persons with a disability,Percent,19.4
+2013,Women,25 - 34,Persons with a disability,Percent,17.8
+2014,Women,25 - 34,Persons with a disability,Percent,18.3
+2015,Women,25 - 34,Persons with a disability,Percent,17.3
+2016,Women,25 - 34,Persons with a disability,Percent,16.3
+2017,Women,25 - 34,Persons with a disability,Percent,12.2
+2018,Women,25 - 34,Persons with a disability,Percent,12.2
+2019,Women,25 - 34,Persons with a disability,Percent,9.8
+2020,Women,25 - 34,Persons with a disability,Percent,17.6
+2021,Women,25 - 34,Persons with a disability,Percent,11.8
+2022,Women,25 - 34,Persons with a disability,Percent,8.8
+2023,Women,25 - 34,Persons with a disability,Percent,9.5
+2009,Women,25 - 34,Persons with no disability,Percent,8.3
+2010,Women,25 - 34,Persons with no disability,Percent,8.9
+2011,Women,25 - 34,Persons with no disability,Percent,8.8
+2012,Women,25 - 34,Persons with no disability,Percent,8.1
+2013,Women,25 - 34,Persons with no disability,Percent,7.0
+2014,Women,25 - 34,Persons with no disability,Percent,6.4
+2015,Women,25 - 34,Persons with no disability,Percent,5.3
+2016,Women,25 - 34,Persons with no disability,Percent,4.8
+2017,Women,25 - 34,Persons with no disability,Percent,4.4
+2018,Women,25 - 34,Persons with no disability,Percent,3.8
+2019,Women,25 - 34,Persons with no disability,Percent,3.6
+2020,Women,25 - 34,Persons with no disability,Percent,8.1
+2021,Women,25 - 34,Persons with no disability,Percent,5.2
+2022,Women,25 - 34,Persons with no disability,Percent,3.7
+2023,Women,25 - 34,Persons with no disability,Percent,3.4
+2009,Women,35 - 44,Persons with a disability,Percent,15.4
+2010,Women,35 - 44,Persons with a disability,Percent,16.3
+2011,Women,35 - 44,Persons with a disability,Percent,16.8
+2012,Women,35 - 44,Persons with a disability,Percent,17.4
+2013,Women,35 - 44,Persons with a disability,Percent,14.5
+2014,Women,35 - 44,Persons with a disability,Percent,13.8
+2015,Women,35 - 44,Persons with a disability,Percent,10.8
+2016,Women,35 - 44,Persons with a disability,Percent,11.0
+2017,Women,35 - 44,Persons with a disability,Percent,10.6
+2018,Women,35 - 44,Persons with a disability,Percent,7.6
+2019,Women,35 - 44,Persons with a disability,Percent,8.1
+2020,Women,35 - 44,Persons with a disability,Percent,13.7
+2021,Women,35 - 44,Persons with a disability,Percent,11.1
+2022,Women,35 - 44,Persons with a disability,Percent,9.0
+2023,Women,35 - 44,Persons with a disability,Percent,7.7
+2009,Women,35 - 44,Persons with no disability,Percent,6.9
+2010,Women,35 - 44,Persons with no disability,Percent,7.4
+2011,Women,35 - 44,Persons with no disability,Percent,6.9
+2012,Women,35 - 44,Persons with no disability,Percent,6.5
+2013,Women,35 - 44,Persons with no disability,Percent,5.8
+2014,Women,35 - 44,Persons with no disability,Percent,4.6
+2015,Women,35 - 44,Persons with no disability,Percent,4.2
+2016,Women,35 - 44,Persons with no disability,Percent,3.9
+2017,Women,35 - 44,Persons with no disability,Percent,3.5
+2018,Women,35 - 44,Persons with no disability,Percent,3.0
+2019,Women,35 - 44,Persons with no disability,Percent,2.7
+2020,Women,35 - 44,Persons with no disability,Percent,6.5
+2021,Women,35 - 44,Persons with no disability,Percent,4.4
+2022,Women,35 - 44,Persons with no disability,Percent,2.8
+2023,Women,35 - 44,Persons with no disability,Percent,2.6
+2009,Women,45 - 54,Persons with a disability,Percent,12.3
+2010,Women,45 - 54,Persons with a disability,Percent,13.5
+2011,Women,45 - 54,Persons with a disability,Percent,14.0
+2012,Women,45 - 54,Persons with a disability,Percent,14.0
+2013,Women,45 - 54,Persons with a disability,Percent,13.2
+2014,Women,45 - 54,Persons with a disability,Percent,11.0
+2015,Women,45 - 54,Persons with a disability,Percent,9.0
+2016,Women,45 - 54,Persons with a disability,Percent,9.0
+2017,Women,45 - 54,Persons with a disability,Percent,8.4
+2018,Women,45 - 54,Persons with a disability,Percent,7.1
+2019,Women,45 - 54,Persons with a disability,Percent,6.9
+2020,Women,45 - 54,Persons with a disability,Percent,11.8
+2021,Women,45 - 54,Persons with a disability,Percent,10.5
+2022,Women,45 - 54,Persons with a disability,Percent,5.8
+2023,Women,45 - 54,Persons with a disability,Percent,6.8
+2009,Women,45 - 54,Persons with no disability,Percent,5.7
+2010,Women,45 - 54,Persons with no disability,Percent,6.5
+2011,Women,45 - 54,Persons with no disability,Percent,6.4
+2012,Women,45 - 54,Persons with no disability,Percent,5.9
+2013,Women,45 - 54,Persons with no disability,Percent,5.2
+2014,Women,45 - 54,Persons with no disability,Percent,4.2
+2015,Women,45 - 54,Persons with no disability,Percent,3.6
+2016,Women,45 - 54,Persons with no disability,Percent,3.5
+2017,Women,45 - 54,Persons with no disability,Percent,3.1
+2018,Women,45 - 54,Persons with no disability,Percent,2.7
+2019,Women,45 - 54,Persons with no disability,Percent,2.5
+2020,Women,45 - 54,Persons with no disability,Percent,6.7
+2021,Women,45 - 54,Persons with no disability,Percent,4.0
+2022,Women,45 - 54,Persons with no disability,Percent,2.4
+2023,Women,45 - 54,Persons with no disability,Percent,2.2
+2009,Women,55 - 64,Persons with a disability,Percent,9.9
+2010,Women,55 - 64,Persons with a disability,Percent,10.2
+2011,Women,55 - 64,Persons with a disability,Percent,10.9
+2012,Women,55 - 64,Persons with a disability,Percent,8.5
+2013,Women,55 - 64,Persons with a disability,Percent,9.6
+2014,Women,55 - 64,Persons with a disability,Percent,9.3
+2015,Women,55 - 64,Persons with a disability,Percent,8.4
+2016,Women,55 - 64,Persons with a disability,Percent,7.6
+2017,Women,55 - 64,Persons with a disability,Percent,7.0
+2018,Women,55 - 64,Persons with a disability,Percent,6.5
+2019,Women,55 - 64,Persons with a disability,Percent,5.2
+2020,Women,55 - 64,Persons with a disability,Percent,10.2
+2021,Women,55 - 64,Persons with a disability,Percent,6.4
+2022,Women,55 - 64,Persons with a disability,Percent,4.6
+2023,Women,55 - 64,Persons with a disability,Percent,4.5
+2009,Women,55 - 64,Persons with no disability,Percent,5.7
+2010,Women,55 - 64,Persons with no disability,Percent,6.0
+2011,Women,55 - 64,Persons with no disability,Percent,5.8
+2012,Women,55 - 64,Persons with no disability,Percent,5.4
+2013,Women,55 - 64,Persons with no disability,Percent,4.7
+2014,Women,55 - 64,Persons with no disability,Percent,3.9
+2015,Women,55 - 64,Persons with no disability,Percent,3.3
+2016,Women,55 - 64,Persons with no disability,Percent,3.0
+2017,Women,55 - 64,Persons with no disability,Percent,2.8
+2018,Women,55 - 64,Persons with no disability,Percent,2.5
+2019,Women,55 - 64,Persons with no disability,Percent,2.5
+2020,Women,55 - 64,Persons with no disability,Percent,7.0
+2021,Women,55 - 64,Persons with no disability,Percent,4.0
+2022,Women,55 - 64,Persons with no disability,Percent,2.4
+2023,Women,55 - 64,Persons with no disability,Percent,2.2
+2009,Women,65 +,Persons with a disability,Percent,7.3
+2010,Women,65 +,Persons with a disability,Percent,9.4
+2011,Women,65 +,Persons with a disability,Percent,8.1
+2012,Women,65 +,Persons with a disability,Percent,7.4
+2013,Women,65 +,Persons with a disability,Percent,6.0
+2014,Women,65 +,Persons with a disability,Percent,6.1
+2015,Women,65 +,Persons with a disability,Percent,5.7
+2016,Women,65 +,Persons with a disability,Percent,7.4
+2017,Women,65 +,Persons with a disability,Percent,6.0
+2018,Women,65 +,Persons with a disability,Percent,4.9
+2019,Women,65 +,Persons with a disability,Percent,5.0
+2020,Women,65 +,Persons with a disability,Percent,9.6
+2021,Women,65 +,Persons with a disability,Percent,8.2
+2022,Women,65 +,Persons with a disability,Percent,5.1
+2023,Women,65 +,Persons with a disability,Percent,4.7
+2009,Women,65 +,Persons with no disability,Percent,6.0
+2010,Women,65 +,Persons with no disability,Percent,5.8
+2011,Women,65 +,Persons with no disability,Percent,6.3
+2012,Women,65 +,Persons with no disability,Percent,6.2
+2013,Women,65 +,Persons with no disability,Percent,5.0
+2014,Women,65 +,Persons with no disability,Percent,4.5
+2015,Women,65 +,Persons with no disability,Percent,3.7
+2016,Women,65 +,Persons with no disability,Percent,3.5
+2017,Women,65 +,Persons with no disability,Percent,3.6
+2018,Women,65 +,Persons with no disability,Percent,3.1
+2019,Women,65 +,Persons with no disability,Percent,2.8
+2020,Women,65 +,Persons with no disability,Percent,8.2
+2021,Women,65 +,Persons with no disability,Percent,4.2
+2022,Women,65 +,Persons with no disability,Percent,2.6
+2023,Women,65 +,Persons with no disability,Percent,2.7

@@ -1,0 +1,48 @@
+﻿SDG_INDICATOR: Percent of US births registered in all 50 states and the District of Columbia
+CONTACT_ORGANISATION: National Center for Health Statistics/Final natality data
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  National Center for Health Statistics/Final natality data -
+  http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm
+DATA_SOURCE: >-
+  Reproductive Health Statistics, Division of Vital Statistics, National Center
+  for Health Statistics
+REC_USE_LIM: >-
+  Births are registered by state vital registration systems.  Reported births
+  are based on 100% of all birth certificates registered in all states and the
+  District of Columbia. It is estimated that more than 99 percent of births
+  occurring in the US are registered based on previous results of a national
+  test of birth-registration completneness according to place of delivery and
+  race.
+DATA_COMP: >-
+  Estimated percent of births registered by all 50 states and the District of
+  Columbia.
+actual_indicator_available_description: >-
+  Percent of annual births occurring in the United states to residents and
+  non-residents registered by a vital statistics jurisdiction
+date_of_national_source_publication: 'September, 2017'
+periodicity: Annual
+scheduled_update_by_national_source: 'September, 2024'
+date_metadata_updated: 'July, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: National Center for Health Statistics/Final natality data
+source_agency_staff_name_1: >-
+  Reproductive Health Statistics, Division of Vital Statistics, National Center
+  for Health Statistics
+source_agency_survey_dataset_1: National Center for Health Statistics/Final natality data
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'
+source_url_text_1: 'http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

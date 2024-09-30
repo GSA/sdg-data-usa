@@ -1,0 +1,55 @@
+﻿SDG_INDICATOR: >-
+  Percent of the population served by community water systems  that receive
+  drinking water that meets all applicable health - based drinking water
+  standards through  approaches including effective treatment and source water
+  protection.
+CONTACT_ORGANISATION: Safe Drinking Water Information System (SDWIS)
+STAT_CONC_DEF: >
+  A community water system (CWS) is a public water system that supplies water to
+  the same population year-round. Source water is untreated water from streams,
+  rivers, lakes or underground aquifers that is used to provide public drinking
+  water, as well to supply private wells used
+
+  for human consumption. 
+UNIT_MEASURE: Population
+SOURCE_TYPE: Safe Drinking Water Information System (SDWIS)
+DATA_SOURCE: 'US Environmental Protection Agency '
+REC_USE_LIM: >-
+  EPA classifies Public Water Systems (PWS) into 3 types according to the number
+  of people they serve, the source of their water, and whether they serve the
+  same customers year-round or on an occasional basis.
+DATA_COMP: >-
+  The EPA Office of Ground Water and Dr inking Water (headquarters) calculates
+  this measure using data reported in the Safe Drinking Water Information System
+  - Federal (SDWIS - FED) and provides the results to EPA regions. This measure
+  includes federally - regulated contaminants of the following viola tion types:
+  Maximum Contaminant Level, Maximum Residual Disinfection Limit, and Treatment
+  Technique violations. It includes any violations from currently open and
+  closed community water systems (CWSs) that overlap any part of the most recent
+  four quarters.
+actual_indicator_available_description: >-
+  Describes the percent of US population that receives drinking water from
+  community water systems in compliance with drinking water standards.
+date_of_national_source_publication: ''
+periodicity: Annual
+scheduled_update_by_national_source: October 2024
+date_metadata_updated: August 2024
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: Fiscal Year
+scheduled_update_by_SDG_team: October 2024
+source_organisation_1: Safe Drinking Water Information System (SDWIS)
+source_agency_staff_name_1: 'US Environmental Protection Agency '
+source_agency_survey_dataset_1: Safe Drinking Water Information System (SDWIS)
+source_notes_1: 'https://www.epa.gov/ground-water-and-drinking-water'
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

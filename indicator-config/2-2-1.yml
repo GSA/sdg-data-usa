@@ -1,0 +1,34 @@
+composite_breakdown_label: ''
+computation_units: ''
+copyright: ''
+data_footnote: ''
+data_non_statistical: false
+data_notice_class: ''
+data_notice_heading: ''
+data_notice_text: ''
+data_show_map: false
+data_start_values: []
+embedded_feature_footer: ''
+embedded_feature_html: ''
+embedded_feature_tab_title: ''
+embedded_feature_title: ''
+embedded_feature_url: ''
+expected_disaggregations: []
+graph_annotations: []
+graph_limits: []
+graph_stacked_disaggregation: ''
+graph_title: Percent of US children ages 0 to 5 experiencing stunting
+graph_titles: []
+graph_type: line
+indicator_available: Percent of US children from birth up to 5 years with height-for-age
+  less than 2 standard deviations of the median of the WHO Child Growth Standards.
+indicator_name: global_indicators.2-2-1-title
+indicator_number: 2.2.1
+national_geographical_coverage: ''
+page_content: ''
+permalink: ''
+precision: []
+reporting_status: complete
+sort: ''
+standalone: false
+tags: []

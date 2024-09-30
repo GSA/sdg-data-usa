@@ -1,0 +1,34 @@
+﻿SDG_INDICATOR: Growth rate of income per capita for the total population.
+CONTACT_ORGANISATION: CPS ASEC
+STAT_CONC_DEF: ''
+UNIT_MEASURE: percent change
+SOURCE_TYPE: 'CPS ASEC - https://www.census.gov/programs-surveys/cps.html'
+DATA_SOURCE: Adam Bee
+REC_USE_LIM: >-
+  Information on per capita income among the bottom 40% of the population is not
+  immediately available. Adjusted for inflation.
+DATA_COMP: Percent change in income per capita.
+actual_indicator_available_description: Growth rate of income per capita for the total population.
+date_of_national_source_publication: September 2017
+periodicity: Annual
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: July 2024
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2002-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: CPS ASEC
+source_agency_staff_name_1: Adam Bee
+source_agency_survey_dataset_1: CPS ASEC
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'https://www.census.gov/programs-surveys/cps.html'
+source_url_text_1: 'https://www.census.gov/programs-surveys/cps.html'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

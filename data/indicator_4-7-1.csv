@@ -1,0 +1,10 @@
+Year,sex,disability_status,urbanicity,Value
+2012,,,,66
+2012,i4_7_1_male,,,67
+2012,i4_7_1_female,,,66
+2012,,i4_7_1_disabilities,,66
+2012,,i4_7_1_nodisabilities,,66
+2012,,,i4_7_1_urban,75
+2012,,,i4_7_1_suburban,63
+2012,,,i4_7_1_town,54
+2012,,,i4_7_1_rural,65

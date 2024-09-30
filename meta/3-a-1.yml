@@ -1,0 +1,49 @@
+﻿SDG_INDICATOR: Daily smoking prevalence among the US population aged 18 years and older.
+CONTACT_ORGANISATION: National Center for Health Statistics/National Health Interview Survey.
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  National Center for Health Statistics/National Health Interview Survey -
+  http://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm
+DATA_SOURCE: >-
+  Division of Health Interview Statistics, National Center for Health
+  Statistics.
+REC_USE_LIM: >-
+  Age-adjusted rates are for the US population 18 years and older, not for 15
+  years and older. They are age-adjusted using the 2000 US standard population. 
+DATA_COMP: >-
+  The age-adjusted rate of persons who are daily smokers is based on responses
+  to two questions from the National Health Interview Survey: “Have you smoked
+  at least 100 cigarettes in your entire life?” and “Do you now smoke cigarettes
+  every day, some days, or not at all?” Daily smokers are adults who have smoked
+  100 cigarettes in their lifetime and currently smoke every day.  Percentages
+  are generated using sampling survey weights to make nationally representative
+  population estimates.
+actual_indicator_available_description: >-
+  Age-Adjusted percentage of US population aged 18 and over who are daily
+  smokers.
+date_of_national_source_publication: June 2017
+periodicity: Annual.
+scheduled_update_by_national_source: ''
+date_metadata_updated: 'July, 2024. '
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: National Center for Health Statistics/National Health Interview Survey.
+source_agency_staff_name_1: >-
+  Division of Health Interview Statistics, National Center for Health
+  Statistics.
+source_agency_survey_dataset_1: National Center for Health Statistics/National Health Interview Survey.
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm'
+source_url_text_1: 'http://www.cdc.gov/nchs/nhis/data-questionnaires-documentation.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

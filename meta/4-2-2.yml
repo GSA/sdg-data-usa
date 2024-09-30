@@ -1,0 +1,42 @@
+﻿SDG_INDICATOR: >-
+  Percentage of 5 years olds enrolled in organized learning (prekindergarten,
+  kindergarten, or first or higher grade)
+CONTACT_ORGANISATION: >-
+  U.S. Department of Education, National Center for Education Statistics,
+  tabulation of Census Bureau Current Population Survey (October school enrollment supplement)
+STAT_CONC_DEF: 'Enrollment of 5 year olds in primary or preprimary school in October as reported by head of household. '
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: >-
+  National Center for Education Statistics tabulation of Census Bureau Current
+  Population Survey (CPS-October school enrollment supplement). The CPS is a monthly survey of about 50,000 households.
+DATA_SOURCE: Cristobal de Brey
+REC_USE_LIM: Samples are based on CPS and are relatively small.
+DATA_COMP: Weighted number of 5-year-olds enrolled divided by 5-year-old population
+actual_indicator_available_description:   Percentage of 5 years olds enrolled in organized learning (prekindergarten,  kindergarten, or first or higher grade)
+date_of_national_source_publication: May 2023
+periodicity: Annual
+scheduled_update_by_national_source: November 2024
+date_metadata_updated: August 2024
+disaggregation_geography: ''
+disaggregation_categories: Data provided by sex and by family income quintile (lowest and highest)
+international_and_national_references: ''
+time_period: 2000 through 2022
+scheduled_update_by_SDG_team: November 2024
+source_organisation_1: >-
+  National Center for Education Statistics tabulation of Census Bureau Current
+  Population Survey
+source_agency_staff_name_1: Cristobal de Brey
+source_agency_survey_dataset_1: >-
+  National Center for Education Statistics tabulation of Census Bureau Current
+  Population Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

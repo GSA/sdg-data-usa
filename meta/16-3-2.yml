@@ -1,0 +1,65 @@
+﻿SDG_INDICATOR: Unsentenced detainees as a proportion of overall prison population
+CONTACT_ORGANISATION: Bureau of Justice Statistics
+STAT_CONC_DEF: >-
+  The incarcerated population is the estimated number of persons under the
+  jurisdiction of state or federal prisons and in the custody of local jails.
+  This excludes youth held in juvenile facilities, persons held in military
+  facilities, persons detained in Immigration and Customs operated facilities,
+  and persons held in US territories and commonwealths. 
+
+
+  Unsentenced detainees is derived from the sum of the number of unsentenced
+  persons held in state and federal prisons and the number of unconvicted
+  persons held in local jails. Unsentenced is defined as having not yet received
+  a sentence. Unconvicted is defined as awaiting court action on a current
+  charge or held in jail for other reasons. Unconvicted does not include persons
+  in jail that have been convicted but are waiting for sentencing. 
+UNIT_MEASURE: Percent of total prison and jail population
+SOURCE_TYPE: 'National Prisoner Statistics, Annual Survey of Jails, Census of Jails'
+DATA_SOURCE: Bureau of Justice Statistics
+REC_USE_LIM: "National Prisoners Statistics (NPS) - Started in 1926 under a mandate from Congress, NPS collects annual data on persons held in state and federal prisons at yearend. The NPS distinguishes between persons in custody and persons under jurisdiction. To have custody of a person in prison, a state or the Federal Bureau of Prisons (FBOP) must hold that person in one of its facilities. To have jurisdiction over a person in prison, the state or FBOP must have legal authority over that person, regardless of where the person is incarcerated or supervised. The NPS jurisdiction counts include persons held in prisons, penitentiaries, correctional facilities, halfway houses, boot camps, farms, training or treatment centers, and hospitals. Counts also include prisoners who were temporarily absent (less than 30 days), in court, or on work release; housed in privately operated facilities, local jails, or other state or federal facilities; and serving concurrent sentences for more than one correctional authority. The NPS custody counts include all persons held within a respondent’s facilities, including inmates housed for other correctional facilities. The custody counts for prisons exclude inmates held in local jails and in other jurisdictions. With a few exceptions, the NPS custody counts exclude inmates held in privately operated facilities. The persons held in state and federal prison counts included for this indicator are based on the custody counts. \n\nCensus of Jails (COJ) and Annual Survey of Jails (ASJ) - The COJ is conducted approximately every 5 years and obtains data from all jails in the United States and FBOP detention facilities that function as jails. In between COJ years, the Bureau of Justice Statistics (BJS) conducts the ASJ. The ASJ uses a stratified probability sample of jail jurisdictions to estimate the number and characteristics of local inmates nationwide. In the sampling design, the jail jurisdictions nationwide are grouped into 10 strata. In 2022, the 10 strata were defined by two variables: the jail jurisdiction average daily population (ADP), and whether the jurisdiction held at least one juvenile. For 8 of the 10 strata, a random sample of jail jurisdictions was selected. For the remaining two strata, all jurisdictions were included in the sample. One stratum consisted of all jails that were operated jointly by two or more jurisdictions (referred to as multi-jurisdictional jails). The other certainty stratum consisted of large jail jurisdictions that on June 28, 2019 held either— at least one juvenile inmate and a total of 500 or more\_inmates, or 750 or more adult inmates. BJS uses nonresponse weight adjustment procedures to account for unit nonresponse and a weighted sequential hot-deck/cold-deck imputation procedure for critical items. See BJS website for additional information: https://bjs.ojp.gov/data-collection/annual-survey-jails-asj\n\nNotes: (1) Annual jail inmate estimates are subject to sampling error. The standard error for the percentage of unconvicted persons held in jail was 0.44% in 2022. (2) Estimates for 2000-2014, 2017-2022 were based on mid-year jail populations (last weekday in June). Estimates for 2015-2016 were based on year-end prison populations (December 31). (3) Unsentenced state and federal prisoner counts exclude an unknown number held in privately operated facilities."
+DATA_COMP: >-
+  The sum of persons held in prisons who were unsentenced and persons held in
+  local jails who were not convicted divided by the total number of persons held
+  in prisons and jails, multiplied by 100
+actual_indicator_available_description: >-
+  Unsentenced persons held in prisons and unconvicted persons held in jails as a
+  proportion of the overall prison and jail population
+date_of_national_source_publication: May 2024
+periodicity: >-
+  Annual; Counts for persons held in state and federal prisons are based on
+  yearend. Counts for persons held in jails are based on midyear or yearend
+  depending on the year (2000-2015, 2017-2022: last weekday in June; 2015-2016:
+  December 31).
+scheduled_update_by_national_source: January 2025
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: None
+international_and_national_references: >-
+  National Prisoner Statistics:
+  https://bjs.ojp.gov/data-collection/national-prisoner-statistics-nps ; Annual
+  Survey of Jails: https://bjs.ojp.gov/data-collection/annual-survey-jails-asj ;
+  Census of Jails: https://bjs.ojp.gov/data-collection/census-jails-coj 
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Bureau of Justice Statistics
+source_agency_staff_name_1: 'Shelley S. Hyland, Ph.D.'
+source_agency_survey_dataset_1: National Prisoners Statistics
+source_notes_1: ''
+source_title_1: 'National Prisoners Statistics, 1978-2022'
+source_url_1: 'https://www.icpsr.umich.edu/web/NACJD/studies/38871'
+source_url_text_1: 'https://www.icpsr.umich.edu/web/NACJD/studies/38871'
+source_organisation_2: Bureau of Justice Statistics
+source_agency_staff_name_2: 'Shelley S. Hyland, Ph.D.'
+source_agency_survey_dataset_2: Annual Survey of Jails and Census of Jails
+source_notes_2: >-
+  Census of Jails is conducted approximately every five years (2005/2006, 2013,
+  2019) and the Annual Survey of Jails is conducted annually except in Census
+  years
+source_title_2: Annual Survey of Jails and Census of Jails
+source_url_2: |-
+  Annual Survey of Jails: https://www.icpsr.umich.edu/web/NACJD/series/7 
+  Census of Jails: https://www.icpsr.umich.edu/web/NACJD/series/68
+source_url_text_2: |-
+  https://www.icpsr.umich.edu/web/NACJD/series/7 
+  https://www.icpsr.umich.edu/web/NACJD/series/68

@@ -1,0 +1,120 @@
+﻿SDG_INDICATOR: >-
+  Percentage of 16- to 65-year-olds performing at PIAAC Problem Solving in
+  Technology-Rich Environments performance level 2 or higher, by sex, age group,
+  and high/low income quartile
+CONTACT_ORGANISATION: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percentage
+SOURCE_TYPE: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012 -
+  http://nces.ed.gov/surveys/piaac/ideuspiaac/
+DATA_SOURCE: tom.snyder
+REC_USE_LIM: >-
+  The first round of data collection in the United States (officially known as
+  the U.S. PIAAC Main Study) was conducted from August 2011 through April 2012
+  with a nationally representative household sample of 5,000 adults between the
+  ages of 16 and 65.
+DATA_COMP: >-
+  Weighted percentage of respondents in the survey achieving a score level of 2
+  or higher
+actual_indicator_available_description: >-
+  Problem solving in technology-rich environments (PS-TRE) is an innovative
+  addition to adult literacy and large-scale assessments. In the  PIAAC PS-TRE
+  framework, PS-TRE is defined as: "using digital technology, communication
+  tools, and networks to acquire and evaluate information, communicate with
+  others, and perform practical tasks." PS-TRE measures skills and abilities
+  that are required for solving problems while operating in a technology-rich
+  environment. Specifically, it assesses the cognitive processes of problem
+  solving—goal setting, planning, selecting, evaluating, organizing, and
+  communicating results. The environment in which PS-TRE assesses these
+  processes is meant to reflect the reality that digital technology has
+  revolutionized access to information and communication capabilities over the
+  past decades. In particular, the Internet has immensely increased
+  instantaneous access to large amounts of information in multiple formats and
+  has expanded capabilities of instant voice, text, visual, and graphic
+  communications across the globe.
+
+
+  In order to effectively operate in this environment, it is necessary to have
+  mastery of foundational computer (ICT) skills, including (a) skills associated
+  with manipulating input and output devices (e.g., the mouse, keyboard, and
+  digital displays), (b) awareness of concepts and knowledge of how the
+  environment is structured (e.g., files, folders, scrollbars, hyperlinks, and
+  different types of menus or buttons), and (c) the ability to interact
+  effectively with digital information (e.g., how to use commands such as save,
+  delete, open, close, move, highlight, submit, and send). Such interaction
+  involves familiarity with electronic texts, images, graphics and numerical
+  data, as well as the ability to locate, evaluate, and critically judge the
+  validity, accuracy, and appropriateness of accessed information. These skills
+  constitute the core aspects of the PIAAC PS-TRE assessment. Problem Solving in
+  Technology-Rich Environments items present tasks of varying difficulty to be
+  performed in simulated software applications using commands and functions
+  commonly found in the technology environments of email, web pages, and
+  spreadsheets. These tasks range from purchasing particular goods or services
+  online and finding interactive health information to managing personal
+  information and business finances.
+
+
+  Variable name | Variable label
+
+  --- | ---
+
+  I4_4_1_tech_total | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, total
+
+  I4_4_1_tech_male | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, male
+
+  I4_4_1_tech_female | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, female
+
+  I4_4_1_tech_24 | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, 24 or less
+
+  I4_4_1_tech_34 | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, 25 to 34
+
+  I4_4_1_tech_44 | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, 35 to 44
+
+  I4_4_1_tech54 | PIAAC, problem solving in a technology rich environment, level
+  2 or higher, 45 to 54
+
+  I4_4_1_tech_65 | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, 55 to 65
+
+  I4_4_1_tech_lowinc | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, lowest income quartile
+
+  I4_4_1_tech_highinc | PIAAC, problem solving in a technology rich environment,
+  level 2 or higher, highest income quartile
+date_of_national_source_publication: 10/2013
+periodicity: One time survey
+scheduled_update_by_national_source: NA
+date_metadata_updated: 10/2016
+disaggregation_geography: National
+disaggregation_categories: 'Sex, age group, and income quartile'
+international_and_national_references: 'http://piaacgateway.com/'
+time_period: About every 10 years
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+source_agency_staff_name_1: tom.snyder
+source_agency_survey_dataset_1: >-
+  Organization for Economic Cooperation and Development (OECD), Program for the
+  International Assessment of Adult Competencies (PIAAC), 2012
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://nces.ed.gov/surveys/piaac/ideuspiaac/'
+source_url_text_1: 'http://nces.ed.gov/surveys/piaac/ideuspiaac/'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

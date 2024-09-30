@@ -1,0 +1,46 @@
+﻿SDG_INDICATOR: ''
+CONTACT_ORGANISATION: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: ''
+DATA_SOURCE: ''
+REC_USE_LIM: ''
+DATA_COMP: >-
+  Percentage of women and men with secure tenure rights to individually or
+  communally held land, property and natural resources.
+
+
+  Method 1 : (The number of people ( women and men) with documented evidence of
+  secure tenure rights to individually or communally held land, property and
+  natural resources divided by the total number of adult population surveyed) x
+  100.
+
+
+  Method 2 : (The number of households or local communities with documented
+  evidence of secure tenure rights to individually or communally held land,
+  property and natural resources divided by the total number of households or
+  communities surveyed) x 100.
+actual_indicator_available_description: ''
+date_of_national_source_publication: ''
+periodicity: ''
+scheduled_update_by_national_source: ''
+date_metadata_updated: ''
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: ''
+scheduled_update_by_SDG_team: ''
+source_organisation_1: ''
+source_agency_staff_name_1: ''
+source_agency_survey_dataset_1: ''
+source_notes_1: ''
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

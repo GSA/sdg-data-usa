@@ -1,0 +1,75 @@
+﻿SDG_INDICATOR: >-
+  Percent of persons ages 18 and older who report feeling safe walking near
+  their home
+CONTACT_ORGANISATION: Gallup Inc.
+STAT_CONC_DEF: >-
+  Respondents are asked to answer: "Is there any area near where you live - that
+  is, within a mile - where you would be afraid to walk alone at night?"
+  (yes/no)
+UNIT_MEASURE: Percent (%) reporting no to the question above
+SOURCE_TYPE: 'Gallup Inc.''s Crime Survey '
+DATA_SOURCE: Gallup Inc. (data provided by the Bureau of Justice Statistics)
+REC_USE_LIM: >-
+  The results are based on telephone interviews with a random sample of
+  approximately 1,000 adults (age 18+) living in all 50 U.S. states and the
+  District of Columbia. Each year, the margin of error is approximately +/- 4
+  percentage points at the 95% confidence level. Interviews are conducted with
+  respondents on landline telephones and cellular phones, with interviews
+  conducted in Spanish for respondents who are primarily Spanish-speaking. Each
+  sample of national adults includes a minimum quota of cell phone respondents
+  and landline respondents that vary by data year (e.g., 2018: 50% cell and 50%
+  landline; 2023: 80% cell and 20% landline), with additional minimum quotas by
+  time zone within region. Landline and cell phone telephone numbers are
+  selected using random digit dial methods. Landline respondents are chosen at
+  random within each household on the basis of which member has the next
+  birthday. Data were not collected in 2022. 
+
+
+  Samples are weighted to correct for unequal selection probability,
+  non-response, and double coverage of landline and cell users in the two
+  sampling frames. They are also weighted to match the national demographics of
+  gender, age, race, Hispanic ethnicity, education, region, population density,
+  and phone status (cell phone-only/landline only/both and cell phone mostly).
+  Demographic weighting targets are based on the most recent Current Population
+  Survey figures for the aged 18 and older U.S. population. Phone status targets
+  are based on the most recent National Health Interview Survey. Population
+  density targets are based on the decennial census. All reported margins of
+  sampling error include the computed design effects for weighting.
+DATA_COMP: >-
+  The percent of persons feeling safe walking near their home is computed as the
+  number of weighted responses answering "no" divided by the total number of
+  weighted responses (yes + no + refused) and multiplying the resulting figure
+  by 100. Similar methods are done for sex (e.g., (males reporting "no" / total
+  male respondents) *100). All percents are rounded to the nearest whole number.
+actual_indicator_available_description: >-
+  Percent of persons answering no to the question: "Is there any area near where
+  you live - that is, within a mile - where you would be afraid to walk alone at
+  night?"
+date_of_national_source_publication: October 2023
+periodicity: >-
+  Annual survey, conducted by Gallup, in October of each year. Note: Data were
+  not collected in 2022. 
+scheduled_update_by_national_source: November 2024
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: Sex
+international_and_national_references: >-
+  For 2023:
+  https://news.gallup.com/poll/544415/personal-safety-fears-three-decade-high.aspx
+  ; For other years: https://news.gallup.com/poll/1603/crime.aspx
+time_period: 2000-2023
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Gallup Inc. (data provided by Bureau of Justice Statistics)
+source_agency_staff_name_1: 'Shelley S. Hyland, Ph.D. (Bureau of Justice Statistics)'
+source_agency_survey_dataset_1: Gallup Inc. Crime Survey
+source_notes_1: ''
+source_title_1: Crime
+source_url_1: 'https://news.gallup.com/poll/1603/crime.aspx'
+source_url_text_1: 'https://news.gallup.com/poll/1603/crime.aspx'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

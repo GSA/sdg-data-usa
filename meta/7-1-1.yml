@@ -1,0 +1,52 @@
+﻿SDG_INDICATOR: >-
+  Proportion of occupied housing units in metropolitan areas with access to
+  electricity
+CONTACT_ORGANISATION: PDR/HUD/American Housing Survey
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percent of households
+SOURCE_TYPE: >-
+  PDR/HUD/American Housing Survey -
+  http://www.census.gov/programs-surveys/ahs.html
+DATA_SOURCE: George R. Carter
+REC_USE_LIM: ''
+DATA_COMP: >
+  2001-2009: Weighted Frequency of sample units answering 'yes' to whether the
+  household uses electricity (variable USELECT), divided  by total households. 
+  Weight is AHS variable WGT90GEO.  Filtered on households in metropolitan areas
+  (AHS variable METRO3 in '1','2','4','9')
+
+
+  2011: Calculated using AHS Table Creator "Heating, Air Conditioning, and
+  Applinaces" table, Filtered on 2003 Metropolitan areas. (AHS variable
+  METRO_2003 in '1','2')
+
+
+  2013 and later: Calculated using AHS Table Creator "Heating, Air Conditioning,
+  and Applinaces" table, Filtered on 2013 Metropolitan areas. (AHS variable
+  METRO_2013 in '1','2')
+actual_indicator_available_description: >-
+  Percentage of households indicating that they use electricity in the national
+  sample of the American Housing Survey.
+date_of_national_source_publication: September 2022
+periodicity: Every two years.
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: 'July 30, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2001-2021
+scheduled_update_by_SDG_team: ''
+source_organisation_1: PDR/HUD/American Housing Survey
+source_agency_staff_name_1: George R. Carter
+source_agency_survey_dataset_1: PDR/HUD/American Housing Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.census.gov/programs-surveys/ahs.html'
+source_url_text_1: 'http://www.census.gov/programs-surveys/ahs.html'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

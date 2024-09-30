@@ -1,0 +1,43 @@
+﻿SDG_INDICATOR: >-
+  Annual mean levels of fine particulate matter (e.g. PM2.5) in cities
+  (population weighted)
+CONTACT_ORGANISATION: United States Environmental Protection Agency
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Concentration in micrograms per cubic meter
+SOURCE_TYPE: |-
+  https://www.epa.gov/aqs
+  https://www.epa.gov/air-trends/air-quality-cities-and-counties
+DATA_SOURCE: David Mintz
+REC_USE_LIM: ''
+DATA_COMP: ''
+actual_indicator_available_description: ''
+date_of_national_source_publication: '2024-08-16'
+periodicity: annual
+scheduled_update_by_national_source: ''
+date_metadata_updated: '2024-08-16'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: >-
+  2000 to most recent complete year of data.  Ambient monitoring data for PM2.5
+  for a given calendar year is typically not available until May/June of the
+  following year.
+scheduled_update_by_SDG_team: ''
+source_organisation_1: United States Environmental Protection Agency
+source_agency_staff_name_1: David Mintz
+source_agency_survey_dataset_1: United States Environmental Protection Agency
+source_notes_1: ''
+source_title_1: ''
+source_url_1: |-
+  https://www.epa.gov/aqs
+  https://www.epa.gov/air-trends/air-quality-cities-and-counties
+source_url_text_1: |-
+  https://www.epa.gov/aqs
+  https://www.epa.gov/air-trends/air-quality-cities-and-counties
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

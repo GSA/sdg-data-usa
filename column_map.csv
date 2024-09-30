@@ -1,0 +1,13 @@
+Text,Value
+age,AGE
+Age,AGE
+Age Group,AGE
+Disability Status,DISABILITY_STATUS
+disability_status,DISABILITY_STATUS
+education,EDUCATION_LEV
+grade,EDUCATION_LEV
+income,INCOME_WEALTH_QUANTILE
+Income,INCOME_WEALTH_QUANTILE
+sex,SEX
+Sex,SEX
+urbanicity,URBANISATION

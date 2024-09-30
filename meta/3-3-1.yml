@@ -1,0 +1,67 @@
+﻿SDG_INDICATOR: >-
+  Number of new HIV diagnoses of HIV infection per 100,000 population by year of
+  diagnosis, sex, ages 13-54 years and race_ethnicity, 2008-2022
+CONTACT_ORGANISATION: >-
+  Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+  Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention
+  (CDC), U.S. Department of Health and Human Services, Atlanta, Georgia/
+  National HIV/AIDS Surveillance System/HIV Surveillance Reports. Accessed via https://gis.cdc.gov/grasp/nchhstpatlas/tables.html.
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Number of new HIV diagnoses per 100,000 population'
+SOURCE_TYPE: >-
+  Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+  Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention
+  (CDC), U.S. Department of Health and Human Services, Atlanta, Georgia/
+  National HIV/AIDS Surveillance System/HIV Surveillance. Accessed via https://gis.cdc.gov/grasp/nchhstpatlas/tables.html
+DATA_SOURCE: https://gis.cdc.gov/grasp/nchhstpatlas/tables.html
+REC_USE_LIM: >-
+  Note. Data include persons with a diagnosis of HIV infection regardless of
+  stage of disease at diagnosis. Data are presented for diagnoses of HIV
+  infection reported to CDC through June 2016 and presented without adjustment
+  for reporting delay.
+DATA_COMP: >-
+  (Number of people (ages 13-54 years) who are newly diagnosed with HIV
+  infection (regardless of stage of disease at diagnosis) in a specific year and
+  are reported to public health authority in state of residence  / Total number
+  of perople in the population from which the cases were reported)* 100,000
+  population.
+actual_indicator_available_description: >-
+  Number of new HIV diagnoses of HIV infection per 100,000 population by year of
+  diagnosis, sex, ages 13-54 years, and race_ethnicity, 2008-2022
+date_of_national_source_publication: November 2024
+periodicity: Annual
+scheduled_update_by_national_source: November 2024
+date_metadata_updated: '2024-10-15'
+disaggregation_geography: NA
+disaggregation_categories: >-
+  sex (male, female); age-group (all ages, 13+ years, 13-24, 24-34, 35-44, 45-54
+  years; race/ethnicity (Black, Non-Hispanic, White, Non-Hispanic, Hispanic) 
+international_and_national_references: >-
+  Centers for Disease Control and Prevention. HIV Surveillance. Accessed via https://gis.cdc.gov/grasp/nchhstpatlas/tables.html
+time_period: '2008 - 2022'
+scheduled_update_by_SDG_team: ''
+source_organisation_1: >-
+  Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+  Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention
+  (CDC), U.S. Department of Health and Human Services, Atlanta, Georgia/
+  National HIV/AIDS Surveillance System/HIV Surveillance Report.
+source_agency_staff_name_1: Juan Albertorio. Amy Branum
+source_agency_survey_dataset_1: >-
+  Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+  Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention
+  (CDC), U.S. Department of Health and Human Services, Atlanta, Georgia/
+  National HIV/AIDS Surveillance System/HIV Surveillance Report.
+source_notes_1: >-
+  Table 1a. Diagnoses of HIV infection, by year of diagnosis and selected
+  characteristics, 2010–2022—United States. Available at: https://gis.cdc.gov/grasp/nchhstpatlas/tables.html
+  http://www.cdc.gov/hiv/library/reports/surveillance/ 
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

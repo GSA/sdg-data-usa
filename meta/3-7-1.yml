@@ -1,0 +1,54 @@
+﻿SDG_INDICATOR: >-
+  Percentage of current use of any method of contraception among US women aged
+  15-44.
+CONTACT_ORGANISATION: National Center for Health Statistics/National Survey of Family Growth.
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+SOURCE_TYPE: >-
+  National Center for Health Statistics/National Survey of Family Growth -
+  https://www.cdc.gov/nchs/nsfg/nsfg_2017_2019_puf.htm
+DATA_SOURCE: >-
+  National Survey of Family Growth, Survey Planning and Special Surveys Branch,
+  Division of Health Interview Statistics, National Center for Health Statistics
+REC_USE_LIM: >-
+  Estimates can only be made periodically. Estimates shown represent the
+  midpoint of the time period of the survey used to produce the data. Between
+  2000 and 2006, the NSFG was only administered once, in 2002. Since 2006, the
+  survey has been administered continuously, but data are produced in 2-year
+  cycles. Between 2006 and 2015, two 4-year estimates are provided, representing
+  the midpoint of 4-years of data (2008 and 2013).  Estimates since 2015 are
+  provided, representing the midpoint of 2 years of data (2016 and 2018).
+DATA_COMP: >-
+  Measures the contraceptive method used (if any) in the month of the interview
+  (not at a specific act of sexual intercourse) among female participants aged
+  15-44 in the National Survey of Family Growth. The recode variable used to
+  identify any contraception use was CONSTAT1.  Nationally representative
+  estimates are produced using sample survey weights.
+actual_indicator_available_description: >-
+  Percent of all US women aged 15-44 years using any method of contraception in
+  the month of interview in the National Survey of Family Growth
+date_of_national_source_publication: December 2015
+periodicity: Every four years starting in 2006
+scheduled_update_by_national_source: ''
+date_metadata_updated: 'July, 2024'
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 2002-2019
+scheduled_update_by_SDG_team: ''
+source_organisation_1: National Center for Health Statistics/National Survey of Family Growth
+source_agency_staff_name_1: >-
+  National Survey of Family Growth, Reproductive Statistics Branch, Division of
+  Vital Statistics, National Center for Health Statistics
+source_agency_survey_dataset_1: National Center for Health Statistics/National Survey of Family Growth
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.cdc.gov/nchs/nsfg/nsfg_2011_2013_puf.htm'
+source_url_text_1: 'https://www.cdc.gov/nchs/nsfg/nsfg_2017_2019_puf.htm'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

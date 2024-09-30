@@ -1,0 +1,48 @@
+﻿SDG_INDICATOR: Annual growth rate of business sector output per job
+CONTACT_ORGANISATION: U.S. Bureau of Labor Statistics
+STAT_CONC_DEF: >-
+  The measure describes the relationship between real output and one measure of
+  labor input involved in its production. Measures of growth in output per job
+  show the changes from period to period in the amount of goods and services
+  produced per job. They reflect the joint effects of many influences, including
+  changes in technology; capital investment; level of output; utilization of
+  capacity, energy, and materials; the organization of production; managerial
+  skill; and the characteristics and effort of the work force.
+UNIT_MEASURE: Percent change
+SOURCE_TYPE: 'U.S. Bureau of Labor Statistics - http://www.bls.gov/lpc/'
+DATA_SOURCE: BLS Division of International Technical Cooperation staff
+REC_USE_LIM: >-
+  Business sector output is based on GDP, but includes only a subset of the
+  goods and services included in GDP. The business sector comprises about 75
+  percent of GDP since it must exclude those portions of the economy for which
+  productivity measures cannot be constructed. General government, the output of
+  the employees of nonprofit institutions and private households, and the rental
+  value of owner-occupied real estate are excluded.
+DATA_COMP: >-
+  Output per job is calculated by dividing an index of real output by an index
+  of the number of jobs of all persons, including employees, proprietors, and
+  unpaid family workers.
+actual_indicator_available_description: ''
+date_of_national_source_publication: June 2024
+periodicity: 'Annual, quarterly available'
+scheduled_update_by_national_source: February  2025 (for release of 2024 annual data)
+date_metadata_updated: July 2024
+disaggregation_geography: ''
+disaggregation_categories: ''
+international_and_national_references: ''
+time_period: 1947-2023 available
+scheduled_update_by_SDG_team: ''
+source_organisation_1: U.S. Bureau of Labor Statistics
+source_agency_staff_name_1: BLS Division of International Technical Cooperation staff
+source_agency_survey_dataset_1: U.S. Bureau of Labor Statistics
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.bls.gov/lpc/'
+source_url_text_1: 'http://www.bls.gov/lpc/'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

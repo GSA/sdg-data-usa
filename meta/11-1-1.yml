@@ -1,0 +1,53 @@
+﻿SDG_INDICATOR: Percentage of occupied housing units in urban areas  that are inadequate
+CONTACT_ORGANISATION: American Housing Survey
+STAT_CONC_DEF: ''
+UNIT_MEASURE: Percent of all occupied housing units (households)
+SOURCE_TYPE: 'American Housing Survey - http://www.census.gov/programs-surveys/ahs.html'
+DATA_SOURCE: George R. Carter
+REC_USE_LIM: >-
+  Occupied housing units only.  No group quarters or homeless.  Slums and
+  informal housing are not defined.
+DATA_COMP: >-
+  2007-2013:  Using microdata of the American Housing Survey national public use
+  files.  Tabulate ZADEQ (recoded adequacy of housing, values '2' and '3') for
+  occupied units (STATUS='1') in urban areas (METRO3 IN['1','2','4','9']),
+  weighted by WGT90GEO.  Percent of all occupied in urban areas.  See AHS
+  codebook for full description of variables: 
+  http://www.census.gov/programs-surveys/ahs/tech-documentation/codebooks/ahs-codebook.html
+
+  2015 and later:  Using internal use file of the American Housing Survey. 
+  Tabulate ADEQUACY (recoded adequacy of housing, values '2' and '3') for
+  occupied units (INTSTATUS='1') in urban areas (URBAN_2010 IN('1','2')).  See
+  online codebook at
+  https://www.census.gov/data-tools/demo/codebook/ahs/ahsdict.html.
+
+  Indicator can also be created from the table creator by using the "Housing
+  Quality" table and filtering on 2010 Urban Area.
+actual_indicator_available_description: >-
+  Percentage of occupied housing units in urban areas that are moderately
+  inadequate, severely inadequate, and all inadequate.
+date_of_national_source_publication: September  2022
+periodicity: 'Biennial, odd-numbered years'
+scheduled_update_by_national_source: September  2024
+date_metadata_updated: 'July 30, 2024'
+disaggregation_geography: ''
+disaggregation_categories: >-
+  Moderately inadequate (ZADEQ = '2'), Severely inadequate (ZADEQ='3'); For
+  2015  and later, variable name is ADEQUACY, but coding is the same.
+international_and_national_references: NA
+time_period: 2001-2021
+scheduled_update_by_SDG_team: ''
+source_organisation_1: American Housing Survey
+source_agency_staff_name_1: George R. Carter
+source_agency_survey_dataset_1: American Housing Survey
+source_notes_1: ''
+source_title_1: ''
+source_url_1: 'http://www.census.gov/programs-surveys/ahs.html'
+source_url_text_1: 'http://www.census.gov/programs-surveys/ahs.html'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

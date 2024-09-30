@@ -1,0 +1,92 @@
+﻿SDG_INDICATOR: >-
+  Proportion of victims of (a) physical, (b) psychological and/or (c) sexual
+  violence in the previous 12 months who reported their victimization to
+  competent authorities or other officially recognized conflict resolution
+  mechanisms
+CONTACT_ORGANISATION: Bureau of Justice Statistics
+STAT_CONC_DEF: >-
+  The National Crime Victimization Survey (NCVS) measures the number and rate of
+  violent victimizations in the previous 12 months for persons age 12 or older.
+  The NCVS also collects information on whether these crimes were reported or
+  not reported to police and on the reasons why the crime was reported or not
+  reported. Violent crime includes physical violence (robbery, aggravated
+  assault, and simple assault) and sexual violence (rape and sexual assault).
+  The NCVS does not measure psychological violence.
+UNIT_MEASURE: Percent of violent victimizations reported to police within the past 12 months
+SOURCE_TYPE: National Crime Victimization Survey (NCVS)
+DATA_SOURCE: Bureau of Justice Statistics
+REC_USE_LIM: >-
+  The NCVS is administered to persons age 12 or older from a nationally
+  representative sample of U.S. households. It collects information on nonfatal
+  personal crimes (rape or sexual assault, robbery, aggravated assault, simple
+  assault, and personal larceny (purse snatching and pocket picking)) and
+  household property crimes (burglary or trespassing, motor vehicle theft, and
+  other types of theft). The survey collects information on threatened,
+  attempted, and completed crimes. Survey respondents provide information about
+  themselves (including age, sex, race, Hispanic origin, marital status,
+  education level, and income) and whether they experienced a victimization. For
+  each victimization incident, respondents report information about the off
+  ender (including age, sex, race, Hispanic origin, and victim-off ender
+  relationship), characteristics of the crime (including time and place of
+  occurrence, use of weapons, nature of injury, and economic consequences),
+  whether the crime was reported to police, reasons the crime was or was not
+  reported, and experiences with the criminal justice system. For more
+  information on the sample size and response rates see
+  https://bjs.ojp.gov/data-collection/ncvs
+
+
+  NCVS data can be used to produce several types of estimates, including
+  victimization, incident, and prevalence rates. Data for this indicator are
+  based on victimization estimates. 
+
+
+  As the NCVS is based on a nationally representative sample, the indicator is
+  subject to sampling error. The national estimate in 2022 had a standard error
+  of 1.83%. For other years, see National Crime Victimization Survey Data
+  Dashboard: https://ncvs.bjs.ojp.gov/Home
+DATA_COMP: >-
+  Number of violent crime incidents reported to police or other authorities
+  divided by the number of violent crime incidents during the previous 12-month
+  period and multiplied by 100, yielding the percentage of the violent
+  victimizations reported to police.
+actual_indicator_available_description: Percent of violent victimizations reported to police within the past 12 months
+date_of_national_source_publication: September 2023
+periodicity: >-
+  The NCVS is a self-report survey that is administered annually from January 1
+  to December 31. Annual NCVS estimates are based on the number and
+  characteristics of crimes that respondents experienced during the prior 6
+  months, excluding the month in which they were interviewed. Therefore, the
+  2022 survey covers crimes experienced from July 1, 2021 to November 30, 2022,
+  with March 15, 2022 as the middle of the reference period. Crimes are
+  classified by the year of the survey and not by the year of the crime.
+scheduled_update_by_national_source: September 2024
+date_metadata_updated: July 2024
+disaggregation_geography: None
+disaggregation_categories: Sex
+international_and_national_references: >-
+  Criminal Victimization, 2022 (NCJ 307089, BJS, September 2023),
+  https://bjs.ojp.gov/document/cv22.pdf 
+
+  National Crime Victimization Survey Data Dashboard,
+  https://ncvs.bjs.ojp.gov/Home
+time_period: 2000-2022
+scheduled_update_by_SDG_team: ''
+source_organisation_1: Bureau of Justice Statistics
+source_agency_staff_name_1: 'Shelley S. Hyland, Ph.D.'
+source_agency_survey_dataset_1: National Crime Victimization Survey (NCVS)
+source_notes_1: >-
+  Data can be obtained from the annual Criminal Victimization publications or
+  the National Crime Victimization Survey Data Dashboard. See
+  https://bjs.ojp.gov/data-collection/ncvs
+source_title_1: >-
+  Bureau of Justice Statistics National Crime Victimization Survey (NCVS)
+  homepage
+source_url_1: 'https://bjs.ojp.gov/data-collection/ncvs'
+source_url_text_1: 'https://bjs.ojp.gov/data-collection/ncvs'
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''

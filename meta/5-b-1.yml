@@ -1,0 +1,54 @@
+﻿SDG_INDICATOR: >-
+  Proportion of individuals who use an Internet-connected mobile telephone, by
+  sex
+CONTACT_ORGANISATION: U.S. Census Bureau
+STAT_CONC_DEF: ''
+UNIT_MEASURE: 'Proportion '
+SOURCE_TYPE: >-
+  U.S. Census Bureau, Current Population Survey Computer and Internet Use
+  Supplement
+DATA_SOURCE: Daniela Mejía
+REC_USE_LIM: >-
+  Data from this source are not available prior to 2011. The next CPS Computer
+  and Internet Use Supplement is scheduled for 2025.
+DATA_COMP: >-
+  Data are derived from the Computer and Internet Use Supplement of the Current
+  Population Survey (CPS). The Census Bureau and Bureau of Labor Statistics
+  jointly sponsor the CPS, and the National Telecommunications and Information
+  Administration sponsors the supplement. Data are collected by the Census
+  Bureau. Individuals using a mobile telephone: Persons age 3 and over who use
+  an Internet-connected mobile telephone. Metadata sources:
+  http://www.census.gov/programs-surveys/cps/technical-documentation/complete.html
+actual_indicator_available_description: >-
+  Proportion of individuals who use an Internet-connected mobile telephone, by
+  sex, age 3 and over
+date_of_national_source_publication: November 2023
+periodicity: Biennial
+scheduled_update_by_national_source: ''
+date_metadata_updated: '2024-07-10'
+disaggregation_geography: Overall proportion available at national and state levels
+disaggregation_categories: >-
+  Overall proportion available by age group, employment status, income,
+  education, sex, race and Hispanic origin, disability status, metropolitan
+  status, and whether school-aged child in household 
+international_and_national_references: ''
+time_period: >-
+  Since 2015, the questionnaire asks about internet and device use during the
+  past 6 months. Earlier questionnaires did not specify a reference period. 
+scheduled_update_by_SDG_team: ''
+source_organisation_1: U.S. Census Bureau
+source_agency_staff_name_1: Daniela Mejía
+source_agency_survey_dataset_1: >-
+  U.S. Census Bureau, Current Population Survey Computer and Internet Use
+  Supplement
+source_notes_1: 'Web source: NTIA Data Explorer https://www.ntia.gov/data/explorer'
+source_title_1: ''
+source_url_1: ''
+source_url_text_1: ''
+source_organisation_2: ''
+source_agency_staff_name_2: ''
+source_agency_survey_dataset_2: ''
+source_notes_2: ''
+source_title_2: ''
+source_url_2: ''
+source_url_text_2: ''
