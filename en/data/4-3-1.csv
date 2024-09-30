@@ -1,0 +1,23 @@
+Year,Education level,Sex,Age,Income,Value
+2012,Formal,,,,26
+2012,Formal,Male,,,24
+2012,Formal,Female,,,26
+2012,Formal,,24 and under,,73
+2012,Formal,,25 to 34,,27
+2012,Formal,,35 to 44,,15
+2012,Formal,,45 to 54,,8
+2012,Formal,,55 to 64,,6
+2012,Formal,,,1st quintile (lowest),48
+2012,Formal,,,3rd quintile,21
+2012,Formal,,,5th quintile (highest),12
+2012,Informal,,,,58
+2012,Informal,Male,,,57
+2012,Informal,Female,,,55
+2012,Informal,,24 and under,,64
+2012,Informal,,25 to 34,,60
+2012,Informal,,35 to 44,,57
+2012,Informal,,45 to 54,,54
+2012,Informal,,55 to 64,,49
+2012,Informal,,,1st quintile (lowest),54
+2012,Informal,,,3rd quintile,62
+2012,Informal,,,5th quintile (highest),80

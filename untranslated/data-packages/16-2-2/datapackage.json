@@ -1,0 +1,39 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "exploitation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "com_sex_acts",
+                "invol_serv",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-2-2",
+  "title": "Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+}

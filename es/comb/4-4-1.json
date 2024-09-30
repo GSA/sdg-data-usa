@@ -1,0 +1,1 @@
+{"data":{"Year":[2012,2012,2012,2012,2012,2012,2012,2012,2012,2012],"SEX":[null,"M","F",null,null,null,null,null,null,null],"AGE":[null,null,null,"Y0T24","Y25T34","Y35T44","Y45T54","Y55T65",null,null],"INCOME_WEALTH_QUANTILE":[null,null,null,null,null,null,null,null,"Q1","Q5"],"Value":[39,42,36,43,45,42,33,29,38,55]},"edges":[]}

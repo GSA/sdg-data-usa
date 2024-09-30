@@ -1,0 +1,73 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Année"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "F",
+                "M",
+                ""
+              ]
+            },
+            "title": "SEX"
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y0T19",
+                "Y20T29",
+                "Y30T39",
+                "Y40T49",
+                "Y50T59",
+                "Y_GE60",
+                ""
+              ]
+            },
+            "title": "AGE"
+          },
+          {
+            "name": "race_ethnicity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "white_nh",
+                "black_nh",
+                "asian_pi_nh",
+                "aian_nh",
+                "hispanic",
+                ""
+              ]
+            },
+            "title": "race_ethnicity"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-3-4",
+  "title": "Hepatitis B incidence per 100,000 population"
+}

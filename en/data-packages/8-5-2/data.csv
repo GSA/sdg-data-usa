@@ -1,0 +1,661 @@
+Year,Sex,Age,Disability status,Units,Value
+2009,Male,16 and over,Disabled,Percent,15.1
+2010,Male,16 and over,Disabled,Percent,15.2
+2011,Male,16 and over,Disabled,Percent,15.3
+2012,Male,16 and over,Disabled,Percent,13.2
+2013,Male,16 and over,Disabled,Percent,13.0
+2014,Male,16 and over,Disabled,Percent,12.5
+2015,Male,16 and over,Disabled,Percent,10.6
+2016,Male,16 and over,Disabled,Percent,10.1
+2017,Male,16 and over,Disabled,Percent,9.0
+2018,Male,16 and over,Disabled,Percent,7.9
+2019,Male,16 and over,Disabled,Percent,7.4
+2020,Male,16 and over,Disabled,Percent,12.0
+2021,Male,16 and over,Disabled,Percent,10.1
+2022,Male,16 and over,Disabled,Percent,7.8
+2023,Male,16 and over,Disabled,Percent,7.2
+2009,Male,16 and over,Not disabled,Percent,10.1
+2010,Male,16 and over,Not disabled,Percent,10.3
+2011,Male,16 and over,Not disabled,Percent,9.1
+2012,Male,16 and over,Not disabled,Percent,8.0
+2013,Male,16 and over,Not disabled,Percent,7.4
+2014,Male,16 and over,Not disabled,Percent,6.0
+2015,Male,16 and over,Not disabled,Percent,5.2
+2016,Male,16 and over,Not disabled,Percent,4.7
+2017,Male,16 and over,Not disabled,Percent,4.2
+2018,Male,16 and over,Not disabled,Percent,3.8
+2019,Male,16 and over,Not disabled,Percent,3.6
+2020,Male,16 and over,Not disabled,Percent,7.6
+2021,Male,16 and over,Not disabled,Percent,5.3
+2022,Male,16 and over,Not disabled,Percent,3.5
+2023,Male,16 and over,Not disabled,Percent,3.6
+2009,Male,16 to 64,Disabled,Percent,16.4
+2010,Male,16 to 64,Disabled,Percent,16.4
+2011,Male,16 to 64,Disabled,Percent,16.6
+2012,Male,16 to 64,Disabled,Percent,14.5
+2013,Male,16 to 64,Disabled,Percent,14.6
+2014,Male,16 to 64,Disabled,Percent,14.1
+2015,Male,16 to 64,Disabled,Percent,11.6
+2016,Male,16 to 64,Disabled,Percent,11.2
+2017,Male,16 to 64,Disabled,Percent,10.0
+2018,Male,16 to 64,Disabled,Percent,8.7
+2019,Male,16 to 64,Disabled,Percent,8.3
+2020,Male,16 to 64,Disabled,Percent,13.0
+2021,Male,16 to 64,Disabled,Percent,11.1
+2022,Male,16 to 64,Disabled,Percent,8.5
+2023,Male,16 to 64,Disabled,Percent,7.8
+2009,Male,16 to 64,Not disabled,Percent,10.2
+2010,Male,16 to 64,Not disabled,Percent,10.5
+2011,Male,16 to 64,Not disabled,Percent,9.3
+2012,Male,16 to 64,Not disabled,Percent,8.1
+2013,Male,16 to 64,Not disabled,Percent,7.5
+2014,Male,16 to 64,Not disabled,Percent,6.1
+2015,Male,16 to 64,Not disabled,Percent,5.3
+2016,Male,16 to 64,Not disabled,Percent,4.8
+2017,Male,16 to 64,Not disabled,Percent,4.3
+2018,Male,16 to 64,Not disabled,Percent,3.8
+2019,Male,16 to 64,Not disabled,Percent,3.6
+2020,Male,16 to 64,Not disabled,Percent,7.7
+2021,Male,16 to 64,Not disabled,Percent,5.3
+2022,Male,16 to 64,Not disabled,Percent,3.5
+2023,Male,16 to 64,Not disabled,Percent,3.7
+2009,Male,16 to 19,Disabled,Percent,42.3
+2010,Male,16 to 19,Disabled,Percent,38.5
+2011,Male,16 to 19,Disabled,Percent,48.8
+2012,Male,16 to 19,Disabled,Percent,40.7
+2013,Male,16 to 19,Disabled,Percent,43.4
+2014,Male,16 to 19,Disabled,Percent,44.9
+2015,Male,16 to 19,Disabled,Percent,34.2
+2016,Male,16 to 19,Disabled,Percent,36.6
+2017,Male,16 to 19,Disabled,Percent,25.1
+2018,Male,16 to 19,Disabled,Percent,27.7
+2019,Male,16 to 19,Disabled,Percent,27.9
+2020,Male,16 to 19,Disabled,Percent,26.3
+2021,Male,16 to 19,Disabled,Percent,20.6
+2022,Male,16 to 19,Disabled,Percent,21.5
+2023,Male,16 to 19,Disabled,Percent,17.6
+2009,Male,16 to 19,Not disabled,Percent,27.4
+2010,Male,16 to 19,Not disabled,Percent,28.5
+2011,Male,16 to 19,Not disabled,Percent,26.6
+2012,Male,16 to 19,Not disabled,Percent,26.4
+2013,Male,16 to 19,Not disabled,Percent,25.1
+2014,Male,16 to 19,Not disabled,Percent,20.8
+2015,Male,16 to 19,Not disabled,Percent,18.0
+2016,Male,16 to 19,Not disabled,Percent,16.5
+2017,Male,16 to 19,Not disabled,Percent,15.3
+2018,Male,16 to 19,Not disabled,Percent,14.1
+2019,Male,16 to 19,Not disabled,Percent,13.4
+2020,Male,16 to 19,Not disabled,Percent,18.1
+2021,Male,16 to 19,Not disabled,Percent,12.3
+2022,Male,16 to 19,Not disabled,Percent,10.8
+2023,Male,16 to 19,Not disabled,Percent,12.1
+2009,Male,20 and over,Disabled,Percent,14.2
+2010,Male,20 and over,Disabled,Percent,14.5
+2011,Male,20 and over,Disabled,Percent,14.6
+2012,Male,20 and over,Disabled,Percent,12.4
+2013,Male,20 and over,Disabled,Percent,12.3
+2014,Male,20 and over,Disabled,Percent,11.7
+2015,Male,20 and over,Disabled,Percent,10.0
+2016,Male,20 and over,Disabled,Percent,9.4
+2017,Male,20 and over,Disabled,Percent,8.6
+2018,Male,20 and over,Disabled,Percent,7.4
+2019,Male,20 and over,Disabled,Percent,6.8
+2020,Male,20 and over,Disabled,Percent,11.6
+2021,Male,20 and over,Disabled,Percent,9.8
+2022,Male,20 and over,Disabled,Percent,7.4
+2023,Male,20 and over,Disabled,Percent,7.0
+2009,Male,20 and over,Not disabled,Percent,9.4
+2010,Male,20 and over,Not disabled,Percent,9.6
+2011,Male,20 and over,Not disabled,Percent,8.5
+2012,Male,20 and over,Not disabled,Percent,7.3
+2013,Male,20 and over,Not disabled,Percent,6.8
+2014,Male,20 and over,Not disabled,Percent,5.5
+2015,Male,20 and over,Not disabled,Percent,4.7
+2016,Male,20 and over,Not disabled,Percent,4.3
+2017,Male,20 and over,Not disabled,Percent,3.8
+2018,Male,20 and over,Not disabled,Percent,3.4
+2019,Male,20 and over,Not disabled,Percent,3.2
+2020,Male,20 and over,Not disabled,Percent,7.3
+2021,Male,20 and over,Not disabled,Percent,5.0
+2022,Male,20 and over,Not disabled,Percent,3.2
+2023,Male,20 and over,Not disabled,Percent,3.3
+2009,Male,20 to 24,Disabled,Percent,29.2
+2010,Male,20 to 24,Disabled,Percent,25.7
+2011,Male,20 to 24,Disabled,Percent,30.6
+2012,Male,20 to 24,Disabled,Percent,29.7
+2013,Male,20 to 24,Disabled,Percent,28.9
+2014,Male,20 to 24,Disabled,Percent,27.1
+2015,Male,20 to 24,Disabled,Percent,20.1
+2016,Male,20 to 24,Disabled,Percent,19.5
+2017,Male,20 to 24,Disabled,Percent,15.9
+2018,Male,20 to 24,Disabled,Percent,17.8
+2019,Male,20 to 24,Disabled,Percent,11.1
+2020,Male,20 to 24,Disabled,Percent,21.5
+2021,Male,20 to 24,Disabled,Percent,18.4
+2022,Male,20 to 24,Disabled,Percent,16.9
+2023,Male,20 to 24,Disabled,Percent,15.6
+2009,Male,20 to 24,Not disabled,Percent,16.6
+2010,Male,20 to 24,Not disabled,Percent,17.6
+2011,Male,20 to 24,Not disabled,Percent,15.4
+2012,Male,20 to 24,Not disabled,Percent,14.0
+2013,Male,20 to 24,Not disabled,Percent,13.6
+2014,Male,20 to 24,Not disabled,Percent,11.8
+2015,Male,20 to 24,Not disabled,Percent,10.5
+2016,Male,20 to 24,Not disabled,Percent,9.0
+2017,Male,20 to 24,Not disabled,Percent,8.2
+2018,Male,20 to 24,Not disabled,Percent,7.4
+2019,Male,20 to 24,Not disabled,Percent,7.6
+2020,Male,20 to 24,Not disabled,Percent,13.5
+2021,Male,20 to 24,Not disabled,Percent,9.5
+2022,Male,20 to 24,Not disabled,Percent,7.5
+2023,Male,20 to 24,Not disabled,Percent,7.0
+2009,Male,25 and over,Disabled,Percent,13.2
+2010,Male,25 and over,Disabled,Percent,13.8
+2011,Male,25 and over,Disabled,Percent,13.7
+2012,Male,25 and over,Disabled,Percent,11.4
+2013,Male,25 and over,Disabled,Percent,11.1
+2014,Male,25 and over,Disabled,Percent,10.6
+2015,Male,25 and over,Disabled,Percent,9.2
+2016,Male,25 and over,Disabled,Percent,8.7
+2017,Male,25 and over,Disabled,Percent,8.2
+2018,Male,25 and over,Disabled,Percent,6.7
+2019,Male,25 and over,Disabled,Percent,6.5
+2020,Male,25 and over,Disabled,Percent,10.9
+2021,Male,25 and over,Disabled,Percent,9.2
+2022,Male,25 and over,Disabled,Percent,6.7
+2023,Male,25 and over,Disabled,Percent,6.3
+2009,Male,25 and over,Not disabled,Percent,8.6
+2010,Male,25 and over,Not disabled,Percent,8.7
+2011,Male,25 and over,Not disabled,Percent,7.7
+2012,Male,25 and over,Not disabled,Percent,6.6
+2013,Male,25 and over,Not disabled,Percent,6.0
+2014,Male,25 and over,Not disabled,Percent,4.8
+2015,Male,25 and over,Not disabled,Percent,4.1
+2016,Male,25 and over,Not disabled,Percent,3.8
+2017,Male,25 and over,Not disabled,Percent,3.3
+2018,Male,25 and over,Not disabled,Percent,3.0
+2019,Male,25 and over,Not disabled,Percent,2.8
+2020,Male,25 and over,Not disabled,Percent,6.6
+2021,Male,25 and over,Not disabled,Percent,4.6
+2022,Male,25 and over,Not disabled,Percent,2.8
+2023,Male,25 and over,Not disabled,Percent,2.9
+2009,Male,25 to 34,Disabled,Percent,19.2
+2010,Male,25 to 34,Disabled,Percent,22.4
+2011,Male,25 to 34,Disabled,Percent,21.0
+2012,Male,25 to 34,Disabled,Percent,16.8
+2013,Male,25 to 34,Disabled,Percent,16.7
+2014,Male,25 to 34,Disabled,Percent,17.6
+2015,Male,25 to 34,Disabled,Percent,15.2
+2016,Male,25 to 34,Disabled,Percent,13.3
+2017,Male,25 to 34,Disabled,Percent,15.3
+2018,Male,25 to 34,Disabled,Percent,9.8
+2019,Male,25 to 34,Disabled,Percent,11.9
+2020,Male,25 to 34,Disabled,Percent,14.8
+2021,Male,25 to 34,Disabled,Percent,13.9
+2022,Male,25 to 34,Disabled,Percent,10.1
+2023,Male,25 to 34,Disabled,Percent,8.8
+2009,Male,25 to 34,Not disabled,Percent,10.7
+2010,Male,25 to 34,Not disabled,Percent,10.6
+2011,Male,25 to 34,Not disabled,Percent,9.4
+2012,Male,25 to 34,Not disabled,Percent,8.0
+2013,Male,25 to 34,Not disabled,Percent,7.3
+2014,Male,25 to 34,Not disabled,Percent,6.1
+2015,Male,25 to 34,Not disabled,Percent,5.3
+2016,Male,25 to 34,Not disabled,Percent,4.9
+2017,Male,25 to 34,Not disabled,Percent,4.3
+2018,Male,25 to 34,Not disabled,Percent,3.7
+2019,Male,25 to 34,Not disabled,Percent,3.5
+2020,Male,25 to 34,Not disabled,Percent,8.4
+2021,Male,25 to 34,Not disabled,Percent,5.7
+2022,Male,25 to 34,Not disabled,Percent,3.7
+2023,Male,25 to 34,Not disabled,Percent,4.0
+2009,Male,35 to 44,Disabled,Percent,16.5
+2010,Male,35 to 44,Disabled,Percent,14.3
+2011,Male,35 to 44,Disabled,Percent,16.7
+2012,Male,35 to 44,Disabled,Percent,14.3
+2013,Male,35 to 44,Disabled,Percent,15.7
+2014,Male,35 to 44,Disabled,Percent,13.7
+2015,Male,35 to 44,Disabled,Percent,12.8
+2016,Male,35 to 44,Disabled,Percent,9.0
+2017,Male,35 to 44,Disabled,Percent,10.1
+2018,Male,35 to 44,Disabled,Percent,7.9
+2019,Male,35 to 44,Disabled,Percent,6.1
+2020,Male,35 to 44,Disabled,Percent,10.9
+2021,Male,35 to 44,Disabled,Percent,10.1
+2022,Male,35 to 44,Disabled,Percent,8.5
+2023,Male,35 to 44,Disabled,Percent,6.8
+2009,Male,35 to 44,Not disabled,Percent,8.4
+2010,Male,35 to 44,Not disabled,Percent,8.3
+2011,Male,35 to 44,Not disabled,Percent,7.2
+2012,Male,35 to 44,Not disabled,Percent,6.2
+2013,Male,35 to 44,Not disabled,Percent,5.5
+2014,Male,35 to 44,Not disabled,Percent,4.4
+2015,Male,35 to 44,Not disabled,Percent,3.7
+2016,Male,35 to 44,Not disabled,Percent,3.5
+2017,Male,35 to 44,Not disabled,Percent,3.1
+2018,Male,35 to 44,Not disabled,Percent,2.7
+2019,Male,35 to 44,Not disabled,Percent,2.5
+2020,Male,35 to 44,Not disabled,Percent,6.0
+2021,Male,35 to 44,Not disabled,Percent,4.5
+2022,Male,35 to 44,Not disabled,Percent,2.7
+2023,Male,35 to 44,Not disabled,Percent,2.7
+2009,Male,45 to 54,Disabled,Percent,14.5
+2010,Male,45 to 54,Disabled,Percent,14.9
+2011,Male,45 to 54,Disabled,Percent,14.3
+2012,Male,45 to 54,Disabled,Percent,11.5
+2013,Male,45 to 54,Disabled,Percent,11.5
+2014,Male,45 to 54,Disabled,Percent,12.2
+2015,Male,45 to 54,Disabled,Percent,8.6
+2016,Male,45 to 54,Disabled,Percent,10.0
+2017,Male,45 to 54,Disabled,Percent,9.1
+2018,Male,45 to 54,Disabled,Percent,6.4
+2019,Male,45 to 54,Disabled,Percent,7.9
+2020,Male,45 to 54,Disabled,Percent,10.5
+2021,Male,45 to 54,Disabled,Percent,9.0
+2022,Male,45 to 54,Disabled,Percent,6.4
+2023,Male,45 to 54,Disabled,Percent,6.3
+2009,Male,45 to 54,Not disabled,Percent,7.9
+2010,Male,45 to 54,Not disabled,Percent,8.3
+2011,Male,45 to 54,Not disabled,Percent,7.1
+2012,Male,45 to 54,Not disabled,Percent,6.0
+2013,Male,45 to 54,Not disabled,Percent,5.5
+2014,Male,45 to 54,Not disabled,Percent,4.1
+2015,Male,45 to 54,Not disabled,Percent,3.4
+2016,Male,45 to 54,Not disabled,Percent,3.1
+2017,Male,45 to 54,Not disabled,Percent,2.8
+2018,Male,45 to 54,Not disabled,Percent,2.7
+2019,Male,45 to 54,Not disabled,Percent,2.5
+2020,Male,45 to 54,Not disabled,Percent,5.7
+2021,Male,45 to 54,Not disabled,Percent,3.9
+2022,Male,45 to 54,Not disabled,Percent,2.2
+2023,Male,45 to 54,Not disabled,Percent,2.4
+2009,Male,55 to 64,Disabled,Percent,10.2
+2010,Male,55 to 64,Disabled,Percent,11.9
+2011,Male,55 to 64,Disabled,Percent,10.8
+2012,Male,55 to 64,Disabled,Percent,10.2
+2013,Male,55 to 64,Disabled,Percent,9.1
+2014,Male,55 to 64,Disabled,Percent,7.7
+2015,Male,55 to 64,Disabled,Percent,7.0
+2016,Male,55 to 64,Disabled,Percent,7.7
+2017,Male,55 to 64,Disabled,Percent,5.0
+2018,Male,55 to 64,Disabled,Percent,6.2
+2019,Male,55 to 64,Disabled,Percent,4.5
+2020,Male,55 to 64,Disabled,Percent,10.8
+2021,Male,55 to 64,Disabled,Percent,8.3
+2022,Male,55 to 64,Disabled,Percent,5.1
+2023,Male,55 to 64,Disabled,Percent,5.3
+2009,Male,55 to 64,Not disabled,Percent,6.9
+2010,Male,55 to 64,Not disabled,Percent,7.7
+2011,Male,55 to 64,Not disabled,Percent,6.9
+2012,Male,55 to 64,Not disabled,Percent,6.0
+2013,Male,55 to 64,Not disabled,Percent,5.4
+2014,Male,55 to 64,Not disabled,Percent,4.3
+2015,Male,55 to 64,Not disabled,Percent,3.7
+2016,Male,55 to 64,Not disabled,Percent,3.5
+2017,Male,55 to 64,Not disabled,Percent,3.0
+2018,Male,55 to 64,Not disabled,Percent,2.8
+2019,Male,55 to 64,Not disabled,Percent,2.4
+2020,Male,55 to 64,Not disabled,Percent,6.1
+2021,Male,55 to 64,Not disabled,Percent,4.0
+2022,Male,55 to 64,Not disabled,Percent,2.4
+2023,Male,55 to 64,Not disabled,Percent,2.5
+2009,Male,65 and over,Disabled,Percent,7.4
+2010,Male,65 and over,Disabled,Percent,8.5
+2011,Male,65 and over,Disabled,Percent,8.7
+2012,Male,65 and over,Disabled,Percent,7.3
+2013,Male,65 and over,Disabled,Percent,6.0
+2014,Male,65 and over,Disabled,Percent,5.8
+2015,Male,65 and over,Disabled,Percent,6.0
+2016,Male,65 and over,Disabled,Percent,5.7
+2017,Male,65 and over,Disabled,Percent,5.2
+2018,Male,65 and over,Disabled,Percent,4.5
+2019,Male,65 and over,Disabled,Percent,3.9
+2020,Male,65 and over,Disabled,Percent,8.3
+2021,Male,65 and over,Disabled,Percent,5.9
+2022,Male,65 and over,Disabled,Percent,4.8
+2023,Male,65 and over,Disabled,Percent,4.8
+2009,Male,65 and over,Not disabled,Percent,6.6
+2010,Male,65 and over,Not disabled,Percent,6.9
+2011,Male,65 and over,Not disabled,Percent,6.2
+2012,Male,65 and over,Not disabled,Percent,6.0
+2013,Male,65 and over,Not disabled,Percent,5.5
+2014,Male,65 and over,Not disabled,Percent,4.4
+2015,Male,65 and over,Not disabled,Percent,3.5
+2016,Male,65 and over,Not disabled,Percent,3.5
+2017,Male,65 and over,Not disabled,Percent,3.1
+2018,Male,65 and over,Not disabled,Percent,3.0
+2019,Male,65 and over,Not disabled,Percent,2.8
+2020,Male,65 and over,Not disabled,Percent,6.6
+2021,Male,65 and over,Not disabled,Percent,4.1
+2022,Male,65 and over,Not disabled,Percent,2.8
+2023,Male,65 and over,Not disabled,Percent,2.5
+2009,Female,16 and over,Disabled,Percent,13.8
+2010,Female,16 and over,Disabled,Percent,14.3
+2011,Female,16 and over,Disabled,Percent,14.7
+2012,Female,16 and over,Disabled,Percent,13.7
+2013,Female,16 and over,Disabled,Percent,13.5
+2014,Female,16 and over,Disabled,Percent,12.5
+2015,Female,16 and over,Disabled,Percent,10.8
+2016,Female,16 and over,Disabled,Percent,11.0
+2017,Female,16 and over,Disabled,Percent,9.5
+2018,Female,16 and over,Disabled,Percent,8.1
+2019,Female,16 and over,Disabled,Percent,7.3
+2020,Female,16 and over,Disabled,Percent,13.2
+2021,Female,16 and over,Disabled,Percent,10.1
+2022,Female,16 and over,Disabled,Percent,7.4
+2023,Female,16 and over,Disabled,Percent,7.2
+2009,Female,16 and over,Not disabled,Percent,7.8
+2010,Female,16 and over,Not disabled,Percent,8.4
+2011,Female,16 and over,Not disabled,Percent,8.2
+2012,Female,16 and over,Not disabled,Percent,7.7
+2013,Female,16 and over,Not disabled,Percent,6.8
+2014,Female,16 and over,Not disabled,Percent,5.8
+2015,Female,16 and over,Not disabled,Percent,5.0
+2016,Female,16 and over,Not disabled,Percent,4.6
+2017,Female,16 and over,Not disabled,Percent,4.1
+2018,Female,16 and over,Not disabled,Percent,3.7
+2019,Female,16 and over,Not disabled,Percent,3.5
+2020,Female,16 and over,Not disabled,Percent,8.2
+2021,Female,16 and over,Not disabled,Percent,5.0
+2022,Female,16 and over,Not disabled,Percent,3.4
+2023,Female,16 and over,Not disabled,Percent,3.3
+2009,Female,16 to 64,Disabled,Percent,14.7
+2010,Female,16 to 64,Disabled,Percent,15.0
+2011,Female,16 to 64,Disabled,Percent,15.8
+2012,Female,16 to 64,Disabled,Percent,14.7
+2013,Female,16 to 64,Disabled,Percent,14.7
+2014,Female,16 to 64,Disabled,Percent,13.7
+2015,Female,16 to 64,Disabled,Percent,11.7
+2016,Female,16 to 64,Disabled,Percent,11.7
+2017,Female,16 to 64,Disabled,Percent,10.1
+2018,Female,16 to 64,Disabled,Percent,8.7
+2019,Female,16 to 64,Disabled,Percent,7.7
+2020,Female,16 to 64,Disabled,Percent,13.9
+2021,Female,16 to 64,Disabled,Percent,10.5
+2022,Female,16 to 64,Disabled,Percent,7.8
+2023,Female,16 to 64,Disabled,Percent,7.6
+2009,Female,16 to 64,Not disabled,Percent,7.9
+2010,Female,16 to 64,Not disabled,Percent,8.5
+2011,Female,16 to 64,Not disabled,Percent,8.3
+2012,Female,16 to 64,Not disabled,Percent,7.7
+2013,Female,16 to 64,Not disabled,Percent,6.9
+2014,Female,16 to 64,Not disabled,Percent,5.9
+2015,Female,16 to 64,Not disabled,Percent,5.0
+2016,Female,16 to 64,Not disabled,Percent,4.6
+2017,Female,16 to 64,Not disabled,Percent,4.1
+2018,Female,16 to 64,Not disabled,Percent,3.7
+2019,Female,16 to 64,Not disabled,Percent,3.5
+2020,Female,16 to 64,Not disabled,Percent,8.2
+2021,Female,16 to 64,Not disabled,Percent,5.1
+2022,Female,16 to 64,Not disabled,Percent,3.5
+2023,Female,16 to 64,Not disabled,Percent,3.3
+2009,Female,16 to 19,Disabled,Percent,32.5
+2010,Female,16 to 19,Disabled,Percent,30.3
+2011,Female,16 to 19,Disabled,Percent,34.5
+2012,Female,16 to 19,Disabled,Percent,35.5
+2013,Female,16 to 19,Disabled,Percent,41.3
+2014,Female,16 to 19,Disabled,Percent,36.1
+2015,Female,16 to 19,Disabled,Percent,26.5
+2016,Female,16 to 19,Disabled,Percent,34.8
+2017,Female,16 to 19,Disabled,Percent,26.3
+2018,Female,16 to 19,Disabled,Percent,24.0
+2019,Female,16 to 19,Disabled,Percent,14.2
+2020,Female,16 to 19,Disabled,Percent,27.3
+2021,Female,16 to 19,Disabled,Percent,21.5
+2022,Female,16 to 19,Disabled,Percent,17.7
+2023,Female,16 to 19,Disabled,Percent,18.2
+2009,Female,16 to 19,Not disabled,Percent,20.4
+2010,Female,16 to 19,Not disabled,Percent,22.7
+2011,Female,16 to 19,Not disabled,Percent,21.4
+2012,Female,16 to 19,Not disabled,Percent,20.9
+2013,Female,16 to 19,Not disabled,Percent,19.8
+2014,Female,16 to 19,Not disabled,Percent,17.3
+2015,Female,16 to 19,Not disabled,Percent,15.2
+2016,Female,16 to 19,Not disabled,Percent,13.7
+2017,Female,16 to 19,Not disabled,Percent,12.2
+2018,Female,16 to 19,Not disabled,Percent,11.1
+2019,Female,16 to 19,Not disabled,Percent,11.4
+2020,Female,16 to 19,Not disabled,Percent,17.2
+2021,Female,16 to 19,Not disabled,Percent,10.5
+2022,Female,16 to 19,Not disabled,Percent,10.1
+2023,Female,16 to 19,Not disabled,Percent,9.8
+2009,Female,20 and over,Disabled,Percent,13.3
+2010,Female,20 and over,Disabled,Percent,14.0
+2011,Female,20 and over,Disabled,Percent,14.3
+2012,Female,20 and over,Disabled,Percent,13.2
+2013,Female,20 and over,Disabled,Percent,12.7
+2014,Female,20 and over,Disabled,Percent,12.0
+2015,Female,20 and over,Disabled,Percent,10.4
+2016,Female,20 and over,Disabled,Percent,10.4
+2017,Female,20 and over,Disabled,Percent,9.0
+2018,Female,20 and over,Disabled,Percent,7.7
+2019,Female,20 and over,Disabled,Percent,7.1
+2020,Female,20 and over,Disabled,Percent,12.9
+2021,Female,20 and over,Disabled,Percent,9.8
+2022,Female,20 and over,Disabled,Percent,7.0
+2023,Female,20 and over,Disabled,Percent,6.8
+2009,Female,20 and over,Not disabled,Percent,7.2
+2010,Female,20 and over,Not disabled,Percent,7.8
+2011,Female,20 and over,Not disabled,Percent,7.7
+2012,Female,20 and over,Not disabled,Percent,7.1
+2013,Female,20 and over,Not disabled,Percent,6.3
+2014,Female,20 and over,Not disabled,Percent,5.4
+2015,Female,20 and over,Not disabled,Percent,4.6
+2016,Female,20 and over,Not disabled,Percent,4.2
+2017,Female,20 and over,Not disabled,Percent,3.8
+2018,Female,20 and over,Not disabled,Percent,3.4
+2019,Female,20 and over,Not disabled,Percent,3.1
+2020,Female,20 and over,Not disabled,Percent,7.8
+2021,Female,20 and over,Not disabled,Percent,4.8
+2022,Female,20 and over,Not disabled,Percent,3.1
+2023,Female,20 and over,Not disabled,Percent,3.0
+2009,Female,20 to 24,Disabled,Percent,21.9
+2010,Female,20 to 24,Disabled,Percent,22.9
+2011,Female,20 to 24,Disabled,Percent,23.1
+2012,Female,20 to 24,Disabled,Percent,25.1
+2013,Female,20 to 24,Disabled,Percent,26.5
+2014,Female,20 to 24,Disabled,Percent,24.0
+2015,Female,20 to 24,Disabled,Percent,20.6
+2016,Female,20 to 24,Disabled,Percent,19.6
+2017,Female,20 to 24,Disabled,Percent,16.3
+2018,Female,20 to 24,Disabled,Percent,11.3
+2019,Female,20 to 24,Disabled,Percent,11.8
+2020,Female,20 to 24,Disabled,Percent,20.6
+2021,Female,20 to 24,Disabled,Percent,14.6
+2022,Female,20 to 24,Disabled,Percent,12.4
+2023,Female,20 to 24,Disabled,Percent,8.8
+2009,Female,20 to 24,Not disabled,Percent,12.1
+2010,Female,20 to 24,Not disabled,Percent,12.8
+2011,Female,20 to 24,Not disabled,Percent,13.2
+2012,Female,20 to 24,Not disabled,Percent,11.9
+2013,Female,20 to 24,Not disabled,Percent,11.2
+2014,Female,20 to 24,Not disabled,Percent,9.8
+2015,Female,20 to 24,Not disabled,Percent,8.2
+2016,Female,20 to 24,Not disabled,Percent,7.1
+2017,Female,20 to 24,Not disabled,Percent,6.0
+2018,Female,20 to 24,Not disabled,Percent,6.0
+2019,Female,20 to 24,Not disabled,Percent,5.5
+2020,Female,20 to 24,Not disabled,Percent,13.6
+2021,Female,20 to 24,Not disabled,Percent,7.9
+2022,Female,20 to 24,Not disabled,Percent,5.9
+2023,Female,20 to 24,Not disabled,Percent,5.7
+2009,Female,25 and over,Disabled,Percent,12.7
+2010,Female,25 and over,Disabled,Percent,13.4
+2011,Female,25 and over,Disabled,Percent,13.8
+2012,Female,25 and over,Disabled,Percent,12.5
+2013,Female,25 and over,Disabled,Percent,11.8
+2014,Female,25 and over,Disabled,Percent,11.1
+2015,Female,25 and over,Disabled,Percent,9.7
+2016,Female,25 and over,Disabled,Percent,9.6
+2017,Female,25 and over,Disabled,Percent,8.5
+2018,Female,25 and over,Disabled,Percent,7.4
+2019,Female,25 and over,Disabled,Percent,6.8
+2020,Female,25 and over,Disabled,Percent,12.3
+2021,Female,25 and over,Disabled,Percent,9.4
+2022,Female,25 and over,Disabled,Percent,6.5
+2023,Female,25 and over,Disabled,Percent,6.6
+2009,Female,25 and over,Not disabled,Percent,6.7
+2010,Female,25 and over,Not disabled,Percent,7.2
+2011,Female,25 and over,Not disabled,Percent,7.0
+2012,Female,25 and over,Not disabled,Percent,6.5
+2013,Female,25 and over,Not disabled,Percent,5.7
+2014,Female,25 and over,Not disabled,Percent,4.8
+2015,Female,25 and over,Not disabled,Percent,4.1
+2016,Female,25 and over,Not disabled,Percent,3.8
+2017,Female,25 and over,Not disabled,Percent,3.5
+2018,Female,25 and over,Not disabled,Percent,3.1
+2019,Female,25 and over,Not disabled,Percent,2.9
+2020,Female,25 and over,Not disabled,Percent,7.2
+2021,Female,25 and over,Not disabled,Percent,4.4
+2022,Female,25 and over,Not disabled,Percent,2.8
+2023,Female,25 and over,Not disabled,Percent,2.7
+2009,Female,25 to 34,Disabled,Percent,21.2
+2010,Female,25 to 34,Disabled,Percent,20.6
+2011,Female,25 to 34,Disabled,Percent,22.7
+2012,Female,25 to 34,Disabled,Percent,19.4
+2013,Female,25 to 34,Disabled,Percent,17.8
+2014,Female,25 to 34,Disabled,Percent,18.3
+2015,Female,25 to 34,Disabled,Percent,17.3
+2016,Female,25 to 34,Disabled,Percent,16.3
+2017,Female,25 to 34,Disabled,Percent,12.2
+2018,Female,25 to 34,Disabled,Percent,12.2
+2019,Female,25 to 34,Disabled,Percent,9.8
+2020,Female,25 to 34,Disabled,Percent,17.6
+2021,Female,25 to 34,Disabled,Percent,11.8
+2022,Female,25 to 34,Disabled,Percent,8.8
+2023,Female,25 to 34,Disabled,Percent,9.5
+2009,Female,25 to 34,Not disabled,Percent,8.3
+2010,Female,25 to 34,Not disabled,Percent,8.9
+2011,Female,25 to 34,Not disabled,Percent,8.8
+2012,Female,25 to 34,Not disabled,Percent,8.1
+2013,Female,25 to 34,Not disabled,Percent,7.0
+2014,Female,25 to 34,Not disabled,Percent,6.4
+2015,Female,25 to 34,Not disabled,Percent,5.3
+2016,Female,25 to 34,Not disabled,Percent,4.8
+2017,Female,25 to 34,Not disabled,Percent,4.4
+2018,Female,25 to 34,Not disabled,Percent,3.8
+2019,Female,25 to 34,Not disabled,Percent,3.6
+2020,Female,25 to 34,Not disabled,Percent,8.1
+2021,Female,25 to 34,Not disabled,Percent,5.2
+2022,Female,25 to 34,Not disabled,Percent,3.7
+2023,Female,25 to 34,Not disabled,Percent,3.4
+2009,Female,35 to 44,Disabled,Percent,15.4
+2010,Female,35 to 44,Disabled,Percent,16.3
+2011,Female,35 to 44,Disabled,Percent,16.8
+2012,Female,35 to 44,Disabled,Percent,17.4
+2013,Female,35 to 44,Disabled,Percent,14.5
+2014,Female,35 to 44,Disabled,Percent,13.8
+2015,Female,35 to 44,Disabled,Percent,10.8
+2016,Female,35 to 44,Disabled,Percent,11.0
+2017,Female,35 to 44,Disabled,Percent,10.6
+2018,Female,35 to 44,Disabled,Percent,7.6
+2019,Female,35 to 44,Disabled,Percent,8.1
+2020,Female,35 to 44,Disabled,Percent,13.7
+2021,Female,35 to 44,Disabled,Percent,11.1
+2022,Female,35 to 44,Disabled,Percent,9.0
+2023,Female,35 to 44,Disabled,Percent,7.7
+2009,Female,35 to 44,Not disabled,Percent,6.9
+2010,Female,35 to 44,Not disabled,Percent,7.4
+2011,Female,35 to 44,Not disabled,Percent,6.9
+2012,Female,35 to 44,Not disabled,Percent,6.5
+2013,Female,35 to 44,Not disabled,Percent,5.8
+2014,Female,35 to 44,Not disabled,Percent,4.6
+2015,Female,35 to 44,Not disabled,Percent,4.2
+2016,Female,35 to 44,Not disabled,Percent,3.9
+2017,Female,35 to 44,Not disabled,Percent,3.5
+2018,Female,35 to 44,Not disabled,Percent,3.0
+2019,Female,35 to 44,Not disabled,Percent,2.7
+2020,Female,35 to 44,Not disabled,Percent,6.5
+2021,Female,35 to 44,Not disabled,Percent,4.4
+2022,Female,35 to 44,Not disabled,Percent,2.8
+2023,Female,35 to 44,Not disabled,Percent,2.6
+2009,Female,45 to 54,Disabled,Percent,12.3
+2010,Female,45 to 54,Disabled,Percent,13.5
+2011,Female,45 to 54,Disabled,Percent,14.0
+2012,Female,45 to 54,Disabled,Percent,14.0
+2013,Female,45 to 54,Disabled,Percent,13.2
+2014,Female,45 to 54,Disabled,Percent,11.0
+2015,Female,45 to 54,Disabled,Percent,9.0
+2016,Female,45 to 54,Disabled,Percent,9.0
+2017,Female,45 to 54,Disabled,Percent,8.4
+2018,Female,45 to 54,Disabled,Percent,7.1
+2019,Female,45 to 54,Disabled,Percent,6.9
+2020,Female,45 to 54,Disabled,Percent,11.8
+2021,Female,45 to 54,Disabled,Percent,10.5
+2022,Female,45 to 54,Disabled,Percent,5.8
+2023,Female,45 to 54,Disabled,Percent,6.8
+2009,Female,45 to 54,Not disabled,Percent,5.7
+2010,Female,45 to 54,Not disabled,Percent,6.5
+2011,Female,45 to 54,Not disabled,Percent,6.4
+2012,Female,45 to 54,Not disabled,Percent,5.9
+2013,Female,45 to 54,Not disabled,Percent,5.2
+2014,Female,45 to 54,Not disabled,Percent,4.2
+2015,Female,45 to 54,Not disabled,Percent,3.6
+2016,Female,45 to 54,Not disabled,Percent,3.5
+2017,Female,45 to 54,Not disabled,Percent,3.1
+2018,Female,45 to 54,Not disabled,Percent,2.7
+2019,Female,45 to 54,Not disabled,Percent,2.5
+2020,Female,45 to 54,Not disabled,Percent,6.7
+2021,Female,45 to 54,Not disabled,Percent,4.0
+2022,Female,45 to 54,Not disabled,Percent,2.4
+2023,Female,45 to 54,Not disabled,Percent,2.2
+2009,Female,55 to 64,Disabled,Percent,9.9
+2010,Female,55 to 64,Disabled,Percent,10.2
+2011,Female,55 to 64,Disabled,Percent,10.9
+2012,Female,55 to 64,Disabled,Percent,8.5
+2013,Female,55 to 64,Disabled,Percent,9.6
+2014,Female,55 to 64,Disabled,Percent,9.3
+2015,Female,55 to 64,Disabled,Percent,8.4
+2016,Female,55 to 64,Disabled,Percent,7.6
+2017,Female,55 to 64,Disabled,Percent,7.0
+2018,Female,55 to 64,Disabled,Percent,6.5
+2019,Female,55 to 64,Disabled,Percent,5.2
+2020,Female,55 to 64,Disabled,Percent,10.2
+2021,Female,55 to 64,Disabled,Percent,6.4
+2022,Female,55 to 64,Disabled,Percent,4.6
+2023,Female,55 to 64,Disabled,Percent,4.5
+2009,Female,55 to 64,Not disabled,Percent,5.7
+2010,Female,55 to 64,Not disabled,Percent,6.0
+2011,Female,55 to 64,Not disabled,Percent,5.8
+2012,Female,55 to 64,Not disabled,Percent,5.4
+2013,Female,55 to 64,Not disabled,Percent,4.7
+2014,Female,55 to 64,Not disabled,Percent,3.9
+2015,Female,55 to 64,Not disabled,Percent,3.3
+2016,Female,55 to 64,Not disabled,Percent,3.0
+2017,Female,55 to 64,Not disabled,Percent,2.8
+2018,Female,55 to 64,Not disabled,Percent,2.5
+2019,Female,55 to 64,Not disabled,Percent,2.5
+2020,Female,55 to 64,Not disabled,Percent,7.0
+2021,Female,55 to 64,Not disabled,Percent,4.0
+2022,Female,55 to 64,Not disabled,Percent,2.4
+2023,Female,55 to 64,Not disabled,Percent,2.2
+2009,Female,65 and over,Disabled,Percent,7.3
+2010,Female,65 and over,Disabled,Percent,9.4
+2011,Female,65 and over,Disabled,Percent,8.1
+2012,Female,65 and over,Disabled,Percent,7.4
+2013,Female,65 and over,Disabled,Percent,6.0
+2014,Female,65 and over,Disabled,Percent,6.1
+2015,Female,65 and over,Disabled,Percent,5.7
+2016,Female,65 and over,Disabled,Percent,7.4
+2017,Female,65 and over,Disabled,Percent,6.0
+2018,Female,65 and over,Disabled,Percent,4.9
+2019,Female,65 and over,Disabled,Percent,5.0
+2020,Female,65 and over,Disabled,Percent,9.6
+2021,Female,65 and over,Disabled,Percent,8.2
+2022,Female,65 and over,Disabled,Percent,5.1
+2023,Female,65 and over,Disabled,Percent,4.7
+2009,Female,65 and over,Not disabled,Percent,6.0
+2010,Female,65 and over,Not disabled,Percent,5.8
+2011,Female,65 and over,Not disabled,Percent,6.3
+2012,Female,65 and over,Not disabled,Percent,6.2
+2013,Female,65 and over,Not disabled,Percent,5.0
+2014,Female,65 and over,Not disabled,Percent,4.5
+2015,Female,65 and over,Not disabled,Percent,3.7
+2016,Female,65 and over,Not disabled,Percent,3.5
+2017,Female,65 and over,Not disabled,Percent,3.6
+2018,Female,65 and over,Not disabled,Percent,3.1
+2019,Female,65 and over,Not disabled,Percent,2.8
+2020,Female,65 and over,Not disabled,Percent,8.2
+2021,Female,65 and over,Not disabled,Percent,4.2
+2022,Female,65 and over,Not disabled,Percent,2.6
+2023,Female,65 and over,Not disabled,Percent,2.7

@@ -1,0 +1,11 @@
+Year,Sex,Age,Income,Value
+2012,,,,39
+2012,Male,,,42
+2012,Female,,,36
+2012,,24 and under,,43
+2012,,25 to 34,,45
+2012,,35 to 44,,42
+2012,,45 to 54,,33
+2012,,55 to 65,,29
+2012,,,1st quintile (lowest),38
+2012,,,5th quintile (highest),55

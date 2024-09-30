@@ -1,1 +1,0 @@
-{"Year":[2012,2012,2012,2012,2012,2012,2012,2012,2012],"sex":[null,"i4_7_1_male","i4_7_1_female",null,null,null,null,null,null],"disability_status":[null,null,null,"i4_7_1_disabilities","i4_7_1_nodisabilities",null,null,null,null],"urbanicity":[null,null,null,null,null,"i4_7_1_urban","i4_7_1_suburban","i4_7_1_town","i4_7_1_rural"],"Value":[66,67,66,66,66,75,63,54,65]}

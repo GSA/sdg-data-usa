@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Scholarship Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basic life skills for adults",
+                "Media and free flow of information",
+                "Multisector education/training",
+                "Advanced technical and managerial training",
+                "Employment creation",
+                "Primary education",
+                "Health personnel development",
+                "Environmental education/training",
+                "Higher education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-b-1",
+  "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+}

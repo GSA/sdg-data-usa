@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Commitments, USD Current",
+                "Gross Disbursements, USD Current",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-a-2",
+  "title": "Total official flows (official development assistance plus other official flows) to the agriculture sector"
+}

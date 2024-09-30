@@ -1,0 +1,73 @@
+Year,Sex,Income,Value
+2007,,,92.39
+2008,,,90.98
+2009,,,91.533
+2010,,,92.377
+2011,,,92.576
+2012,,,89.798
+2013,,,90.26
+2014,,,90.714
+2015,,,90.955
+2007,Male,,91.097
+2008,Male,,91.168
+2009,Male,,90.435
+2010,Male,,91.833
+2011,Male,,92.616
+2012,Male,,89.392
+2013,Male,,90.622
+2014,Male,,91.555
+2015,Male,,90.002
+2007,Female,,93.731
+2008,Female,,90.782
+2009,Female,,92.687
+2010,Female,,92.949
+2011,Female,,92.533
+2012,Female,,90.21
+2013,Female,,89.862
+2014,Female,,89.852
+2015,Female,,91.961
+2007,,1st quintile (lowest),86.476
+2008,,1st quintile (lowest),88.067
+2009,,1st quintile (lowest),89.575
+2010,,1st quintile (lowest),89.393
+2011,,1st quintile (lowest),91.571
+2012,,1st quintile (lowest),84.552
+2013,,1st quintile (lowest),91.234
+2014,,1st quintile (lowest),91.377
+2015,,1st quintile (lowest),88.737
+2007,,2nd quintile,91.646
+2008,,2nd quintile,89.098
+2009,,2nd quintile,89.559
+2010,,2nd quintile,91.404
+2011,,2nd quintile,90.569
+2012,,2nd quintile,90.22
+2013,,2nd quintile,89.202
+2014,,2nd quintile,87.88
+2015,,2nd quintile,92.879
+2007,,3rd quintile,94.729
+2008,,3rd quintile,91.561
+2009,,3rd quintile,91.739
+2010,,3rd quintile,89.684
+2011,,3rd quintile,92.094
+2012,,3rd quintile,90.211
+2013,,3rd quintile,89.121
+2014,,3rd quintile,91.457
+2015,,3rd quintile,91.413
+2007,,4th quintile,92.919
+2008,,4th quintile,92.437
+2009,,4th quintile,91.871
+2010,,4th quintile,94.62
+2011,,4th quintile,91.141
+2012,,4th quintile,88.854
+2013,,4th quintile,88.574
+2014,,4th quintile,91.344
+2015,,4th quintile,88.191
+2007,,5th quintile (highest),95.048
+2008,,5th quintile (highest),92.784
+2009,,5th quintile (highest),94.306
+2010,,5th quintile (highest),95.479
+2011,,5th quintile (highest),96.354
+2012,,5th quintile (highest),94.151
+2013,,5th quintile (highest),92.862
+2014,,5th quintile (highest),91.117
+2015,,5th quintile (highest),92.512

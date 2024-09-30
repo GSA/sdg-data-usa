@@ -1,0 +1,385 @@
+Year,Units,Sex,Age,Value
+2023,Percent,,,89
+2022,Percent,,,89
+2021,Percent,,,89
+2020,Percent,,,89
+2019,Percent,,,89
+2018,Percent,,,88
+2017,Percent,,,88
+2016,Percent,,,88
+2015,Percent,,,88
+2014,Percent,,,88
+2013,Percent,,,87
+2012,Percent,,,87
+2011,Percent,,,87
+2010,Percent,,,87
+2009,Percent,,,87
+2008,Percent,,,88
+2007,Percent,,,88
+2006,Percent,,,88
+2005,Percent,,,88
+2004,Percent,,,88
+2003,Percent,,,88
+2002,Percent,,,87
+2001,Percent,,,87
+2000,Percent,,,87
+2023,Percent,Male,,90
+2022,Percent,Male,,91
+2021,Percent,Male,,91
+2020,Percent,Male,,91
+2019,Percent,Male,,90
+2018,Percent,Male,,90
+2017,Percent,Male,,90
+2016,Percent,Male,,90
+2015,Percent,Male,,90
+2014,Percent,Male,,90
+2013,Percent,Male,,90
+2012,Percent,Male,,90
+2011,Percent,Male,,90
+2010,Percent,Male,,90
+2009,Percent,Male,,91
+2008,Percent,Male,,91
+2007,Percent,Male,,92
+2006,Percent,Male,,92
+2005,Percent,Male,,92
+2004,Percent,Male,,92
+2003,Percent,Male,,92
+2002,Percent,Male,,92
+2001,Percent,Male,,92
+2000,Percent,Male,,92
+2023,Percent,Female,,88
+2022,Percent,Female,,88
+2021,Percent,Female,,87
+2020,Percent,Female,,87
+2019,Percent,Female,,87
+2018,Percent,Female,,87
+2017,Percent,Female,,86
+2016,Percent,Female,,85
+2015,Percent,Female,,85
+2014,Percent,Female,,85
+2013,Percent,Female,,85
+2012,Percent,Female,,85
+2011,Percent,Female,,85
+2010,Percent,Female,,84
+2009,Percent,Female,,84
+2008,Percent,Female,,84
+2007,Percent,Female,,84
+2006,Percent,Female,,84
+2005,Percent,Female,,84
+2004,Percent,Female,,84
+2003,Percent,Female,,83
+2002,Percent,Female,,83
+2001,Percent,Female,,83
+2000,Percent,Female,,82
+2023,Percent,,15 to 19,13
+2023,Percent,,20 to 24,74
+2023,Percent,,25 to 29,89
+2023,Percent,,30 to 34,92
+2023,Percent,,35 to 39,91
+2023,Percent,,40 to 44,90
+2023,Percent,,45 to 49,90
+2023,Percent,,50 to 54,91
+2023,Percent,,55 to 59,92
+2023,Percent,,60 to 64,92
+2023,Percent,,65 to 69,91
+2023,Percent,,70 to 74,91
+2023,Percent,,75 or older,87
+2022,Percent,,15 to 19,13
+2022,Percent,,20 to 24,74
+2022,Percent,,25 to 29,90
+2022,Percent,,30 to 34,92
+2022,Percent,,35 to 39,91
+2022,Percent,,40 to 44,90
+2022,Percent,,45 to 49,90
+2022,Percent,,50 to 54,91
+2022,Percent,,55 to 59,92
+2022,Percent,,60 to 64,92
+2022,Percent,,65 to 69,91
+2022,Percent,,70 to 74,91
+2022,Percent,,75 or older,86
+2021,Percent,,15 to 19,14
+2021,Percent,,20 to 24,74
+2021,Percent,,25 to 29,90
+2021,Percent,,30 to 34,92
+2021,Percent,,35 to 39,91
+2021,Percent,,40 to 44,90
+2021,Percent,,45 to 49,90
+2021,Percent,,50 to 54,92
+2021,Percent,,55 to 59,92
+2021,Percent,,60 to 64,92
+2021,Percent,,65 to 69,91
+2021,Percent,,70 to 74,90
+2021,Percent,,75 or older,85
+2020,Percent,,15 to 19,14
+2020,Percent,,20 to 24,74
+2020,Percent,,25 to 29,91
+2020,Percent,,30 to 34,92
+2020,Percent,,35 to 39,91
+2020,Percent,,40 to 44,90
+2020,Percent,,45 to 49,91
+2020,Percent,,50 to 54,92
+2020,Percent,,55 to 59,93
+2020,Percent,,60 to 64,92
+2020,Percent,,65 to 69,91
+2020,Percent,,70 to 74,90
+2020,Percent,,75 or older,84
+2019,Percent,,15 to 19,14
+2019,Percent,,20 to 24,75
+2019,Percent,,25 to 29,90
+2019,Percent,,30 to 34,91
+2019,Percent,,35 to 39,91
+2019,Percent,,40 to 44,90
+2019,Percent,,45 to 49,91
+2019,Percent,,50 to 54,92
+2019,Percent,,55 to 59,92
+2019,Percent,,60 to 64,91
+2019,Percent,,65 to 69,90
+2019,Percent,,70 to 74,90
+2019,Percent,,75 or older,83
+2018,Percent,,15 to 19,13
+2018,Percent,,20 to 24,74
+2018,Percent,,25 to 29,89
+2018,Percent,,30 to 34,91
+2018,Percent,,35 to 39,90
+2018,Percent,,40 to 44,89
+2018,Percent,,45 to 49,91
+2018,Percent,,50 to 54,92
+2018,Percent,,55 to 59,92
+2018,Percent,,60 to 64,91
+2018,Percent,,65 to 69,90
+2018,Percent,,70 to 74,89
+2018,Percent,,75 or older,83
+2017,Percent,,15 to 19,13
+2017,Percent,,20 to 24,72
+2017,Percent,,25 to 29,89
+2017,Percent,,30 to 34,90
+2017,Percent,,35 to 39,89
+2017,Percent,,40 to 44,89
+2017,Percent,,45 to 49,91
+2017,Percent,,50 to 54,92
+2017,Percent,,55 to 59,92
+2017,Percent,,60 to 64,91
+2017,Percent,,65 to 69,91
+2017,Percent,,70 to 74,89
+2017,Percent,,75 or older,82
+2016,Percent,,15 to 19,12
+2016,Percent,,20 to 24,71
+2016,Percent,,25 to 29,89
+2016,Percent,,30 to 34,90
+2016,Percent,,35 to 39,89
+2016,Percent,,40 to 44,90
+2016,Percent,,45 to 49,91
+2016,Percent,,50 to 54,93
+2016,Percent,,55 to 59,92
+2016,Percent,,60 to 64,91
+2016,Percent,,65 to 69,90
+2016,Percent,,70 to 74,88
+2016,Percent,,75 or older,82
+2015,Percent,,15 to 19,11
+2015,Percent,,20 to 24,70
+2015,Percent,,25 to 29,89
+2015,Percent,,30 to 34,90
+2015,Percent,,35 to 39,89
+2015,Percent,,40 to 44,90
+2015,Percent,,45 to 49,91
+2015,Percent,,50 to 54,92
+2015,Percent,,55 to 59,92
+2015,Percent,,60 to 64,91
+2015,Percent,,65 to 69,90
+2015,Percent,,70 to 74,87
+2015,Percent,,75 or older,81
+2014,Percent,,15 to 19,10
+2014,Percent,,20 to 24,69
+2014,Percent,,25 to 29,89
+2014,Percent,,30 to 34,90
+2014,Percent,,35 to 39,89
+2014,Percent,,40 to 44,91
+2014,Percent,,45 to 49,92
+2014,Percent,,50 to 54,93
+2014,Percent,,55 to 59,92
+2014,Percent,,60 to 64,91
+2014,Percent,,65 to 69,89
+2014,Percent,,70 to 74,87
+2014,Percent,,75 or older,80
+2013,Percent,,15 to 19,10
+2013,Percent,,20 to 24,68
+2013,Percent,,25 to 29,89
+2013,Percent,,30 to 34,90
+2013,Percent,,35 to 39,89
+2013,Percent,,40 to 44,91
+2013,Percent,,45 to 49,92
+2013,Percent,,50 to 54,92
+2013,Percent,,55 to 59,92
+2013,Percent,,60 to 64,90
+2013,Percent,,65 to 69,89
+2013,Percent,,70 to 74,86
+2013,Percent,,75 or older,80
+2012,Percent,,15 to 19,9
+2012,Percent,,20 to 24,69
+2012,Percent,,25 to 29,89
+2012,Percent,,30 to 34,89
+2012,Percent,,35 to 39,89
+2012,Percent,,40 to 44,91
+2012,Percent,,45 to 49,92
+2012,Percent,,50 to 54,92
+2012,Percent,,55 to 59,91
+2012,Percent,,60 to 64,90
+2012,Percent,,65 to 69,88
+2012,Percent,,70 to 74,85
+2012,Percent,,75 or older,79
+2011,Percent,,15 to 19,10
+2011,Percent,,20 to 24,70
+2011,Percent,,25 to 29,89
+2011,Percent,,30 to 34,89
+2011,Percent,,35 to 39,90
+2011,Percent,,40 to 44,91
+2011,Percent,,45 to 49,93
+2011,Percent,,50 to 54,92
+2011,Percent,,55 to 59,91
+2011,Percent,,60 to 64,89
+2011,Percent,,65 to 69,88
+2011,Percent,,70 to 74,84
+2011,Percent,,75 or older,79
+2010,Percent,,15 to 19,11
+2010,Percent,,20 to 24,72
+2010,Percent,,25 to 29,89
+2010,Percent,,30 to 34,90
+2010,Percent,,35 to 39,90
+2010,Percent,,40 to 44,92
+2010,Percent,,45 to 49,93
+2010,Percent,,50 to 54,92
+2010,Percent,,55 to 59,91
+2010,Percent,,60 to 64,88
+2010,Percent,,65 to 69,87
+2010,Percent,,70 to 74,83
+2010,Percent,,75 or older,78
+2009,Percent,,15 to 19,14
+2009,Percent,,20 to 24,75
+2009,Percent,,25 to 29,89
+2009,Percent,,30 to 34,89
+2009,Percent,,35 to 39,90
+2009,Percent,,40 to 44,92
+2009,Percent,,45 to 49,93
+2009,Percent,,50 to 54,92
+2009,Percent,,55 to 59,91
+2009,Percent,,60 to 64,88
+2009,Percent,,65 to 69,86
+2009,Percent,,70 to 74,82
+2009,Percent,,75 or older,78
+2008,Percent,,15 to 19,16
+2008,Percent,,20 to 24,76
+2008,Percent,,25 to 29,89
+2008,Percent,,30 to 34,89
+2008,Percent,,35 to 39,91
+2008,Percent,,40 to 44,92
+2008,Percent,,45 to 49,93
+2008,Percent,,50 to 54,92
+2008,Percent,,55 to 59,91
+2008,Percent,,60 to 64,89
+2008,Percent,,65 to 69,86
+2008,Percent,,70 to 74,82
+2008,Percent,,75 or older,77
+2007,Percent,,15 to 19,16
+2007,Percent,,20 to 24,76
+2007,Percent,,25 to 29,89
+2007,Percent,,30 to 34,90
+2007,Percent,,35 to 39,91
+2007,Percent,,40 to 44,93
+2007,Percent,,45 to 49,93
+2007,Percent,,50 to 54,92
+2007,Percent,,55 to 59,91
+2007,Percent,,60 to 64,90
+2007,Percent,,65 to 69,86
+2007,Percent,,70 to 74,81
+2007,Percent,,75 or older,77
+2006,Percent,,15 to 19,17
+2006,Percent,,20 to 24,78
+2006,Percent,,25 to 29,90
+2006,Percent,,30 to 34,89
+2006,Percent,,35 to 39,91
+2006,Percent,,40 to 44,92
+2006,Percent,,45 to 49,93
+2006,Percent,,50 to 54,92
+2006,Percent,,55 to 59,91
+2006,Percent,,60 to 64,89
+2006,Percent,,65 to 69,85
+2006,Percent,,70 to 74,81
+2006,Percent,,75 or older,77
+2005,Percent,,15 to 19,17
+2005,Percent,,20 to 24,78
+2005,Percent,,25 to 29,89
+2005,Percent,,30 to 34,90
+2005,Percent,,35 to 39,91
+2005,Percent,,40 to 44,93
+2005,Percent,,45 to 49,93
+2005,Percent,,50 to 54,92
+2005,Percent,,55 to 59,91
+2005,Percent,,60 to 64,88
+2005,Percent,,65 to 69,85
+2005,Percent,,70 to 74,81
+2005,Percent,,75 or older,75
+2004,Percent,,15 to 19,18
+2004,Percent,,20 to 24,79
+2004,Percent,,25 to 29,89
+2004,Percent,,30 to 34,90
+2004,Percent,,35 to 39,91
+2004,Percent,,40 to 44,93
+2004,Percent,,45 to 49,93
+2004,Percent,,50 to 54,92
+2004,Percent,,55 to 59,90
+2004,Percent,,60 to 64,87
+2004,Percent,,65 to 69,84
+2004,Percent,,70 to 74,81
+2004,Percent,,75 or older,75
+2003,Percent,,15 to 19,19
+2003,Percent,,20 to 24,80
+2003,Percent,,25 to 29,89
+2003,Percent,,30 to 34,90
+2003,Percent,,35 to 39,92
+2003,Percent,,40 to 44,93
+2003,Percent,,45 to 49,92
+2003,Percent,,50 to 54,91
+2003,Percent,,55 to 59,89
+2003,Percent,,60 to 64,87
+2003,Percent,,65 to 69,84
+2003,Percent,,70 to 74,80
+2003,Percent,,75 or older,75
+2002,Percent,,15 to 19,22
+2002,Percent,,20 to 24,79
+2002,Percent,,25 to 29,88
+2002,Percent,,30 to 34,90
+2002,Percent,,35 to 39,91
+2002,Percent,,40 to 44,92
+2002,Percent,,45 to 49,92
+2002,Percent,,50 to 54,91
+2002,Percent,,55 to 59,88
+2002,Percent,,60 to 64,87
+2002,Percent,,65 to 69,85
+2002,Percent,,70 to 74,80
+2002,Percent,,75 or older,75
+2001,Percent,,15 to 19,24
+2001,Percent,,20 to 24,80
+2001,Percent,,25 to 29,89
+2001,Percent,,30 to 34,90
+2001,Percent,,35 to 39,92
+2001,Percent,,40 to 44,92
+2001,Percent,,45 to 49,92
+2001,Percent,,50 to 54,90
+2001,Percent,,55 to 59,87
+2001,Percent,,60 to 64,86
+2001,Percent,,65 to 69,84
+2001,Percent,,70 to 74,79
+2001,Percent,,75 or older,75
+2000,Percent,,15 to 19,24
+2000,Percent,,20 to 24,80
+2000,Percent,,25 to 29,89
+2000,Percent,,30 to 34,91
+2000,Percent,,35 to 39,92
+2000,Percent,,40 to 44,92
+2000,Percent,,45 to 49,91
+2000,Percent,,50 to 54,90
+2000,Percent,,55 to 59,87
+2000,Percent,,60 to 64,85
+2000,Percent,,65 to 69,83
+2000,Percent,,70 to 74,79
+2000,Percent,,75 or older,75
