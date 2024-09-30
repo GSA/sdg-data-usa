@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -14,22 +14,41 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: Does this indicator (LDC or small island developing states receiving
-  support) apply to the US?
+graph_target_lines: []
+graph_title: >-
+  Does this indicator (LDC or small island developing states receiving support)
+  apply to the US?
 graph_titles: []
-graph_type: line
-indicator_available: Does this indicator (LDC or small island developing states receiving
-  support) apply to the US?
+graph_type: binary
+indicator_available: >-
+  Does this indicator (LDC or small island developing states receiving support)
+  apply to the US?
 indicator_name: global_indicators.13-b-1-title
 indicator_number: 13.b.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

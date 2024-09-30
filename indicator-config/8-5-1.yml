@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -14,22 +14,39 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title:  Median weekly earnings in US dollars of women ages 16 and over who indicated
-  they have a disability, employed as full-time wage and salary workers
+graph_target_lines: []
+graph_title: "\_Median weekly earnings in US dollars of women ages 16 and over who indicated they have a disability, employed as full-time wage and salary workers"
 graph_titles: []
 graph_type: line
-indicator_available: Usual weekly earnings of employed full-time wage and salary workers
-  by disability status, age, sex
+indicator_available: >-
+  Median weekly earnings of employed full-time wage and salary workers by
+  disability status, age, sex
 indicator_name: global_indicators.8-5-1-title
 indicator_number: 8.5.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

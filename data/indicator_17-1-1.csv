@@ -1,145 +1,145 @@
 ﻿Year,Series,Units,Value
-2000,crnt_rcpts,Share,30.61
-2001,crnt_rcpts,Share,29.53
-2002,crnt_rcpts,Share,27.16
-2003,crnt_rcpts,Share,26.58
-2004,crnt_rcpts,Share,26.8
-2005,crnt_rcpts,Share,28.21
-2006,crnt_rcpts,Share,29.04
-2007,crnt_rcpts,Share,29.08
-2008,crnt_rcpts,Share,27.93
-2009,crnt_rcpts,Share,25.55
-2010,crnt_rcpts,Share,26.13
-2011,crnt_rcpts,Share,26.46
-2012,crnt_rcpts,Share,26.51
-2013,crnt_rcpts,Share,28.61
-2014,crnt_rcpts,Share,28.7
-2015,crnt_rcpts,Share,28.89
-2016,crnt_rcpts,Share,28.34
-2017,crnt_rcpts,Share,27.82
-2018,crnt_rcpts,Share,27.32
-2019,crnt_rcpts,Share,27.34
-2020,crnt_rcpts,Share,28.02
-2021,crnt_rcpts,Share,29.06
-2022,crnt_rcpts,Share,29.87
-2023,crnt_rcpts,Share,27.03
-2000,crnt_tx_rcpts,Share,21.28
-2001,crnt_tx_rcpts,Share,20.23
-2002,crnt_tx_rcpts,Share,18.09
-2003,crnt_tx_rcpts,Share,17.7
-2004,crnt_tx_rcpts,Share,18.01
-2005,crnt_tx_rcpts,Share,19.49
-2006,crnt_tx_rcpts,Share,20.22
-2007,crnt_tx_rcpts,Share,20.24
-2008,crnt_tx_rcpts,Share,19.12
-2009,crnt_tx_rcpts,Share,16.5
-2010,crnt_tx_rcpts,Share,17.14
-2011,crnt_tx_rcpts,Share,18.24
-2012,crnt_tx_rcpts,Share,18.38
-2013,crnt_tx_rcpts,Share,19.16
-2014,crnt_tx_rcpts,Share,19.54
-2015,crnt_tx_rcpts,Share,19.8
-2016,crnt_tx_rcpts,Share,19.45
-2017,crnt_tx_rcpts,Share,18.98
-2018,crnt_tx_rcpts,Share,18.6
-2019,crnt_tx_rcpts,Share,18.79
-2020,crnt_tx_rcpts,Share,19.22
-2021,crnt_tx_rcpts,Share,20.5
-2022,crnt_tx_rcpts,Share,21.4
-2023,crnt_tx_rcpts,Share,18.98
-2000,ctrbtns_govt_soc_ins,Share,6.92
-2001,ctrbtns_govt_soc_ins,Share,6.96
-2002,ctrbtns_govt_soc_ins,Share,6.91
-2003,ctrbtns_govt_soc_ins,Share,6.84
-2004,ctrbtns_govt_soc_ins,Share,6.82
-2005,ctrbtns_govt_soc_ins,Share,6.73
-2006,ctrbtns_govt_soc_ins,Share,6.71
-2007,ctrbtns_govt_soc_ins,Share,6.67
-2008,ctrbtns_govt_soc_ins,Share,6.72
-2009,ctrbtns_govt_soc_ins,Share,6.69
-2010,ctrbtns_govt_soc_ins,Share,6.57
-2011,ctrbtns_govt_soc_ins,Share,5.9
-2012,ctrbtns_govt_soc_ins,Share,5.88
-2013,ctrbtns_govt_soc_ins,Share,6.57
-2014,ctrbtns_govt_soc_ins,Share,6.58
-2015,ctrbtns_govt_soc_ins,Share,6.61
-2016,ctrbtns_govt_soc_ins,Share,6.62
-2017,ctrbtns_govt_soc_ins,Share,6.65
-2018,ctrbtns_govt_soc_ins,Share,6.62
-2019,ctrbtns_govt_soc_ins,Share,6.64
-2020,ctrbtns_govt_soc_ins,Share,6.82
-2021,ctrbtns_govt_soc_ins,Share,6.63
-2022,ctrbtns_govt_soc_ins,Share,6.63
-2023,ctrbtns_govt_soc_ins,Share,6.61
-2000,inc_rcpts_asts,Share,1.4
-2001,inc_rcpts_asts,Share,1.35
-2002,inc_rcpts_asts,Share,1.15
-2003,inc_rcpts_asts,Share,1.04
-2004,inc_rcpts_asts,Share,0.98
-2005,inc_rcpts_asts,Share,1.05
-2006,inc_rcpts_asts,Share,1.19
-2007,inc_rcpts_asts,Share,1.29
-2008,inc_rcpts_asts,Share,1.17
-2009,inc_rcpts_asts,Share,1.29
-2010,inc_rcpts_asts,Share,1.44
-2011,inc_rcpts_asts,Share,1.35
-2012,inc_rcpts_asts,Share,1.36
-2013,inc_rcpts_asts,Share,1.91
-2014,inc_rcpts_asts,Share,1.44
-2015,inc_rcpts_asts,Share,1.32
-2016,inc_rcpts_asts,Share,1.19
-2017,inc_rcpts_asts,Share,1.15
-2018,inc_rcpts_asts,Share,1.04
-2019,inc_rcpts_asts,Share,0.96
-2020,inc_rcpts_asts,Share,1
-2021,inc_rcpts_asts,Share,0.99
-2022,inc_rcpts_asts,Share,0.83
-2023,inc_rcpts_asts,Share,0.55
-2000,crnt_trnsfr_rcpts,Share,0.89
-2001,crnt_trnsfr_rcpts,Share,0.92
-2002,crnt_trnsfr_rcpts,Share,0.94
-2003,crnt_trnsfr_rcpts,Share,0.96
-2004,crnt_trnsfr_rcpts,Share,0.98
-2005,crnt_trnsfr_rcpts,Share,0.96
-2006,crnt_trnsfr_rcpts,Share,0.96
-2007,crnt_trnsfr_rcpts,Share,0.97
-2008,crnt_trnsfr_rcpts,Share,1.03
-2009,crnt_trnsfr_rcpts,Share,1.16
-2010,crnt_trnsfr_rcpts,Share,1.1
-2011,crnt_trnsfr_rcpts,Share,1.09
-2012,crnt_trnsfr_rcpts,Share,0.98
-2013,crnt_trnsfr_rcpts,Share,1.05
-2014,crnt_trnsfr_rcpts,Share,1.19
-2015,crnt_trnsfr_rcpts,Share,1.17
-2016,crnt_trnsfr_rcpts,Share,1.1
-2017,crnt_trnsfr_rcpts,Share,1.06
-2018,crnt_trnsfr_rcpts,Share,1.09
-2019,crnt_trnsfr_rcpts,Share,1.01
-2020,crnt_trnsfr_rcpts,Share,0.98
-2021,crnt_trnsfr_rcpts,Share,0.96
-2022,crnt_trnsfr_rcpts,Share,0.99
-2023,crnt_trnsfr_rcpts,Share,0.93
-2000,crnt_srpls_govt_entrprs,Share,0.11
-2001,crnt_srpls_govt_entrprs,Share,0.05
-2002,crnt_srpls_govt_entrprs,Share,0.07
-2003,crnt_srpls_govt_entrprs,Share,0.04
-2004,crnt_srpls_govt_entrprs,Share,0
-2005,crnt_srpls_govt_entrprs,Share,-0.03
-2006,crnt_srpls_govt_entrprs,Share,-0.04
-2007,crnt_srpls_govt_entrprs,Share,-0.09
-2008,crnt_srpls_govt_entrprs,Share,-0.11
-2009,crnt_srpls_govt_entrprs,Share,-0.1
-2010,crnt_srpls_govt_entrprs,Share,-0.12
-2011,crnt_srpls_govt_entrprs,Share,-0.11
-2012,crnt_srpls_govt_entrprs,Share,-0.08
-2013,crnt_srpls_govt_entrprs,Share,-0.08
-2014,crnt_srpls_govt_entrprs,Share,-0.05
-2015,crnt_srpls_govt_entrprs,Share,-0.02
-2016,crnt_srpls_govt_entrprs,Share,-0.01
-2017,crnt_srpls_govt_entrprs,Share,-0.02
-2018,crnt_srpls_govt_entrprs,Share,-0.02
-2019,crnt_srpls_govt_entrprs,Share,-0.06
-2020,crnt_srpls_govt_entrprs,Share,-0.01
-2021,crnt_srpls_govt_entrprs,Share,-0.02
-2022,crnt_srpls_govt_entrprs,Share,0.02
-2023,crnt_srpls_govt_entrprs,Share,-0.04
+2000,Current receipts,Share,30.61
+2001,Current receipts,Share,29.53
+2002,Current receipts,Share,27.16
+2003,Current receipts,Share,26.58
+2004,Current receipts,Share,26.8
+2005,Current receipts,Share,28.21
+2006,Current receipts,Share,29.04
+2007,Current receipts,Share,29.08
+2008,Current receipts,Share,27.93
+2009,Current receipts,Share,25.55
+2010,Current receipts,Share,26.13
+2011,Current receipts,Share,26.46
+2012,Current receipts,Share,26.51
+2013,Current receipts,Share,28.61
+2014,Current receipts,Share,28.7
+2015,Current receipts,Share,28.89
+2016,Current receipts,Share,28.34
+2017,Current receipts,Share,27.82
+2018,Current receipts,Share,27.32
+2019,Current receipts,Share,27.34
+2020,Current receipts,Share,28.02
+2021,Current receipts,Share,29.06
+2022,Current receipts,Share,29.87
+2023,Current receipts,Share,27.03
+2000,Current tax receipts,Share,21.28
+2001,Current tax receipts,Share,20.23
+2002,Current tax receipts,Share,18.09
+2003,Current tax receipts,Share,17.7
+2004,Current tax receipts,Share,18.01
+2005,Current tax receipts,Share,19.49
+2006,Current tax receipts,Share,20.22
+2007,Current tax receipts,Share,20.24
+2008,Current tax receipts,Share,19.12
+2009,Current tax receipts,Share,16.5
+2010,Current tax receipts,Share,17.14
+2011,Current tax receipts,Share,18.24
+2012,Current tax receipts,Share,18.38
+2013,Current tax receipts,Share,19.16
+2014,Current tax receipts,Share,19.54
+2015,Current tax receipts,Share,19.8
+2016,Current tax receipts,Share,19.45
+2017,Current tax receipts,Share,18.98
+2018,Current tax receipts,Share,18.6
+2019,Current tax receipts,Share,18.79
+2020,Current tax receipts,Share,19.22
+2021,Current tax receipts,Share,20.5
+2022,Current tax receipts,Share,21.4
+2023,Current tax receipts,Share,18.98
+2000,Contributions for government social insurance,Share,6.92
+2001,Contributions for government social insurance,Share,6.96
+2002,Contributions for government social insurance,Share,6.91
+2003,Contributions for government social insurance,Share,6.84
+2004,Contributions for government social insurance,Share,6.82
+2005,Contributions for government social insurance,Share,6.73
+2006,Contributions for government social insurance,Share,6.71
+2007,Contributions for government social insurance,Share,6.67
+2008,Contributions for government social insurance,Share,6.72
+2009,Contributions for government social insurance,Share,6.69
+2010,Contributions for government social insurance,Share,6.57
+2011,Contributions for government social insurance,Share,5.9
+2012,Contributions for government social insurance,Share,5.88
+2013,Contributions for government social insurance,Share,6.57
+2014,Contributions for government social insurance,Share,6.58
+2015,Contributions for government social insurance,Share,6.61
+2016,Contributions for government social insurance,Share,6.62
+2017,Contributions for government social insurance,Share,6.65
+2018,Contributions for government social insurance,Share,6.62
+2019,Contributions for government social insurance,Share,6.64
+2020,Contributions for government social insurance,Share,6.82
+2021,Contributions for government social insurance,Share,6.63
+2022,Contributions for government social insurance,Share,6.63
+2023,Contributions for government social insurance,Share,6.61
+2000,Income receipts on assets,Share,1.4
+2001,Income receipts on assets,Share,1.35
+2002,Income receipts on assets,Share,1.15
+2003,Income receipts on assets,Share,1.04
+2004,Income receipts on assets,Share,0.98
+2005,Income receipts on assets,Share,1.05
+2006,Income receipts on assets,Share,1.19
+2007,Income receipts on assets,Share,1.29
+2008,Income receipts on assets,Share,1.17
+2009,Income receipts on assets,Share,1.29
+2010,Income receipts on assets,Share,1.44
+2011,Income receipts on assets,Share,1.35
+2012,Income receipts on assets,Share,1.36
+2013,Income receipts on assets,Share,1.91
+2014,Income receipts on assets,Share,1.44
+2015,Income receipts on assets,Share,1.32
+2016,Income receipts on assets,Share,1.19
+2017,Income receipts on assets,Share,1.15
+2018,Income receipts on assets,Share,1.04
+2019,Income receipts on assets,Share,0.96
+2020,Income receipts on assets,Share,1
+2021,Income receipts on assets,Share,0.99
+2022,Income receipts on assets,Share,0.83
+2023,Income receipts on assets,Share,0.55
+2000,Current transfer receipts,Share,0.89
+2001,Current transfer receipts,Share,0.92
+2002,Current transfer receipts,Share,0.94
+2003,Current transfer receipts,Share,0.96
+2004,Current transfer receipts,Share,0.98
+2005,Current transfer receipts,Share,0.96
+2006,Current transfer receipts,Share,0.96
+2007,Current transfer receipts,Share,0.97
+2008,Current transfer receipts,Share,1.03
+2009,Current transfer receipts,Share,1.16
+2010,Current transfer receipts,Share,1.1
+2011,Current transfer receipts,Share,1.09
+2012,Current transfer receipts,Share,0.98
+2013,Current transfer receipts,Share,1.05
+2014,Current transfer receipts,Share,1.19
+2015,Current transfer receipts,Share,1.17
+2016,Current transfer receipts,Share,1.1
+2017,Current transfer receipts,Share,1.06
+2018,Current transfer receipts,Share,1.09
+2019,Current transfer receipts,Share,1.01
+2020,Current transfer receipts,Share,0.98
+2021,Current transfer receipts,Share,0.96
+2022,Current transfer receipts,Share,0.99
+2023,Current transfer receipts,Share,0.93
+2000,Current surplus of government enterprises,Share,0.11
+2001,Current surplus of government enterprises,Share,0.05
+2002,Current surplus of government enterprises,Share,0.07
+2003,Current surplus of government enterprises,Share,0.04
+2004,Current surplus of government enterprises,Share,0
+2005,Current surplus of government enterprises,Share,-0.03
+2006,Current surplus of government enterprises,Share,-0.04
+2007,Current surplus of government enterprises,Share,-0.09
+2008,Current surplus of government enterprises,Share,-0.11
+2009,Current surplus of government enterprises,Share,-0.1
+2010,Current surplus of government enterprises,Share,-0.12
+2011,Current surplus of government enterprises,Share,-0.11
+2012,Current surplus of government enterprises,Share,-0.08
+2013,Current surplus of government enterprises,Share,-0.08
+2014,Current surplus of government enterprises,Share,-0.05
+2015,Current surplus of government enterprises,Share,-0.02
+2016,Current surplus of government enterprises,Share,-0.01
+2017,Current surplus of government enterprises,Share,-0.02
+2018,Current surplus of government enterprises,Share,-0.02
+2019,Current surplus of government enterprises,Share,-0.06
+2020,Current surplus of government enterprises,Share,-0.01
+2021,Current surplus of government enterprises,Share,-0.02
+2022,Current surplus of government enterprises,Share,0.02
+2023,Current surplus of government enterprises,Share,-0.04

@@ -1,7 +1,7 @@
 ﻿SDG_INDICATOR: Age-adjusted rates of death due to unintentional poisoning.
 CONTACT_ORGANISATION: 'National Center for Health Statistics, Underlying Cause of Death File.'
 STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
+UNIT_MEASURE: 'Age-adjusted rates per 100,000 US standard population for the respective year'
 SOURCE_TYPE: 'National Center for Health Statistics, Underlying Cause of Death File.'
 DATA_SOURCE: >-
   Mortality Statistics Branch, Division of Vital Statistics, National Center for
@@ -17,7 +17,7 @@ DATA_COMP: >-
   to the U.S. 2000 standard population distribution. See
   http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates for more detail.
 actual_indicator_available_description: >-
-  Age-adjusted death rate of deaths per year due to unintentional poisoning.
+  Age-adjusted death rate of deaths per year due to unintentional poisoning expressed per 100,000 US standard population.
 date_of_national_source_publication: 'December, 2016'
 periodicity: Annual
 scheduled_update_by_national_source: ''

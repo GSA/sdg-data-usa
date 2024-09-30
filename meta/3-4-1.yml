@@ -5,7 +5,7 @@ CONTACT_ORGANISATION: 'National Vital Statistics System, Underlying Cause of Dea
 STAT_CONC_DEF: >-
   Combined mortality of cardiovascular disease, cancer, diabetes or chronic
   respiratory diseases. 
-UNIT_MEASURE: 'Age-Adjusted rates per US 2000 standard population. '
+UNIT_MEASURE: 'Age-adjusted rates per 100,000 US 2000 standard population for the respective year. '
 SOURCE_TYPE: >-
   National Vital Statistics System, Underlying Cause of Death data file -
   http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm

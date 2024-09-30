@@ -3,7 +3,7 @@
   States.
 CONTACT_ORGANISATION: 'National Vital Statistics System, Underlying Cause of Death data file.'
 STAT_CONC_DEF: ''
-UNIT_MEASURE: Individual.
+UNIT_MEASURE: Number of infant deaths expressed per 1,000 live births for the respective year.
 SOURCE_TYPE: >-
   National Vital Statistics System, Underlying Cause of Death data -linked birth
   dataset - http://www.cdc.gov/nchs/data_access/vitalstatsonline.htm

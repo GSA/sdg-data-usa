@@ -8,10 +8,10 @@ data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
 data_start_values:
-  - field: age
-    value: 15-19
-  - field: age
-    value: 10-14
+  - field: AGE.AGE
+    value: AGE.Y15T19
+  - field: AGE.AGE
+    value: AGE.Y10T14
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''

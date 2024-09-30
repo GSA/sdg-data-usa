@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -14,21 +14,41 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: Mortality rate for US infants and children younger than 5 years old
+graph_target_lines: []
+graph_title: >-
+  Mortality rate (per 1,000) for US infants and children younger than 5 years
+  old
 graph_titles: []
 graph_type: line
-indicator_available: Mortality rate for infants and children younger than 5 years
-  old in the United States
+indicator_available: >-
+  Mortality rate (per 1,000) for infants and children younger than 5 years old
+  in the United States
 indicator_name: global_indicators.3-2-1-title
 indicator_number: 3.2.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

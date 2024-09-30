@@ -1,16 +1,14 @@
 ﻿SDG_INDICATOR: >-
   Estimated size of the population in the Social Security area and percentage
   fully insured, by sex and age 
-CONTACT_ORGANISATION: >-
-  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
-  2023 and prior year publications
+CONTACT_ORGANISATION: The United States Social Security Administration
 STAT_CONC_DEF: ''
 UNIT_MEASURE: Persons
 SOURCE_TYPE: >-
   Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
   2023 and prior year publications -
   https://mwww.ba.ssa.gov/policy/docs/statcomps/supplement/2023/4c.html#table4.c5
-DATA_SOURCE: Eunha Choi
+DATA_SOURCE: 'Office of Research, Evaluation, and Statistics'
 REC_USE_LIM: >-
   Population estimates are subject to revision based on data that are more
   recent.
@@ -31,13 +29,9 @@ disaggregation_categories: None
 international_and_national_references: ''
 time_period: Calendar year 2000 through 2023
 scheduled_update_by_SDG_team: ''
-source_organisation_1: >-
-  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
-  2023 and prior year publications
+source_organisation_1: ''
 source_agency_staff_name_1: Eunha Choi
-source_agency_survey_dataset_1: >-
-  Annual Statistical Supplement to the Social Security Bulletin, Table 4.C.5. –
-  2023 and prior year publications
+source_agency_survey_dataset_1: ''
 source_notes_1: ''
 source_title_1: ''
 source_url_1: >-

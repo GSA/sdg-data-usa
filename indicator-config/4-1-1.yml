@@ -1,4 +1,4 @@
-composite_breakdown_label: ''
+﻿composite_breakdown_label: ''
 computation_units: ''
 copyright: ''
 data_footnote: ''
@@ -14,22 +14,42 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
-graph_title: Percentage 4th grade students at or above "basic" proficiency in reading
+graph_target_lines: []
+graph_title: >-
+  Percentage 4th and 8th  grade students at or above "basic" proficiency in
+  reading
 graph_titles: []
 graph_type: line
-indicator_available: 'Percentage of 4th and 8th grade students at or above "Basic"
-  proficiency in reading and mathematics National Assessment of Educational Progress
-  (NAEP) assessments '
+indicator_available: >-
+  Percentage of 4th and 8th grade students at or above "Basic" proficiency in
+  reading and mathematics National Assessment of Educational Progress (NAEP)
+  assessments 
 indicator_name: global_indicators.4-1-1-title
 indicator_number: 4.1.1
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: not_available
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: complete
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''

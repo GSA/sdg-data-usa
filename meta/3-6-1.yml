@@ -1,7 +1,7 @@
 ﻿SDG_INDICATOR: Death rate due to road traffic injuries.
 CONTACT_ORGANISATION: 'National Center for Health Statistics, Underlying Cause of Death File.'
 STAT_CONC_DEF: ''
-UNIT_MEASURE: ''
+UNIT_MEASURE: 'Age-adjusted rates per 100,000 US 2000 standard population for the respective year'
 SOURCE_TYPE: 'National Center for Health Statistics, Underlying Cause of Death File.'
 DATA_SOURCE: >-
   Mortality Statistics Branch, Division of Vital Statistics, National Center for
