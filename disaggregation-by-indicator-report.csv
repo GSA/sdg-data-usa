@@ -37,7 +37,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-2-1,Units,1
 #8-4-2,Units,1
 #8-5-1,"SEX, AGE",2
-#8-5-2,"SEX, AGE, DISABILITY_STATUS, Units",4
+#8-5-2,"SEX, AGE, Units, DISABILITY_STATUS",4
 #8-6-1,Units,1
 #8-8-1,"SEX, Series",2
 #8-9-1,"Units, Series",2
