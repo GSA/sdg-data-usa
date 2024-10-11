@@ -1,4 +1,4 @@
-﻿SDG_INDICATOR: "\tNumber of Human Trafficking Offenses Reported to the FBI UCR Program.  \t\t\t\t\t\t\t\t\t"
+﻿SDG_INDICATOR: "Number of Human Trafficking Offenses Reported to the FBI UCR Program."
 CONTACT_ORGANISATION: FBI Uniform Crime Reporting Program Data Collection
 STAT_CONC_DEF: ''
 UNIT_MEASURE: "The total number of human trafficking offenses reported, the total number of human trafficking - commercial sex acts offenses reported, the total number of human trafficking - involuntary servitude offenses reported, the number of agencies reporting human trafficking offenses, and the estimated population of the reporting agencies.  \t\t\t\t\t\t"
